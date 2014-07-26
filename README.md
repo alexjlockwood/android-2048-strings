@@ -13,18 +13,24 @@ the instructions below on how to get started. :)
 most other apps, so the translation process should be relatively straightforward:
 
  1. Download/clone this repository to your local machine.
+
  2. The English `string`s are located in the `values/` directory, and are contained in four files:
+
      * **`strings.xml`** contains `string`s used by the application that need to be
       translated.
+
      * **`short_description.txt`** contains the "short description" promo message
       that is displayed on the Play Store. The Play Store enforces an *80 character limit*.
+
      * **`full_description.txt`** contains the "full description" message
       that is displayed on the Play Store. The Play Store enforces a *4000 character limit*.
+
      * **`do_not_translate.xml`** contains `string`s used by the application that don't
       need to be translated. You can ignore this file.
  3. Translated `string`s should go in the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
     and `values-XXX/full_description.txt` files, where `XXX` is your language's
     [locale code](http://www.science.co.il/Language/Locale-codes.asp).
+
  4. When you are finished with your proposed translation, you can submit by
     either [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
     or sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)...
