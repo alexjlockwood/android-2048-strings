@@ -14,17 +14,14 @@ most other apps, so the translation process should be relatively straightforward
 
  1. Download/clone this repository to your local machine.
 
- 2. The English `string`s are located in the `values/` directory, and are contained in four files:
-
+ 2. The English `string`s that need to be translated are located in the `values/`
+    directory, and are contained in four files:
      * **`strings.xml`** contains `string`s used by the application that need to be
       translated.
-
      * **`short_description.txt`** contains the "short description" promo message
       that is displayed on the Play Store. The Play Store enforces an *80 character limit*.
-
      * **`full_description.txt`** contains the "full description" message
       that is displayed on the Play Store. The Play Store enforces a *4000 character limit*.
-
      * **`do_not_translate.xml`** contains `string`s used by the application that don't
       need to be translated. You can ignore this file.
  3. Translated `string`s should go in the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
