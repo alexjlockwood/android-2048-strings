@@ -1,32 +1,56 @@
 2048++ Strings
 ==============
 
+If you are reading this, you are either a random Google-searcher from
+the internet or you expressed interest in helping me translate [2048++](https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight)
+to a new language. If it is the latter, *thank you*! It's my goal to bring 2048++ to as
+many languages as possible, and I really appreciate your help! Feel free to check out
+the instructions below on how to get started. :)
+
+## Instructions
+
+2048++ contains a relatively small number of `string`s that need translating compared to
+most other apps, so the translation process should be relatively straightforward:
+
+ 1. The English `string`s are located in the `values/` directory, which contains four files:
+    
+    * **`strings.xml`** contains `string`s used by the application that need to be
+      translated.
+    * **`short_description.txt`** contains the "short description" promo message
+      (will only ever be displayed on the Play Store).
+    * **`full_description.txt`** contains the "full description" message
+      (will only ever be displayed on the Play Store).
+    * `do_not_translate.xml` contains `string`s used by the application that don't
+      need to be translated. You can ignore this file.
+
+ 2. Translations should be added to the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
+    and `values-XXX/full_description.txt` files, where `XXX` is your language's
+    [locale code](http://www.science.co.il/Language/Locale-codes.asp).
+
+ 3. 
+
 ## Current Status
 
 Support for the following languages have been published to the Play Store:
 
-* English (en)
+ * English (en)
 
-Translations for the following languages have been started and are a work in progress:
+Translations for the following languages are currently a work in progress:
 
-* German (de)
-* Spanish (es)
-* French (fr)
-* Hindi (hi)
-* Italian (it)
-* Hebrew (iw)
-* Punjabi (pa)
-* Portuguese (pt-rBR)
-* Romainian (ro)
-* Russian (ru)
-* Swedish (sv)
-* Turkish (tr)
-* Ukranian (uk)
-* Traditional Chinese (zh-rTW)
-
-## Instructions
-
-* 
+ * German (de)
+ * Spanish (es)
+ * French (fr)
+ * Hindi (hi)
+ * Italian (it)
+ * Hebrew (iw)
+ * Punjabi (pa)
+ * Portuguese (pt-rBR)
+ * Romainian (ro)
+ * Russian (ru)
+ * Swedish (sv)
+ * Turkish (tr)
+ * Ukranian (uk)
+ * Traditional Chinese (zh-rTW)
 
 ## Wanna help translate?
 
@@ -76,3 +100,9 @@ UI-facing `string`s in the English (en) version of the application.
 <a href="http://i.imgur.com/72FFTfx.png"><img src="http://i.imgur.com/72FFTfx.png" width="250px"/></a>
 <a href="http://i.imgur.com/GR1rRaD.png"><img src="http://i.imgur.com/GR1rRaD.png" width="250px"/></a>
 <a href="http://i.imgur.com/6FRLvRe.png"><img src="http://i.imgur.com/6FRLvRe.png" width="250px"/></a>
+
+### Toast Strings
+
+<a href="http://i.imgur.com/vMgMFZ2.png"><img src="http://i.imgur.com/vMgMFZ2.png" width="250px"/></a>
+<a href="http://i.imgur.com/pS9JQTA.png"><img src="http://i.imgur.com/pS9JQTA.png" width="250px"/></a>
+<a href="http://i.imgur.com/H8Fuy3t.png"><img src="http://i.imgur.com/H8Fuy3t.png" width="250px"/></a>
