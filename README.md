@@ -2,7 +2,8 @@ android-2048-strings
 ====================
 
 If you are reading this, you are either a random Google-searcher from
-the internet or you expressed interest in helping me translate [2048++](https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight)
+the internet or you expressed interest in helping me translate
+[2048++](https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight)
 to a new language. If it is the latter, *thank you*! It's my goal to bring 2048++ to as
 many languages as possible, and I really appreciate your help! Feel free to check out
 the instructions below on how to get started. :)
@@ -19,19 +20,25 @@ most other apps, so the translation process should be relatively straightforward
      * **`strings.xml`** contains `string`s used by the application that need to be
       translated.
      * **`short_description.txt`** contains the "short description" promo message
-      that is displayed on the Play Store. The Play Store enforces an *80 character limit*.
+      that is displayed on the Play Store. Note that the Play Store enforces an *80 character limit*.
      * **`full_description.txt`** contains the "full description" message
-      that is displayed on the Play Store. The Play Store enforces a *4000 character limit*.
+      that is displayed on the Play Store. Note that the Play Store enforces a *4000 character limit*.
      * **`do_not_translate.xml`** contains `string`s used by the application that don't
       need to be translated. You can ignore this file.
  3. Translated `string`s should go in the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
     and `values-XXX/full_description.txt` files, where `XXX` is your language's
     [locale code](http://www.science.co.il/Language/Locale-codes.asp).
 
- 4. When you are finished with your proposed translation, you can submit by
+ 4. When you are finished, you can submit your translation by
     either [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
     or sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)...
     choose whichever option is easier for you. :)
+     * **IMPORTANT NOTE:** Please remember to double check your translation for typos, copy/paste
+       errors, etc. before submitting the files. Likewise, if you spot an accidental typo/bug in
+       a `string`, please don't hesitate to notify me of the problem! :)
+
+ 5. When the translation is published, I'll add your name to the About activity 
+    and the app's Play Store listing... it's my way of saying thanks! :)
 
 ## Current Progress
 
