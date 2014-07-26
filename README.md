@@ -37,4 +37,4 @@
 
 <a href="http://i.imgur.com/72FFTfx.png"><img src="http://i.imgur.com/72FFTfx.png" width="250px"/></a>
 <a href="http://i.imgur.com/GR1rRaD.png"><img src="http://i.imgur.com/GR1rRaD.png" width="250px"/></a>
-<a href="http://i.imgur.com/6FRLvRe.png"><img src="http://i.imgur.com/6FRLvRe.png" width="250px"/></a
+<a href="http://i.imgur.com/6FRLvRe.png"><img src="http://i.imgur.com/6FRLvRe.png" width="250px"/></a>
