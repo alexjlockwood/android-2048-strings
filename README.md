@@ -15,30 +15,27 @@ most other apps, so the translation process should be relatively straightforward
 
  1. Download/clone this repository to your local machine.
 
- 2. The English `string`s that need to be translated are located in the `values/`
-    directory, and are contained in four files:
-     * **`strings.xml`** contains `string`s used by the application that need to be
-      translated.
-     * **`short_description.txt`** contains the "short description" promo message
-      that is displayed on the Play Store. Note that the Play Store enforces an *80 character limit*.
-     * **`full_description.txt`** contains the "full description" message
-      that is displayed on the Play Store. Note that the Play Store enforces a *4000 character limit*.
-     * **`do_not_translate.xml`** contains `string`s used by the application that don't
-      need to be translated. You can ignore this file.
+ 2. The `string`s that need translated are contained within three files in the `values/` directory:
+     * <b>`strings.xml`</b> contains the application `string`s that will need to be translated.
+     * <b>`short_description.txt`</b> contains the "short description" promo message
+      that will be displayed in the Play Store (note that the Play Store enforces an *80 character limit*).
+     * <b>`full_description.txt`</b> contains the "full description" message
+      that will be displayed in the Play Store (note that the Play Store enforces a *4000 character limit*).
  3. Translated `string`s should go in the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
     and `values-XXX/full_description.txt` files, where `XXX` is your language's
     [locale code](http://www.science.co.il/Language/Locale-codes.asp).
 
- 4. When you are finished, you can submit your translation by
+ 4. <b>IMPORTANT:</b> Please remember to double check your translation for typos, copy/paste
+     errors, etc. when you finish (and if you think you've spotted an accidental typo/bug,
+     let me know so we can fix it!). :)
+
+ 5. Feel can submit your translation by
     either [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
     or sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)...
     choose whichever option is easier for you. :)
-     * **IMPORTANT NOTE:** Please remember to double check your translation for typos, copy/paste
-       errors, etc. before submitting the files. Likewise, if you spot an accidental typo/bug in
-       a `string`, please don't hesitate to notify me of the problem! :)
 
- 5. When the translation is published, I'll add your name to the About activity 
-    and the app's Play Store listing... it's my way of saying thanks! :)
+ 6. When the translation is published, I'll add your name to the About activity 
+    as well as the Play Store listing... it's my way of saying thanks! :)
 
 ## Current Progress
 

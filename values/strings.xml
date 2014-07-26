@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- UNIVERSAL STRINGS (DO NOT TRANSLATE) -->
+    <string name="app_name">2048++</string>
+    <string name="preference_key_share_app">pref_key_share_app</string>
+    <string name="preference_key_rate_this_app">pref_key_rate_this_app</string>
+    <string name="preference_key_about">pref_key_about</string>
+    <string name="preference_key_sign_in_out">pref_key_sign_in_out</string>
+    <string name="preference_key_google_play_games_settings">pref_key_google_play_games_settings</string>
+    <string name="game_start_score">0</string>
+    <string name="game_start_time">0:00</string>
+    <string name="developed_and_designed_by_value"><a href="http://www.google.com/+AlexLockwood">Alex Lockwood</a> &amp; <a href="http://www.google.com/+ShannonLeeJack">Shannon Lee</a></string>
+    <string name="special_thanks_to_value"><a href="http://gabrielecirulli.com/">Gabriele Cirulli</a> (2048) &amp; <a href="http://joezeng.com/">Joe Zeng</a> (144)</string>
+    <string name="send_feedback_developer_email">twentyfortyeightplusplus@gmail.com</string>
+    <string name="smiley">:)</string>
+    <string name="play_store_app_deep_link">market://details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="play_store_app_link">https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="send_feedback_email_subject">2048++ feedback</string>
+    <string name="game_fibonacci_subtitle">1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</string>
+    <string name="game_144_subtitle">2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3</string>
+    <string name="buy_game_price">$0.99</string>
+    <string name="buy_all_games_price">$1.99</string>
+    <string-array name="game_variants">
+        <item>2048</item>
+        <item>243</item>
+        <item>16384</item>
+        <item>Blitz</item>
+        <item>Fibonacci</item>
+        <item>144</item>
+    </string-array>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="new_game">New Game</string>
+    <string name="resume">Resume</string>
+    <string name="free">Free</string>
+    <string name="pro">Pro</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="buy_game">Buy Game</string>
+    <string name="buy_all_games">Buy All Games</string>
+    <string name="more_games_coming_soon">More games coming soon!</string>
+    <string name="achievements">Achievements</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="settings">Settings</string>
+    <string name="send_feedback">Send Feedback</string>
+
+    <!-- GAME ACTIVITY -->
+    <string name="score">Score</string>
+    <string name="best">Best</string>
+    <string name="share_screenshot">Share Screenshot</string>
+    <string name="show_time">Show Time</string>
+
+    <!-- DIALOGS -->
+    <string name="are_you_sure_warning">Are you sure?</string>
+    <string name="start_new_game_warning">Starting a new game will erase your previous game.</string>
+    <string name="game_over">Game Over</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="sign_in_with_google_dialog_message">Sign in with Google to earn achievements and sync your high scores with the cloud.</string>
+
+    <!-- SETTINGS ACTIVITY -->
+    <string name="about">About</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="show_us_your_support">Show us your support!</string>
+    <string name="share_with_your_friends">Share 2048++ with your friends!</string>
+    <string name="google_play_games">Google Play Games</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="please_sign_in_again">Please sign in again</string>
+    <string name="sign_in_with_google_play_games">Sign in with Google Play Games</string>
+    <string name="manage_your_google_play_games_settings">Manage your Google Play Games settings</string>
+    <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
+    <string name="confirm_sign_out_message">You are about to sign out of this game as %1$s.</string>
+    <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
+    <string name="currently_signed_in_as">Currently signed in as: %1$s</string>
+
+    <!-- ABOUT ACTIVITY -->
+    <string name="contact_us">Contact Us</string>
+    <string name="developed_and_designed_by">Developed &amp; Designed By</string>
+    <string name="special_thanks_to">Special Thanks To</string>
+    <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
+         This string isn't used in the application yet... but it will be when the translations are released! -->
+    <string name="translations_by">Translations By</string>
+
+    <!-- HOW TO PLAY ACTIVITY -->
+    <string name="how_to_play_2048_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>2 tiles</b> with the same number touch, they merge into one.</string>
+    <string name="how_to_play_2048_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 2048 tile?</string>
+    <string name="how_to_play_243_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>3 tiles</b> with the same number touch, they merge into one.</string>
+    <string name="how_to_play_243_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 243 tile?</string>
+    <string name="how_to_play_16384_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When either <b>2 or 4 tiles</b> with the same number touch, they merge into one.</string>
+    <string name="how_to_play_16384_paragraph2">At the end of each move, <b>2 new tiles</b> are placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 16384 tile?</string>
+    <string name="how_to_play_blitz_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>2 tiles</b> with the same number touch, they merge into one.</string>
+    <string name="how_to_play_blitz_paragraph2">New tiles are placed randomly on the grid at fixed intervals, <b>not</b> after each move. The game ends when the grid becomes full and no more tiles can be placed. Can you create the 2048 tile?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When <b>2 consecutive Fibonacci numbers</b> touch, they merge into one to form the next Fibonacci number in the sequence.</string>
+    <string name="how_to_play_fibonacci_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Hint:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When <b>any number of tiles</b> with same number touch, they merge into one.</string>
+    <string name="how_to_play_144_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 144 tile?</string>
+    <string name="how_to_play_144_hint"><b>Hint:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Tap the grid to play a random move!</string>
+
+    <!-- SHARING STRINGS -->
+    <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
+    <string name="share_with">Share with</string>
+    <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
+    <string name="share_app_message">Check out #2048++ on the Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
+         The first and second format string arguments are the game score and game name respectively
+         (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
+    <string name="share_screenshot_message">I scored %1$d in a game of %2$s while playing #2048++!\n\nCheck out the app on the Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+
+    <!-- TOAST STRINGS -->
+    <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
+    <string name="screenshot_saved_to_gallery">Screenshot saved to gallery</string>
+    <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
+    <string name="failed_to_take_screenshot">Failed to take screenshot</string>
+    <!-- Toast message that shows when there was a problem making an in-app purchase -->
+    <string name="failed_to_complete_purchase">Failed to complete purchase</string>
+
+</resources>
