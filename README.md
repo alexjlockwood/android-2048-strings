@@ -30,8 +30,8 @@
 
 ### How To Play Activity
 
-<a href="http://i.imgur.com/pOdhAwb.png"><img src="http://i.imgur.com/pOdhAwb.png" width="250px"/></a>
 <a href="http://i.imgur.com/6FbF8my.png"><img src="http://i.imgur.com/6FbF8my.png" width="250px"/></a>
+<a href="http://i.imgur.com/pOdhAwb.png"><img src="http://i.imgur.com/pOdhAwb.png" width="250px"/></a>
 
 ### Sharing
 
