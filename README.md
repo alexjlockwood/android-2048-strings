@@ -1,5 +1,5 @@
-2048++ Strings
-==============
+android-2048-strings
+====================
 
 If you are reading this, you are either a random Google-searcher from
 the internet or you expressed interest in helping me translate [2048++](https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight)
@@ -12,24 +12,25 @@ the instructions below on how to get started. :)
 2048++ contains a relatively small number of `string`s that need translating compared to
 most other apps, so the translation process should be relatively straightforward:
 
- 1. The English `string`s are located in the `values/` directory, which contains four files:
-    
-    * **`strings.xml`** contains `string`s used by the application that need to be
+ 1. Download/clone this repository to your local machine.
+ 2. The English `string`s are located in the `values/` directory, and are contained in four files:
+     * **`strings.xml`** contains `string`s used by the application that need to be
       translated.
-    * **`short_description.txt`** contains the "short description" promo message
-      (will only ever be displayed on the Play Store).
-    * **`full_description.txt`** contains the "full description" message
-      (will only ever be displayed on the Play Store).
-    * `do_not_translate.xml` contains `string`s used by the application that don't
+     * **`short_description.txt`** contains the "short description" promo message
+      that is displayed on the Play Store. The Play Store enforces an *80 character limit*.
+     * **`full_description.txt`** contains the "full description" message
+      that is displayed on the Play Store. The Play Store enforces a *4000 character limit*.
+     * **`do_not_translate.xml`** contains `string`s used by the application that don't
       need to be translated. You can ignore this file.
-
- 2. Translations should be added to the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
+ 3. Translated `string`s should go in the `values-XXX/strings.xml`, `values-XXX/short_description.txt`,
     and `values-XXX/full_description.txt` files, where `XXX` is your language's
     [locale code](http://www.science.co.il/Language/Locale-codes.asp).
+ 4. When you are finished with your proposed translation, you can submit by
+    either [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
+    or sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)...
+    choose whichever option is easier for you. :)
 
- 3. 
-
-## Current Status
+## Current Progress
 
 Support for the following languages have been published to the Play Store:
 
@@ -52,7 +53,7 @@ Translations for the following languages are currently a work in progress:
  * Ukranian (uk)
  * Traditional Chinese (zh-rTW)
 
-## Wanna help translate?
+## Wanna help translate a new language?
 
 Let me know! You can reach me by messaging me on [Google+](www.google.com/+AlexLockwood)
 or by emailing me at twentyfortyeightplusplus@gmail.com.
