@@ -8,10 +8,7 @@ to a new language. If it is the latter, *thank you*! It's my goal to bring 2048+
 many languages as possible, and I really appreciate your help! Feel free to check out
 the instructions below on how to get started. :)
 
-## Instructions
-
-2048++ contains a relatively small number of `string`s that need translating compared to
-most other apps, so the translation process should be relatively straightforward:
+## Translating Instructions
 
  1. Download/clone this repository to your local machine.
 
@@ -25,14 +22,14 @@ most other apps, so the translation process should be relatively straightforward
     and `values-XXX/full_description.txt` files, where `XXX` is your language's
     [locale code](http://www.science.co.il/Language/Locale-codes.asp).
 
- 4. <b>IMPORTANT:</b> Please remember to double check your translation for typos, copy/paste
-     errors, etc. when you finish (and if you think you've spotted an accidental typo/bug,
-     let me know so we can fix it!). :)
+ 4. <b>IMPORTANT:</b> Remember to double check your translation for typos, copy/paste
+     errors, etc. when you finish just to be safe (and if you think you've spotted
+     an accidental typo/bug, feel free to let me know so we can fix it!). :)
 
  5. Feel can submit your translation by
-    either [creating a pull request](https://help.github.com/articles/creating-a-pull-request)
-    or sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)...
-    choose whichever option is easier for you. :)
+    either sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)
+    or by [creating a pull request](https://help.github.com/articles/creating-a-pull-request)...
+    whichever one is easiest for you. :)
 
  6. When the translation is published, I'll add your name to the About activity 
     as well as the Play Store listing... it's my way of saying thanks! :)
@@ -44,48 +41,48 @@ UI-facing `string`s in the English (en) version of the application.
 
 ### Main Activity
 
-<a href="http://i.imgur.com/Bcc9Koo.png"><img src="http://i.imgur.com/Bcc9Koo.png" width="250px"/></a>
-<a href="http://i.imgur.com/96D2Aac.png"><img src="http://i.imgur.com/96D2Aac.png" width="250px"/></a>
-<a href="http://i.imgur.com/5hDYgPI.png"><img src="http://i.imgur.com/5hDYgPI.png" width="250px"/></a>
-<a href="http://i.imgur.com/wQKGBo0.png"><img src="http://i.imgur.com/wQKGBo0.png" width="250px"/></a>
+<a href="http://i.imgur.com/Bcc9Koo.png"><img src="http://i.imgur.com/Bcc9Koo.png" width="200px"/></a>
+<a href="http://i.imgur.com/96D2Aac.png"><img src="http://i.imgur.com/96D2Aac.png" width="200px"/></a>
+<a href="http://i.imgur.com/5hDYgPI.png"><img src="http://i.imgur.com/5hDYgPI.png" width="200px"/></a>
+<a href="http://i.imgur.com/wQKGBo0.png"><img src="http://i.imgur.com/wQKGBo0.png" width="200px"/></a>
 
 ### Game Activity
 
-<a href="http://i.imgur.com/aJV6IPP.png"><img src="http://i.imgur.com/aJV6IPP.png" width="250px"/></a>
-<a href="http://i.imgur.com/PA09J1z.png"><img src="http://i.imgur.com/PA09J1z.png" width="250px"/></a>
+<a href="http://i.imgur.com/aJV6IPP.png"><img src="http://i.imgur.com/aJV6IPP.png" width="200px"/></a>
+<a href="http://i.imgur.com/PA09J1z.png"><img src="http://i.imgur.com/PA09J1z.png" width="200px"/></a>
 
 ### Dialogs
 
-<a href="http://i.imgur.com/taFnp11.png"><img src="http://i.imgur.com/taFnp11.png" width="250px"/></a>
-<a href="http://i.imgur.com/K0fP4Ky.png"><img src="http://i.imgur.com/K0fP4Ky.png" width="250px"/></a>
-<a href="http://i.imgur.com/j96rfqm.png"><img src="http://i.imgur.com/j96rfqm.png" width="250px"/></a>
+<a href="http://i.imgur.com/taFnp11.png"><img src="http://i.imgur.com/taFnp11.png" width="200px"/></a>
+<a href="http://i.imgur.com/K0fP4Ky.png"><img src="http://i.imgur.com/K0fP4Ky.png" width="200px"/></a>
+<a href="http://i.imgur.com/j96rfqm.png"><img src="http://i.imgur.com/j96rfqm.png" width="200px"/></a>
 
 ### Settings Activity
 
-<a href="http://i.imgur.com/O9RL1Ha.png"><img src="http://i.imgur.com/O9RL1Ha.png" width="250px"/></a>
-<a href="http://i.imgur.com/rf1DOHA.png"><img src="http://i.imgur.com/rf1DOHA.png" width="250px"/></a>
-<a href="http://i.imgur.com/j8dlbDh.png"><img src="http://i.imgur.com/j8dlbDh.png" width="250px"/></a>
+<a href="http://i.imgur.com/O9RL1Ha.png"><img src="http://i.imgur.com/O9RL1Ha.png" width="200px"/></a>
+<a href="http://i.imgur.com/rf1DOHA.png"><img src="http://i.imgur.com/rf1DOHA.png" width="200px"/></a>
+<a href="http://i.imgur.com/j8dlbDh.png"><img src="http://i.imgur.com/j8dlbDh.png" width="200px"/></a>
 
 ### About Activity
 
-<a href="http://i.imgur.com/UEjecv7.png"><img src="http://i.imgur.com/UEjecv7.png" width="250px"/></a>
+<a href="http://i.imgur.com/UEjecv7.png"><img src="http://i.imgur.com/UEjecv7.png" width="200px"/></a>
 
 ### How To Play Activity
 
-<a href="http://i.imgur.com/6FbF8my.png"><img src="http://i.imgur.com/6FbF8my.png" width="250px"/></a>
-<a href="http://i.imgur.com/pOdhAwb.png"><img src="http://i.imgur.com/pOdhAwb.png" width="250px"/></a>
+<a href="http://i.imgur.com/6FbF8my.png"><img src="http://i.imgur.com/6FbF8my.png" width="200px"/></a>
+<a href="http://i.imgur.com/pOdhAwb.png"><img src="http://i.imgur.com/pOdhAwb.png" width="200px"/></a>
 
 ### Sharing Strings
 
-<a href="http://i.imgur.com/72FFTfx.png"><img src="http://i.imgur.com/72FFTfx.png" width="250px"/></a>
-<a href="http://i.imgur.com/GR1rRaD.png"><img src="http://i.imgur.com/GR1rRaD.png" width="250px"/></a>
-<a href="http://i.imgur.com/6FRLvRe.png"><img src="http://i.imgur.com/6FRLvRe.png" width="250px"/></a>
+<a href="http://i.imgur.com/72FFTfx.png"><img src="http://i.imgur.com/72FFTfx.png" width="200px"/></a>
+<a href="http://i.imgur.com/GR1rRaD.png"><img src="http://i.imgur.com/GR1rRaD.png" width="200px"/></a>
+<a href="http://i.imgur.com/6FRLvRe.png"><img src="http://i.imgur.com/6FRLvRe.png" width="200px"/></a>
 
 ### Toast Strings
 
-<a href="http://i.imgur.com/vMgMFZ2.png"><img src="http://i.imgur.com/vMgMFZ2.png" width="250px"/></a>
-<a href="http://i.imgur.com/pS9JQTA.png"><img src="http://i.imgur.com/pS9JQTA.png" width="250px"/></a>
-<a href="http://i.imgur.com/H8Fuy3t.png"><img src="http://i.imgur.com/H8Fuy3t.png" width="250px"/></a>
+<a href="http://i.imgur.com/vMgMFZ2.png"><img src="http://i.imgur.com/vMgMFZ2.png" width="200px"/></a>
+<a href="http://i.imgur.com/pS9JQTA.png"><img src="http://i.imgur.com/pS9JQTA.png" width="200px"/></a>
+<a href="http://i.imgur.com/H8Fuy3t.png"><img src="http://i.imgur.com/H8Fuy3t.png" width="200px"/></a>
 
 ## Current Progress
 
