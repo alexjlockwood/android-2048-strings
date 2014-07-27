@@ -3,91 +3,91 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">Nuovo</string>
+    <string name="resume">Continua</string>
+    <string name="free">Gratis</string>
+    <string name="pro">Pro</string>
+    <string name="how_to_play">Come giocare</string>
+    <string name="buy_game">Acquista</string>
+    <string name="buy_all_games">Acquista tutti i giochi</string>
+    <string name="more_games_coming_soon">Altri giochi saranno presto disponibili</string>
+    <string name="achievements">Obiettivi</string>
+    <string name="leaderboards">Classifiche</string>
+    <string name="settings">Impostazioni</string>
+    <string name="send_feedback">Feedback</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">Punteggio</string>
+    <string name="best">Record</string>
+    <string name="share_screenshot">Condividi screenshot</string>
+    <string name="show_time">Mostra il tempo</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">Sei sicuro?</string>
+    <string name="start_new_game_warning">Iniziando un nuovo gioco la partita corrente verrà cancellata</string>
+    <string name="game_over">Gioco terminato</string>
+    <string name="moves">Mosse</string>
+    <string name="time">Tempo</string>
+    <string name="sign_in_with_google_dialog_message">Effettua il login con Google per viualizzare le classifiche e sincronizzare i dati nel cloud</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">Info</string>
+    <string name="rate">Valuta</string>
+    <string name="share">Condividi</string>
+    <string name="show_us_your_support">Aiutaci con la tua valutazione</string>
+    <string name="share_with_your_friends">Condividi con i tuoi amici</string>
+    <string name="google_play_games">Google play games</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
+    <string name="please_sign_in_again">Per favore effettua il login nuovamente</string>
+    <string name="sign_in_with_google_play_games">Effettua il login con il Google Play Games</string>
+    <string name="manage_your_google_play_games_settings">Gestisci le impostazioni del Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">Sei sicuro di volere effettuare il logout dall\'utente %1$s </string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">Sei loggato con l\' utente: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">Contattaci</string>
+    <string name="developed_and_designed_by">Sviluppato e disegnato da</string>
+    <string name="special_thanks_to">Un ringraziamento speciale a</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">Traduzioni di</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>2 tessere</b> con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_2048_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse. Riuscirai a realizzare la tessera con 2048?</string>
+    <string name="how_to_play_243_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>3 tessere</b> con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_243_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse. Riuscirai a realizzare la tessera con 243?</string>
+    <string name="how_to_play_16384_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>2 o 4 tessere</b> con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_16384_paragraph2">Alla fine di ogni mossa, <b>2 nuove tessere</b> vengono posizionate in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse. Riuscirai a realizzare la tessera con 16348?</string>
+    <string name="how_to_play_blitz_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>2 tessere</b> con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_blitz_paragraph2">Nuove tessere vengono posizionate in modo casuale nella griglia ad intervalli regolari e <b>NON</b> dopo ogni mossa. Il gioco termina quando la griglia è piena e non potranno essere inserite nuove tessere. Riuscirai a realizzare la tessera con 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>2 numeri consecutivi della serie di Fibonacci</b> si toccano, vengono unite in una nuova tessera con il numero di Fibonacci successivo nella serie.</string>
+    <string name="how_to_play_fibonacci_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Consiglio:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando <b>un numero qualsiasi di tessere</b> con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_144_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse. Riuscirai a realizzare la tessera con 144?</string>
+    <string name="how_to_play_144_hint"><b>Consiglio:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Clicca sulla griglia per una mossa casuale!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">Condividi con</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message">Scarica #2048++ dal Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">Ho realizzato il punteggio di %1$d nella partita a %2$s giocando a #2048++!\n\nScarica l\'app dal Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">Immagine salvata nella galleria</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">Errore nel salvataggio dell\'immagine</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">Errore durante l\'acquisto</string>
 
 </resources>
