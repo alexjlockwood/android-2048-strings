@@ -37,37 +37,9 @@ most other apps, so the translation process should be relatively straightforward
  6. When the translation is published, I'll add your name to the About activity 
     as well as the Play Store listing... it's my way of saying thanks! :)
 
-## Current Progress
-
-Support for the following languages have been published to the Play Store:
-
- * English (en)
-
-Translations for the following languages are currently a work in progress:
-
- * German (de)
- * Spanish (es)
- * French (fr)
- * Hindi (hi)
- * Italian (it)
- * Hebrew (iw)
- * Punjabi (pa)
- * Portuguese (pt-rBR)
- * Romainian (ro)
- * Russian (ru)
- * Swedish (sv)
- * Turkish (tr)
- * Ukranian (uk)
- * Traditional Chinese (zh-rTW)
-
-## Wanna help translate a new language?
-
-Let me know! You can reach me by messaging me on [Google+](www.google.com/+AlexLockwood)
-or by emailing me at twentyfortyeightplusplus@gmail.com.
-
 ## Screenshots
 
-For your convenience, below is a list of screenshots capturing almost all
+For your convenience, below is a list of screenshots capturing all of the
 UI-facing `string`s in the English (en) version of the application.
 
 ### Main Activity
@@ -114,3 +86,31 @@ UI-facing `string`s in the English (en) version of the application.
 <a href="http://i.imgur.com/vMgMFZ2.png"><img src="http://i.imgur.com/vMgMFZ2.png" width="250px"/></a>
 <a href="http://i.imgur.com/pS9JQTA.png"><img src="http://i.imgur.com/pS9JQTA.png" width="250px"/></a>
 <a href="http://i.imgur.com/H8Fuy3t.png"><img src="http://i.imgur.com/H8Fuy3t.png" width="250px"/></a>
+
+## Current Progress
+
+Support for the following languages have been published to the Play Store:
+
+ * English (en)
+
+Translations for the following languages are currently a work in progress:
+
+ * German (de)
+ * Spanish (es)
+ * French (fr)
+ * Hindi (hi)
+ * Italian (it)
+ * Hebrew (iw)
+ * Punjabi (pa)
+ * Portuguese (pt-rBR)
+ * Romainian (ro)
+ * Russian (ru)
+ * Swedish (sv)
+ * Turkish (tr)
+ * Ukranian (uk)
+ * Traditional Chinese (zh-rTW)
+
+## Wanna help translate a new language?
+
+Let me know! You can reach me by messaging me on [Google+](www.google.com/+AlexLockwood)
+or by emailing me at twentyfortyeightplusplus@gmail.com.
