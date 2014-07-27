@@ -26,10 +26,11 @@ the instructions below on how to get started. :)
      errors, etc. when you finish just to be safe (and if you think you've spotted
      an accidental typo/bug, feel free to let me know so we can fix it!). :)
 
- 5. Feel can submit your translation by
-    either sending me the translated files by [email](twentyfortyeightplusplus@gmail.com)
-    or by [creating a pull request](https://help.github.com/articles/creating-a-pull-request)...
-    whichever one is easiest for you. :)
+ 5. The easiest way to submit your translation is by
+    [creating a pull request](https://help.github.com/articles/creating-a-pull-request).
+    Feel free to send me the translated files directly via
+    [email](twentyfortyeightplusplus@gmail.com) as well... whichever option is easiest
+    for you. :)
 
  6. When the translation is published, I'll add your name to the About activity 
     as well as the Play Store listing... it's my way of saying thanks! :)
