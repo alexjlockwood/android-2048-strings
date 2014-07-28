@@ -1,5 +1,5 @@
 Short description (80 character limit)
 ======================================
 
-
+Finalmente um maravilhoso aplicativo de 2048 que é 100% nativo para Android e 100% Ad-free!
 

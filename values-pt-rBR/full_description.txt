@@ -1,4 +1,17 @@
 Full description (4000 character limit)
 ======================================
 
+2048++ é facilmente o mais limpo e ágil 2048 aplicativo para Android.
+
+* Seis diferente modos de jogo: 2048, 243, 16384, Blitz, Fibonacci, e 144. Mais modos em breve.
+* Design simples e colorido com cores inspiradas na interfaz Holo.
+* Inacreditávelmente fluido com animações realistas.
+* Sincronize seus recordes com todos os seus aparelhos.
+* Conecte-se com Google Play Games para placares de liderança e troféus.
+* 100% nativo e 100% Ad-Free.
+
+2048 e um clássico jogo de puzzle incrívelmente fácil de aprender e aditivo. Arraste para a esquerda, direita, para cima ou para baixo para deslizar os azulejos na grade. Quando dois azulejos com o mesmo numero se tocam, eles se transformam em um. O jogo acaba quando você não pode mais mover nenhum azulejo. Começe a jogar com os número e você não podera mais parar.
+
+
+(c) 2014 Alex Lockwood & Shannon Lee
 

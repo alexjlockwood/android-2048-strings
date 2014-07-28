@@ -3,91 +3,97 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="resume">Resumir</string>
+    <string name="free">Grátis</string>
+    <string name="pro">Pro</string>
+    <string name="how_to_play">Como Jogar</string>
+    <string name="buy_game">Comprar Jogo</string>
+    <string name="buy_all_games">Comprar todos os jogos</string>
+    <string name="more_games_coming_soon">Mais jogos em breve!</string>
+    <string name="achievements">Troféus</string>
+    <string name="leaderboards">Placares</string>
+    <string name="settings">Configurações</string>
+    <string name="send_feedback">Envie Feedback</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">Pontuação</string>
+    <string name="best">Melhor Pontuação</string>
+    <string name="share_screenshot">Compartilhe Screenshot</string>
+    <string name="show_time">Mostrar Tempo</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">Você tem certeza?</string>
+    <string name="start_new_game_warning">Começar um novo jogo vai deletar o seu anterior jogo.</string>
+    <string name="game_over">Game Over</string>
+    <string name="moves">Movimentos</string>
+    <string name="time">Tempo</string>
+    <string name="sign_in_with_google_dialog_message">Conecte-se com Google para ganhar troféus e sincronizar a sua máxima pontuação na nuvem.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">Sobre</string>
+    <string name="rate">Rate</string>
+    <string name="share">Compartilhe</string>
+    <string name="show_us_your_support">Mostre-nos o seu suporte!</string>
+    <string name="share_with_your_friends">Compartilhe 2048++ com os seus amigos!</string>
+    <string name="google_play_games">Google Play Games</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="please_sign_in_again">Por favor conecte-se mais uma vez</string>
+    <string name="sign_in_with_google_play_games">Sign in com Google Play Games</string>
+    <string name="manage_your_google_play_games_settings">Administre as configurações do Google Play Games.</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">Você está prestes a sair deste jogo como %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">Atualmente conectado como: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">Contate-nos</string>
+    <string name="developed_and_designed_by">Desenvolvido &amp; Designed By</string>
+    <string name="special_thanks_to">Agradecimentos especiais a</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">Traduzido por Marcus Gabilheri</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando exatamente<b>2 azulejos</b> com o mesmo número tocam, eles se fundem em um só.</string>
+    <string name="how_to_play_2048_paragraph2">No final de cada movimento, <b>1 novo azulejo</b> é colocado aleatoriamente na grade. O jogo termina quando você não pode realizar nenhum movimento. Você pode criar o azulejo 2048?</string>
+
+    <string name="how_to_play_243_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando exatamente <b>3 azulejos</b> com o mesmo número tocam, eles se fundem em um só.</string>
+    <string name="how_to_play_243_paragraph2">No final de cada movimento, <b>1 novo azulejo</b> é colocado aleatoriamente na grade. O jogo termina quando você não pode realizar nenhum movimento. Você pode criar o azulejo 243?</string>
+
+    <string name="how_to_play_16384_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando exatamente <b>2 ou 4 azulejos</b> com o mesmo número tocam, eles se fundem em um só.</string>
+    <string name="how_to_play_16384_paragraph2">No final de cada movimento, <b>2 novos azulejos</b> são colocados aleatoriamente na grade. O jogo termina quando você não pode realizar nenhum movimento. Você pode criar o azulejo 16384?</string>
+
+    <string name="how_to_play_blitz_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando exatamente <b>2 azulejos</b> com o mesmo número tocam, eles se fundem em um só.</string>
+    <string name="how_to_play_blitz_paragraph2">Novos azulejos são colocados no aleatoriamente na grade em intervalos fixos, <b>e não</b> depois de cada movimento. O jogo termina quando a grade estiver cheia e não seja possível colocar mais azulejos. Você pode criar o azulejo 2048?</string>
+
+    <string name="how_to_play_fibonacci_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando <b>2 consecutivos números Fibonacci </b> tocam, eles se fundem em um só para formar o próximo número da seqüência Fibonacci.</string>
+    <string name="how_to_play_fibonacci_paragraph2">No final de cada movimento, <b>1 novo azulejo</b> é colocado aleatoriamente na grade. O jogo termina quando você não pode realizar nenhum movimento.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Sugestão:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+
+    <string name="how_to_play_144_paragraph1">Arraste para a esquerda, direita, para cima, ou para baixo para deslizar os azulejos na grade. Quando <b>qualquer número de azulejos</b> com o mesmo número se tocam, eles se fundem em um só.</string>
+    <string name="how_to_play_144_paragraph2">No final de cada movimento, <b>1 novo azulejo</b> é colocado aleatoriamente na grade. O jogo termina quando a grade estiver cheia e não seja possível colocar mais azulejos. Você pode criar o azulejo 144?</string>
+    <string name="how_to_play_144_hint"><b>Sugestão:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Toque na grade para realizar um movimento aleatório!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">Compartilhe com</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message">Confira #2048++ na Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">Eu consegui %1$d no jogo %2$s enquanto jogava #2048++!\n\nConfira o aplciativo na Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">Screenshot salvado na galeria.</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">Não foi possível salvar a screenshot.</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">Não foi possível completar a compra.</string>
+
 
 </resources>
