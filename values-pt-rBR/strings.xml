@@ -5,7 +5,7 @@
     <!-- MAIN ACTIVITY -->
     <string name="new_game">Novo Jogo</string>
     <string name="resume">Resumir</string>
-    <string name="free">Grátis</string>
+    <string name="free">Gratuito</string>
     <string name="pro">Pro</string>
     <string name="how_to_play">Como Jogar</string>
     <string name="buy_game">Comprar Jogo</string>
@@ -38,10 +38,10 @@
     <string name="show_us_your_support">Mostre-nos o seu suporte!</string>
     <string name="share_with_your_friends">Compartilhe 2048++ com os seus amigos!</string>
     <string name="google_play_games">Google Play Games</string>
-    <string name="sign_in">Sign in</string>
-    <string name="sign_out">Sign out</string>
-    <string name="please_sign_in_again">Por favor conecte-se mais uma vez</string>
-    <string name="sign_in_with_google_play_games">Sign in com Google Play Games</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
+    <string name="please_sign_in_again">Por favor faça login novamente.</string>
+    <string name="sign_in_with_google_play_games">Login com Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Administre as configurações do Google Play Games.</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
     <string name="confirm_sign_out_message">Você está prestes a sair deste jogo como %1$s.</string>
