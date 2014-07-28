@@ -30,6 +30,7 @@
     <string name="time">Tempo</string>
     <string name="sign_in_with_google_dialog_message">Conecte-se com Google para ganhar troféus e sincronizar a sua máxima pontuação na nuvem.</string>
 
+
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Sobre</string>
     <string name="rate">Rate</string>
