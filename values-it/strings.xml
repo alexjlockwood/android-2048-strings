@@ -24,7 +24,8 @@
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Sei sicuro?</string>
-    <string name="start_new_game_warning">Iniziando un nuovo gioco la partita corrente verrà cancellata</string>
+    <string name="start_new_game_warning">Iniziando un nuovo gioco la partita precedente verrà cancellata</string>
+    <string name="start_new_game_warning_current">Iniziando un nuovo gioco la partita corrente verrà cancellata</string>
     <string name="game_over">Gioco terminato</string>
     <string name="moves">Mosse</string>
     <string name="time">Tempo</string>
