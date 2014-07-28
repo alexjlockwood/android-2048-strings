@@ -37,8 +37,8 @@
     <string name="show_us_your_support">Mostre para nós o seu apoio!</string>
     <string name="share_with_your_friends">Compartilhe 2048++ com seus amigos!</string>
     <string name="google_play_games">Google Play Jogos</string>
-    <string name="sign_in">Fazer login</string>
-    <string name="sign_out">Sair</string>
+    <string name="sign_in">Login</string>
+    <string name="sign_out">Logout</string>
     <string name="please_sign_in_again">Por favor, faça login novamente</string>
     <string name="sign_in_with_google_play_games">Login com Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Altere as suas configurações do Google Play Games</string>
@@ -50,7 +50,7 @@
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Entre em Contato</string>
     <string name="developed_and_designed_by">Desenvolvido &amp; e Desenhado por</string>
-    <string name="special_thanks_to">Muito obrigado Para</string>
+    <string name="special_thanks_to">Muito Obrigado A</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
     <string name="translations_by">Traduções Por</string>
@@ -61,14 +61,14 @@
     <string name="how_to_play_243_paragraph1">Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando exatamente <b>3 blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
     <string name="how_to_play_243_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento. Você consegue criar um bloco 243?</string>
     <string name="how_to_play_16384_paragraph1">Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando exatamente <b>2 ou 4 blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
-    <string name="how_to_play_16384_paragraph2">No fim de cada movimento, <b>2 novos blocos</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento. Você consegue criar um bloco 16384?</string>
+    <string name="how_to_play_16384_paragraph2">No fim de cada movimento, <b>2 novos blocos</b> são colocados aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento. Você consegue criar um bloco 16384?</string>
     <string name="how_to_play_blitz_paragraph1">Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando exatamente <b>2 blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
-    <string name="how_to_play_blitz_paragraph2">Novos blocos são colocados na grade em intervalos fixos, <b>não</b> depois de cada movimento. O jogo termina quando a grade está cheia e nenhum outro bloco pode ser inserido. Você consegue criar um bloco 16384?</string>
+    <string name="how_to_play_blitz_paragraph2">Novos blocos são colocados na grade em intervalos fixos, <b>não</b> depois de cada movimento. O jogo termina quando a grade está cheia e nenhum outro bloco pode ser inserido. Você consegue criar um bloco 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando <b>2 números consecutivos de Fibonacci</b> se tocam, eles se juntam em um só formando o próximo número de Fibonacci em sequência.</string>
     <string name="how_to_play_fibonacci_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento.</string>
     <string name="how_to_play_fibonacci_hint">1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando <b>qualquer número de blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
-    <string name="how_to_play_144_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento. Você consegue criar um bloco 16384?</string>
+    <string name="how_to_play_144_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento. Você consegue criar um bloco 144?</string>
     <string name="how_to_play_144_hint"><b>Dica:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">Toque na grade para fazer um movimento aleatório!</string>
 
