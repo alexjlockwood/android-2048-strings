@@ -53,6 +53,7 @@
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Are you sure?</string>
     <string name="start_new_game_warning">Starting a new game will erase your previous game.</string>
+    <string name="start_new_game_warning_current">Starting a new game will erase your current game.</string>
     <string name="game_over">Game Over</string>
     <string name="moves">Moves</string>
     <string name="time">Time</string>
