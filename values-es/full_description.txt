@@ -1,4 +1,15 @@
 Full description (4000 character limit)
 ======================================
 
+2048++ es sin duda la aplicación 2048 para Android más elegante y precisa.
 
+* Seis variantes de juego: 2048, 243, 16384, Blitz, Fibonacci y 144. ¡Más modalidades en camino!
+* Un diseño sencillo y con una interfaz de usuario muy colorida e inspirada en Holo.
+* Animaciones increíblemente suaves y realistas.
+* Sincroniza tus records en todos tus dispositivos.
+* Inicia sesión con Google Play Games para acceder a clasificaciones y logros.
+* 100% nativa y 100% sin publicidad.
+
+2048 es un juego de puzzle clásico, fácil de entender y muy adictivo. Desliza a izquierda, derecha, arriba o abajo para mover los bloques por la cuadrícula. Cuando dos bloques con el mismo número se tocan, se fusionan en uno. La partida acaba cuando ya no puedes realizar más movimientos. ¡Empieza a unir números y no podrás parar!
+
+(c) 2014 Alex Lockwood & Shannon Lee
