@@ -25,6 +25,7 @@
     <!-- DIALOGS -->
     <string name="are_you_sure_warning"></string>
     <string name="start_new_game_warning"></string>
+    <string name="start_new_game_warning_current"></string>
     <string name="game_over"></string>
     <string name="moves"></string>
     <string name="time"></string>
