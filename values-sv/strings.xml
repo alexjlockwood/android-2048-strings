@@ -3,92 +3,92 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">Ny omgång</string>
+    <string name="resume">Fortsätt</string>
+    <string name="free">Gratis</string>
+    <string name="pro">Premium</string>
+    <string name="how_to_play">Hur man spelar</string>
+    <string name="buy_game">Köp spelet</string>
+    <string name="buy_all_games">Köp alla spel</string>
+    <string name="more_games_coming_soon">Fler spel kommer snart!</string>
+    <string name="achievements">Utmärkelser</string>
+    <string name="leaderboards">Topplistor</string>
+    <string name="settings">Inställningar</string>
+    <string name="send_feedback">Skicka synpunkter</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">Poäng</string>
+    <string name="best">Bästa</string>
+    <string name="share_screenshot">Dela skärmdump</string>
+    <string name="show_time">Visa tid</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="start_new_game_warning_current"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">Är du säker?</string>
+    <string name="start_new_game_warning">Att starta om på nytt kommer radera din föregående omgång.</string>
+    <string name="start_new_game_warning_current">Att starta om på nytt kommer radera din nuvarande omgång.</string>
+    <string name="game_over">Game Over</string>
+    <string name="moves">Drag</string>
+    <string name="time">Tid</string>
+    <string name="sign_in_with_google_dialog_message">Logga in med Google för att tjäna utmärkelser och synka dina rekord med molnet.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">Om</string>
+    <string name="rate">Betygsätt</string>
+    <string name="share">Dela</string>
+    <string name="show_us_your_support">Visa ditt stöd!</string>
+    <string name="share_with_your_friends">Dela 2048++ med dina vänner!</string>
+    <string name="google_play_games">Google Play Spel</string>
+    <string name="sign_in">Logga in</string>
+    <string name="sign_out">Logga ut</string>
+    <string name="please_sign_in_again">Vänligen logga in igen</string>
+    <string name="sign_in_with_google_play_games">Logga in med Google Play Spel</string>
+    <string name="manage_your_google_play_games_settings">Hantera dina Google Play Games-inställningar</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">Du är på väg att logga ut från detta spel som %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">För närvarande inloggad som: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">Kontakta oss</string>
+    <string name="developed_and_designed_by">Utvecklat &amp; designat av</string>
+    <string name="special_thanks_to">Särskilt tack till</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">Översatt av</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När exakt <b>2 brickor</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_2048_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag. Kan du skapa 2048-brickan?</string>
+    <string name="how_to_play_243_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När exakt <b>3 brickor</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_243_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag. Kan du skapa 243-brickan?</string>
+    <string name="how_to_play_16384_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När antingen <b>2 eller 4 brickor</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_16384_paragraph2">Efter varje drag, kommer <b>2 nya brickor</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag. Kan du skapa 16384-brickan?</string>
+    <string name="how_to_play_blitz_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När <b>2 brickor</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_blitz_paragraph2">Nya brickor kommer slumpmässigt placeras ut på spelplanen vid fasta tidpunkter, <b>inte</b> efter varje drag. Spelet är slut när spelplanen är full och du inte kan utföra fler drag. Kan du skapa 2048-brickan?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När <b>2 på varandra följande Fibonaccinummer</b> berör varandra, slås de samman till nästa Fibonaccinummer i serien.</string>
+    <string name="how_to_play_fibonacci_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Tips:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Svep till vänster, höger, upp, eller ner för att flytta brickorna över spelplanen. När <b>någon bricka</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_144_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag. Kan du skapa 144-brickan?</string>
+    <string name="how_to_play_144_hint"><b>Tips:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Knacka på spelplanen för att göra ett slumpmässigt drag!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">Dela med</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message">Kolla in #2048++ på Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfoureight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">Jag fick %1$d poäng efter en omgång %2$s när jag spelat #2048++!\n\nKolla in appen på Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfoureight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">Skärmdumpen är sparad till galleriet</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">Misslyckades med att ta en skärmdump</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">Misslyckades med att avsluta köpet</string>
 
 </resources>
