@@ -1,4 +1,19 @@
 Full description (4000 character limit)
 ======================================
 
+2048++ är utan tvekan den renaste, mest responsiva 2048-appen till Android.
 
+* Sex spelvarianter: 2048, 243, 16384, Blitz, Fibonacci, och 144. Fler kommer snart!
+* En enkel design med ett färggrannt, Holo-inspirerat utseende.
+* Galet mjuka och realistiska animationer.
+* Synka dina rekord på alla dina enheter.
+* Logga in med Google Play Spel för topplistor och utmärkelser.
+* 100% native och 100% reklamfri.
+
+2048 är ett klassiskt pusselspel som är enkelt att sätta sig in i och väldigt
+beroendeframkallande. Svep till vänster, höger, upp, eller ned för att flytta
+brickorna över spelplanen. När två brickor med samma siffra berör varandra
+slås de samman till en. Spelet är slut när du inte kan utföra fler drag. När
+du väl börjat slå samman siffrorna kommer du inte kunna sluta!
+
+(c) 2014 Alex Lockwood & Shannon Lee
