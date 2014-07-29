@@ -24,7 +24,8 @@
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Você tem certeza?</string>
-    <string name="start_new_game_warning">Começar um novo jogo vai apagar o seu jogo anterior</string>
+    <string name="start_new_game_warning">Começar um novo jogo vai apagar o seu jogo anterior.</string>
+    <string name="start_new_game_warning_current">Começar um novo jogo vai apagar o seu jogo atual.</string>
     <string name="game_over">Fim de jogo</string>
     <string name="moves">Movimentos</string>
     <string name="time">Tempo</string>
