@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- UNIVERSAL STRINGS (DO NOT TRANSLATE) -->
+    <string name="app_name">2048++</string>
+    <string name="preference_key_share_app">pref_key_share_app</string>
+    <string name="preference_key_rate_this_app">pref_key_rate_this_app</string>
+    <string name="preference_key_about">pref_key_about</string>
+    <string name="preference_key_sign_in_out">pref_key_sign_in_out</string>
+    <string name="preference_key_google_play_games_settings">pref_key_google_play_games_settings</string>
+    <string name="game_start_score">0</string>
+    <string name="game_start_time">0:00</string>
+    <string name="developed_and_designed_by_value"><a href="http://www.google.com/+AlexLockwood">Alex Lockwood</a> &amp; <a href="http://www.google.com/+ShannonLeeJack">Shannon Lee</a></string>
+    <string name="special_thanks_to_value"><a href="http://gabrielecirulli.com/">Gabriele Cirulli</a> (2048) &amp; <a href="http://joezeng.com/">Joe Zeng</a> (144)</string>
+    <string name="send_feedback_developer_email">twentyfortyeightplusplus@gmail.com</string>
+    <string name="smiley">:)</string>
+    <string name="play_store_app_deep_link">market://details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="play_store_app_link">https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="send_feedback_email_subject">2048++ feedback</string>
+    <string name="game_fibonacci_subtitle">1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</string>
+    <string name="game_144_subtitle">2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3</string>
+    <string name="buy_game_price">$0.99</string>
+    <string name="buy_all_games_price">$1.99</string>
+    <string-array name="game_variants">
+        <item>2048</item>
+        <item>243</item>
+        <item>16384</item>
+        <item>Blitz</item>
+        <item>Fibonacci</item>
+        <item>144</item>
+    </string-array>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="new_game">Nowa gra</string>
+    <string name="resume">Wznów</string>
+    <string name="free">Free</string>
+    <string name="pro">Pro</string>
+    <string name="how_to_play">Jak grać</string>
+    <string name="buy_game">Kup grę</string>
+    <string name="buy_all_games">Kup wszystkie gry</string>
+    <string name="more_games_coming_soon">Więcej gier wkrótce!</string>
+    <string name="achievements">Osiągnięcia</string>
+    <string name="leaderboards">Wyniki</string>
+    <string name="settings">Ustawienia</string>
+    <string name="send_feedback">Prześlij opinię</string>
+
+    <!-- GAME ACTIVITY -->
+    <string name="score">Wynik</string>
+    <string name="best">Najlepszy</string>
+    <string name="share_screenshot">Udostępnij zrzut ekranu</string>
+    <string name="show_time">Pokaż czas</string>
+
+    <!-- DIALOGS -->
+    <string name="are_you_sure_warning">Jesteś pewny(a)?</string>
+    <string name="start_new_game_warning">Rozpoczęcie nowej gry spowoduje utracenie postępu poprzedniej gry.</string>
+    <string name="start_new_game_warning_current">Rozpoczęcie nowej gry spowoduje utracenie postępu obecnej gry.</string>
+    <string name="game_over">Koniec gry</string>
+    <string name="moves">Ruchy</string>
+    <string name="time">Czas</string>
+    <string name="sign_in_with_google_dialog_message">Zaloguj się używając konta Google, aby zdobywać osiągnięcia i przechowywać swoje wyniki w chmurze.</string>
+
+    <!-- SETTINGS ACTIVITY -->
+    <string name="about">O aplikacji</string>
+    <string name="rate">Oceń</string>
+    <string name="share">Udostępnij</string>
+    <string name="show_us_your_support">Podziel się Twoją opinią!</string>
+    <string name="share_with_your_friends">Podziel się 2048++ z przyjaciółmi!</string>
+    <string name="google_play_games">Gry Play</string>
+    <string name="sign_in">Zaloguj się</string>
+    <string name="sign_out">Wyloguj się</string>
+    <string name="please_sign_in_again">Zaloguj się ponownie</string>
+    <string name="sign_in_with_google_play_games">Zaloguj się używając Gier Play</string>
+    <string name="manage_your_google_play_games_settings">Zarządzaj ustawieniami w Grach Play</string>
+    <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
+    <string name="confirm_sign_out_message">Zamierzasz się wylogować z tej gry jako %1$s.</string>
+    <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
+    <string name="currently_signed_in_as">Obecnie zalogowany(a) jesteś jako: %1$s</string>
+
+    <!-- ABOUT ACTIVITY -->
+    <string name="contact_us">Skontaktuj się z nami</string>
+    <string name="developed_and_designed_by">Zaimplementowane &amp; zaprojektowane przez</string>
+    <string name="special_thanks_to">Specjalne podziękowania dla</string>
+    <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
+         This string isn't used in the application yet... but it will be when the translations are released! -->
+    <string name="translations_by">Tłumaczenie</string>
+
+    <!-- HOW TO PLAY ACTIVITY -->
+    <string name="how_to_play_2048_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy dokładnie <b>2 kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
+    <string name="how_to_play_2048_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 2048?</string>
+    <string name="how_to_play_243_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy dokładnie <b>3 kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
+    <string name="how_to_play_243_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 243?</string>
+    <string name="how_to_play_16384_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy którekolwiek <b>2 lub 4 kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
+    <string name="how_to_play_16384_paragraph2">Po każdym ruchu, <b>2 nowe kafelki</b> zostają rozmieszczone losowo na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy dokładnie <b>2 kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
+    <string name="how_to_play_blitz_paragraph2">Nowe kafelki zostają rozmieszczane na planszy w stałych odstępach czasowych, <b>nie</b> po każdym ruchu. Gra kończy się, gdy plansza zostaje zapełniona i nie można rozmieścić kolejnej kafelki. Potrafisz stworzyć kafelkę 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy <b>2 kolejne liczby ciągu Fibonacci\'ego</b> dotkną się, zostają scalone w kafelkę z następną w kolejności liczbą ciągu Fibonacci\'ego.</string>
+    <string name="how_to_play_fibonacci_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Podpowiedź:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Przesuń w lewo, prawo, w górę lub w dół aby poruszać kafelkami po planszy. Kiedy <b>kafelka z jakąkolwiek liczbą</b> dotknie się z inną, posiadającą taką samą liczbę, zostają scalone w jedną.</string>
+    <string name="how_to_play_144_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> jest rozmieszczana losowo na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 144?</string>
+    <string name="how_to_play_144_hint"><b>Podpowiedź:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Dotknij planszę, aby wykonać losowy ruch!</string>
+
+    <!-- SHARING STRINGS -->
+    <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
+    <string name="share_with">Udostępnij używając</string>
+    <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
+    <string name="share_app_message">Sprawdź i pobierz aplikację #2048++ w Google Play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
+         The first and second format string arguments are the game score and game name respectively
+         (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
+    <string name="share_screenshot_message">Mój wyniki to %1$d w rozgrywce %2$s grając w #2048++!\n\nSprawdź i pobierz tę aplikację w Google Play! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+
+    <!-- TOAST STRINGS -->
+    <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
+    <string name="screenshot_saved_to_gallery">Zrzut ekranu zapisany w galerii</string>
+    <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
+    <string name="failed_to_take_screenshot">Zrzut ekranu nieudany</string>
+    <!-- Toast message that shows when there was a problem making an in-app purchase -->
+    <string name="failed_to_complete_purchase">Nie można dokończyć zakupu</string>
+
+</resources>
