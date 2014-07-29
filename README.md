@@ -91,15 +91,17 @@ Support for the following languages have been published to the Play Store:
 
  * English (en)
 
-Translations for the following languages are currently a work in progress:
+The following languages are in the process of being translated. Make sure we've been in contact
+before you begin translating the below languages!
 
+ * French (fr)
  * German (de)
  * Spanish (es)
- * French (fr)
  * Hindi (hi)
  * Italian (it)
  * Hebrew (iw)
  * Punjabi (pa)
+ * Polish (pl)
  * Portuguese (pt-rBR)
  * Romainian (ro)
  * Russian (ru)
