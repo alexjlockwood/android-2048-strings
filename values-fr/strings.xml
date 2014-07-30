@@ -66,7 +66,7 @@
     <string name="how_to_play_blitz_paragraph2">Les nouveaux carrés sont ajoutés aléatoirement sur la grille à intervalle fixe, <b>pas</b> après chaque coup. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 nombres de Fibonacciconsécutifs</b> touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_fibonacci_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger.</string>
-    <string name="how_to_play_fibonacci_hint"><b>Indice:<b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_fibonacci_hint"><b>Indice:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>un nombre quelconque de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_144_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 144 tile?</string>
     <string name="how_to_play_144_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 144?</string>
@@ -77,11 +77,11 @@
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
     <string name="share_with">Partager avec</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message">Essaye #2048++ sur Google Play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight<string>
+    <string name="share_app_message">Essaye #2048++ sur Google Play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">J'ai fait un score de i%1$d dans une partie de %2$s en jouant à #2048++!\n\nEssaye cette appli sur le Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">J'ai fait un score de %1$d dans une partie de %2$s en jouant à #2048++!\n\nEssaye cette appli sur le Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
