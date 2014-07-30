@@ -49,7 +49,7 @@
 
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Nous Contacter</string>
-    <string name="developed_and_designed_by">Développement & Design Par</string>
+    <string name="developed_and_designed_by">Développement &amp; Design Par</string>
     <string name="special_thanks_to">Merci à</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
