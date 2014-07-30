@@ -2,7 +2,7 @@
 <!-- strings.xml (French translation) -->
 <resources>
 
-    <!-- MAIN ACTIVITY -->
+  <!-- MAIN ACTIVITY -->
     <string name="new_game">Nouvelle Partie</string>
     <string name="resume">Reprendre</string>
     <string name="free">Gratuit</string>
@@ -23,7 +23,7 @@
     <string name="show_time">Afficher Temps</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning">T'es sûr?</string>
+    <string name="are_you_sure_warning">T\'es sûr?</string>
     <string name="start_new_game_warning">Si tu démmares une nouvelle partie, tu effaces la précédente.</string>
     <string name="game_over">Fin de Partie</string>
     <string name="moves">Coups</string>
@@ -58,7 +58,7 @@
     <!-- HOW TO PLAY ACTIVITY -->
     <string name="how_to_play_2048_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand deux carrés ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_2048_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 2048?</string>
-    <string name="how_to_play_243_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>3 carrés<3> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
+    <string name="how_to_play_243_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>3 carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_243_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 243?</string>
     <string name="how_to_play_16384_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 ou 4</b> carrés ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_16384_paragraph2">Après chaque coup, <b>2 nouveaux carrés</b> sont ajoutés au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 16384?</string>
@@ -68,7 +68,6 @@
     <string name="how_to_play_fibonacci_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger.</string>
     <string name="how_to_play_fibonacci_hint"><b>Indice:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>un nombre quelconque de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
-    <string name="how_to_play_144_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 144 tile?</string>
     <string name="how_to_play_144_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 144?</string>
     <string name="how_to_play_144_hint"><b>Indice:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">Tapez pour jouer un coup au hasard!</string>
@@ -81,7 +80,7 @@
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">J'ai fait un score de %1$d dans une partie de %2$s en jouant à #2048++!\n\nEssaye cette appli sur le Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">J\'ai fait un score de %1$d dans une partie de %2$s en jouant à #2048++!\n\nEssaye cette appli sur le Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
@@ -89,6 +88,6 @@
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">Echec dans la prise du screenshot</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase">Impossible de finaliser l'achat</string>
+    <string name="failed_to_complete_purchase">Impossible de finaliser l\'achat</string>
 
 </resources>
