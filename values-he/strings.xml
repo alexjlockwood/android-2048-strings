@@ -11,7 +11,7 @@
     <string name="buy_game">קנה משחק</string>
     <string name="buy_all_games">קנה את כל המשחקים</string>
     <string name="more_games_coming_soon">משחקים נוספים בקרוב!</string>
-    <string name="achievements">הישים</string>
+    <string name="achievements">הישגים</string>
     <string name="leaderboards">טבלת מובילים</string>
     <string name="settings">הגדרות</string>
     <string name="send_feedback">שלח משוב</string>
@@ -36,11 +36,11 @@
     <string name="rate">דרג</string>
     <string name="share">שתף</string>
     <string name="show_us_your_support">הראה את תמיכתך!</string>
-    <string name="share_with_your_friends">שתף את 204++ עם חבריך!</string>
+    <string name="share_with_your_friends">שתף את 2048++ עם חבריך!</string>
     <string name="google_play_games">Google Play משחקים</string>
     <string name="sign_in">התחבר</string>
     <string name="sign_out">התנתק</string>
-    <string name="please_sign_in_again">בבקשה התחבר שוב</string>
+    <string name="please_sign_in_again">התחבר שוב בבקשה</string>
     <string name="sign_in_with_google_play_games">התחבר עם Google Play משחקים</string>
     <string name="manage_your_google_play_games_settings">נהל את הגדרות הGoogle Play משחקים</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
