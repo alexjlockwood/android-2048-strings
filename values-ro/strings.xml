@@ -32,7 +32,7 @@
     <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga trofee și pentru a sincroniza scorurile în cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about">Despre </string>
+    <string name="about">Despre</string>
     <string name="rate">Evaluează</string>
     <string name="share">Distribuie</string>
     <string name="show_us_your_support">Arată-ne sprijinul tău!</string>
@@ -44,7 +44,7 @@
     <string name="sign_in_with_google_play_games">Conectează-te cu Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Gestionează setările Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Ești pe cale să te deconectezi de la acest joc ca %1$s .</string>
+    <string name="confirm_sign_out_message">Ești pe cale să te deconectezi de la acest joc ca %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Ești conectat ca: %1$s</string>
 
@@ -67,7 +67,7 @@
     <string name="how_to_play_blitz_paragraph2">Noi piese sunt plasate la întâmplare pe tablă la intervale fixe, <b>nu</b> după fiecare mutare. Jocul se termină când tabla se umple și nu mai pot fi plasate alte piese. Poți crea piesa de 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>2 numere Fibonacci consecutive</b> se ating, se combină într-unul singur pentru a forma următorul număr din seria Fibonacci.</string>
     <string name="how_to_play_fibonacci_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare.</string>
-    <string name="how_to_play_fibonacci_hint"><b>Sugestie:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 ...</string>
+    <string name="how_to_play_fibonacci_hint"><b>Sugestie:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…</string>
     <string name="how_to_play_144_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>oricâte piese</b> cu același număr se ating, se combină într-unul singur.</string>
     <string name="how_to_play_144_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 144?</string>
     <string name="how_to_play_144_hint"><b>Sugestie:</b> 2 × 2 × 2 × 2 × 3 × 3 = 144</string>
