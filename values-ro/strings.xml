@@ -89,6 +89,6 @@
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">Screenshot nereușit</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase">Tranzacția nu a putut fi completată.</string>
+    <string name="failed_to_complete_purchase">Tranzacția nu a putut fi completată</string>
 
 </resources>
