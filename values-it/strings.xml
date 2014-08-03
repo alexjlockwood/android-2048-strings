@@ -3,7 +3,7 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game">Nuovo</string>
+    <string name="new_game">Nuovo partita</string>
     <string name="resume">Continua</string>
     <string name="free">Gratis</string>
     <string name="pro">Pro</string>
@@ -24,8 +24,8 @@
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Sei sicuro?</string>
-    <string name="start_new_game_warning">Iniziando un nuovo gioco la partita precedente verrà cancellata</string>
-    <string name="start_new_game_warning_current">Iniziando un nuovo gioco la partita corrente verrà cancellata</string>
+    <string name="start_new_game_warning">Iniziando un nuovo gioco la partita precedente verrà cancellata.</string>
+    <string name="start_new_game_warning_current">Iniziando un nuovo gioco la partita corrente verrà cancellata.</string>
     <string name="game_over">Gioco terminato</string>
     <string name="moves">Mosse</string>
     <string name="time">Tempo</string>
@@ -44,9 +44,9 @@
     <string name="sign_in_with_google_play_games">Effettua il login con il Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Gestisci le impostazioni del Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Sei sicuro di volere effettuare il logout dall\'utente %1$s </string>
+    <string name="confirm_sign_out_message">Sei sicuro di volere effettuare il logout dall\'utente %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as">Sei loggato con l\' utente: %1$s</string>
+    <string name="currently_signed_in_as">Sei loggato con l\'utente: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Contattaci</string>
