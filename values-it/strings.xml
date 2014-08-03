@@ -29,7 +29,7 @@
     <string name="game_over">Gioco terminato</string>
     <string name="moves">Mosse</string>
     <string name="time">Tempo</string>
-    <string name="sign_in_with_google_dialog_message">Effettua il login con Google per viualizzare le classifiche e sincronizzare i dati nel cloud</string>
+    <string name="sign_in_with_google_dialog_message">Effettua il login con Google per viualizzare le classifiche e sincronizzare i dati nel cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Info</string>
