@@ -90,4 +90,9 @@
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Failed to complete purchase</string>
 
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="buy_all_games_purchase_description">Buy all games, including any new games we release in the future!</string>
+
 </resources>
