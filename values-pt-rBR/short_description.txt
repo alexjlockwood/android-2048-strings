@@ -1,5 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-
-
+Finalmente um app de 2048 bem desenhado, que é 100% nativo e 100% ad-free!

@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- UNIVERSAL STRINGS (DO NOT TRANSLATE) -->
-    <string name="app_name">2048++</string>
-    <string name="preference_key_share_app">pref_key_share_app</string>
-    <string name="preference_key_rate_this_app">pref_key_rate_this_app</string>
-    <string name="preference_key_about">pref_key_about</string>
-    <string name="preference_key_sign_in_out">pref_key_sign_in_out</string>
-    <string name="preference_key_google_play_games_settings">pref_key_google_play_games_settings</string>
-    <string name="game_start_score">0</string>
-    <string name="game_start_time">0:00</string>
-    <string name="developed_and_designed_by_value"><a href="http://www.google.com/+AlexLockwood">Alex Lockwood</a> &amp; <a href="http://www.google.com/+ShannonLeeJack">Shannon Lee</a></string>
-    <string name="special_thanks_to_value"><a href="http://gabrielecirulli.com/">Gabriele Cirulli</a> (2048) &amp; <a href="http://joezeng.com/">Joe Zeng</a> (144)</string>
-    <string name="send_feedback_developer_email">twentyfortyeightplusplus@gmail.com</string>
-    <string name="smiley">:)</string>
-    <string name="play_store_app_deep_link">market://details?id=com.alexjlockwood.twentyfortyeight</string>
-    <string name="play_store_app_link">https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
-    <string name="send_feedback_email_subject">2048++ feedback</string>
-    <string name="game_fibonacci_subtitle">1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144</string>
-    <string name="game_144_subtitle">2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3</string>
-    <string name="buy_game_price">$0.99</string>
-    <string name="buy_all_games_price">$1.99</string>
-    <string-array name="game_variants">
-        <item>2048</item>
-        <item>243</item>
-        <item>16384</item>
-        <item>Blitz</item>
-        <item>Fibonacci</item>
-        <item>144</item>
-    </string-array>
-
     <!-- MAIN ACTIVITY -->
     <string name="new_game">Nowa gra</string>
     <string name="resume">Wznów</string>
@@ -72,7 +43,7 @@
     <string name="sign_in_with_google_play_games">Zaloguj się używając Gier Play</string>
     <string name="manage_your_google_play_games_settings">Zarządzaj ustawieniami w Grach Play</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Zamierzasz się wylogować z tej gry jako %1$s.</string>
+    <string name="confirm_sign_out_message">Zamierzasz się wylogować z tej gry jako %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Obecnie zalogowany(a) jesteś jako: %1$s</string>
 
