@@ -10,6 +10,6 @@ Full description (4000 character limit)
 * Zaloguj się używając konta Google (Play Games), aby mieć dostęp do rankingów i osiągnięć.
 * W 100% androidowa aplikacja i w 100% wolna od reklam.
 
-2048 jest klasyczną grą puzzle, która jest łatwa do opanowania, a później bardzo uzależniająca. Przesuń palcem w lewo, prawo, w górę lub w dół, aby poruszać kafelki rozmieszczone na planszy. Kiedy dwie kafelki z tym samym numerem dotkną się, automatycznie scalają się w jedną. Gra kończy się wtedy, gdy nie możesz wykonać żadnego ruchu. Zacznij łączyć liczby, a zobaczysz, że nie będziesz mógł (mogła) przestać!
+2048 jest klasyczną grą puzzle, która jest łatwa do opanowania, a później bardzo uzależniająca. Przesuń palcem w lewo, prawo, w górę lub w dół, aby poruszać kafelki rozmieszczone na planszy. Kiedy dwie kafelki z tym samym numerem dotkną się, automatycznie scalają się w jedną. Gra kończy się wtedy, gdy nie możesz wykonać żadnego ruchu. Zacznij łączyć liczby, a zobaczysz, że nie będziesz w stanie przestać!
 
 (c) 2014 Alex Lockwood & Shannon Lee
