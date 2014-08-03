@@ -90,7 +90,7 @@
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Nie można dokończyć zakupu</string>
     
-    
+    <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Logowanie nieudane. Sprawdź połączenie z siecią i spróbuj ponownie.</string>
     <string name="unknown_error">Nieznany błąd</string>
     <string name="buy_all_games_purchase_description">Kup wszystkie gry, razem z tymi, które pojawią się w przyszłości!</string>
