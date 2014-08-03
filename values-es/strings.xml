@@ -91,4 +91,9 @@
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">No se pudo completar la compra</string>
 
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">Fallo al iniciar sesión. Por favor comprueba tu conexión a Internet e inténtalo de nuevo.</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="buy_all_games_purchase_description">Comprar todos los juegos. ¡Incluidos todos los futuros juegos que publiquemos en esta app!</string>﻿
+
 </resources>
