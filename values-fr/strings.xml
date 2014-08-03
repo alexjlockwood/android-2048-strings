@@ -2,7 +2,7 @@
 <!-- strings.xml (French translation) -->
 <resources>
 
-  <!-- MAIN ACTIVITY -->
+    <!-- MAIN ACTIVITY -->
     <string name="new_game">Nouvelle Partie</string>
     <string name="resume">Reprendre</string>
     <string name="free">Gratuit</string>
@@ -12,7 +12,7 @@
     <string name="buy_all_games">Acheter Tous les Jeux</string>
     <string name="more_games_coming_soon">Bientôt de Nouveaux Jeux</string>
     <string name="achievements">Réussites</string>
-    <string name="leaderboards">High Scores</string>
+    <string name="leaderboards">Classements</string>
     <string name="settings">Paramètres</string>
     <string name="send_feedback">Envoyer Commentaires</string>
 
@@ -25,6 +25,7 @@
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">T\'es sûr?</string>
     <string name="start_new_game_warning">Si tu démmares une nouvelle partie, tu effaces la précédente.</string>
+    <string name="start_new_game_warning_current">Démarrer une nouvelle partie effacera la partie en cours.</string>
     <string name="game_over">Fin de Partie</string>
     <string name="moves">Coups</string>
     <string name="time">Temps</string>
@@ -36,12 +37,12 @@
     <string name="share">Partager</string>
     <string name="show_us_your_support">Soutiens-nous</string>
     <string name="share_with_your_friends">Partage 2048++ avec tes amis</string>
-    <string name="google_play_games">Google Play jeux</string>
+    <string name="google_play_games">Google Play Jeux</string>
     <string name="sign_in">Se connecter</string>
     <string name="sign_out">Déconnexion</string>
     <string name="please_sign_in_again">Reconnecte-toi stp</string>
-    <string name="sign_in_with_google_play_games">Se connecter avec Google Play jeux</string>
-    <string name="manage_your_google_play_games_settings">Gèrer les paramètres de Google Play jeux</string>
+    <string name="sign_in_with_google_play_games">Se connecter avec Google Play Jeux</string>
+    <string name="manage_your_google_play_games_settings">Gèrer les paramètres de Google Play Jeux</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
     <string name="confirm_sign_out_message">Tu vas te déconnecter de cette partie en tant que %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
@@ -60,11 +61,11 @@
     <string name="how_to_play_2048_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 2048?</string>
     <string name="how_to_play_243_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>3 carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_243_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 243?</string>
-    <string name="how_to_play_16384_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 ou 4</b> carrés ayant le même nombre se touchent, ils fusionnent en un seul.</string>
+    <string name="how_to_play_16384_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 ou 4 carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_16384_paragraph2">Après chaque coup, <b>2 nouveaux carrés</b> sont ajoutés au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 16384?</string>
     <string name="how_to_play_blitz_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand exactement <b>2 carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_blitz_paragraph2">Les nouveaux carrés sont ajoutés aléatoirement sur la grille à intervalle fixe, <b>pas</b> après chaque coup. Le jeu se termine quand on ne peut plus bouger. Peux-tu créer le carré 2048?</string>
-    <string name="how_to_play_fibonacci_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 nombres de Fibonacciconsécutifs</b> touchent, ils fusionnent en un seul.</string>
+    <string name="how_to_play_fibonacci_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>2 nombres de Fibonacci consécutifs</b> touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_fibonacci_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger.</string>
     <string name="how_to_play_fibonacci_hint"><b>Indice:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Swipe gauche, droit, haut, bas pour faire glisser les carrés sur la grille. Quand <b>un nombre quelconque de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
