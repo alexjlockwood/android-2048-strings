@@ -10,7 +10,7 @@
     <string name="how_to_play">Comment Jouer</string>
     <string name="buy_game">Acheter Jeu</string>
     <string name="buy_all_games">Acheter Tous les Jeux</string>
-    <string name="more_games_coming_soon">Bientôt de Nouveaux Jeux</string>
+    <string name="more_games_coming_soon">Bientôt de Nouveaux Jeux!</string>
     <string name="achievements">Réussites</string>
     <string name="leaderboards">Classements</string>
     <string name="settings">Paramètres</string>
@@ -44,7 +44,7 @@
     <string name="sign_in_with_google_play_games">Se connecter avec Google Play Jeux</string>
     <string name="manage_your_google_play_games_settings">Gèrer les paramètres de Google Play Jeux</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Tu vas te déconnecter de cette partie en tant que %1$s.</string>
+    <string name="confirm_sign_out_message">Tu vas te déconnecter de cette partie en tant que %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Connecté actuellement comme: %1$s</string>
 
