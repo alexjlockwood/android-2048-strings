@@ -11,7 +11,7 @@
     <string name="buy_game">Cumpără Joc</string>
     <string name="buy_all_games">Cumpără Toate Jocurile</string>
     <string name="more_games_coming_soon">Mai multe jocuri în curând!</string>
-    <string name="achievements">Trofee</string>
+    <string name="achievements">Realizări</string>
     <string name="leaderboards">Clasamente</string>
     <string name="settings">Setări</string>
     <string name="send_feedback">Trimite feedback</string>
@@ -29,7 +29,7 @@
     <string name="game_over">Game Over</string>
     <string name="moves">Mutări</string>
     <string name="time">Timp</string>
-    <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga trofee și pentru a sincroniza scorurile în cloud.</string>
+    <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga realizări și pentru a sincroniza scorurile în cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Despre</string>
@@ -44,7 +44,7 @@
     <string name="sign_in_with_google_play_games">Conectează-te cu Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Gestionează setările Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Ești pe cale să te deconectezi de la acest joc ca %1$s.</string>
+    <string name="confirm_sign_out_message">Ești pe cale să te deconectezi de la acest joc ca %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Ești conectat ca: %1$s</string>
 
