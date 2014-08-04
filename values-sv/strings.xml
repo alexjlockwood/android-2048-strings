@@ -11,25 +11,25 @@
     <string name="buy_game">Köp spelet</string>
     <string name="buy_all_games">Köp alla spel</string>
     <string name="more_games_coming_soon">Fler spel kommer snart!</string>
-    <string name="achievements">Utmärkelser</string>
+    <string name="achievements">Prestationer</string>
     <string name="leaderboards">Topplistor</string>
     <string name="settings">Inställningar</string>
     <string name="send_feedback">Skicka synpunkter</string>
 
     <!-- GAME ACTIVITY -->
     <string name="score">Poäng</string>
-    <string name="best">Bästa</string>
+    <string name="best">Rekord</string>
     <string name="share_screenshot">Dela skärmdump</string>
     <string name="show_time">Visa tid</string>
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Är du säker?</string>
-    <string name="start_new_game_warning">Att starta om på nytt kommer radera din föregående omgång.</string>
-    <string name="start_new_game_warning_current">Att starta om på nytt kommer radera din nuvarande omgång.</string>
+    <string name="start_new_game_warning">Din föregående omgång kommer att ersättas.</string>
+    <string name="start_new_game_warning_current">Din nuvarande omgång kommer att ersättas.</string>
     <string name="game_over">Game Over</string>
     <string name="moves">Drag</string>
     <string name="time">Tid</string>
-    <string name="sign_in_with_google_dialog_message">Logga in med Google för att tjäna utmärkelser och synka dina rekord med molnet.</string>
+    <string name="sign_in_with_google_dialog_message">Logga in med Google för att skaffa prestationer och synka dina rekord med molnet.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Om</string>
@@ -46,7 +46,7 @@
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
     <string name="confirm_sign_out_message">Du är på väg att logga ut från detta spel som %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as">För närvarande inloggad som: %1$s</string>
+    <string name="currently_signed_in_as">Du är inloggad som: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Kontakta oss</string>
@@ -81,20 +81,20 @@
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">Jag fick %1$d poäng efter en omgång %2$s när jag spelat #2048++!\n\nKolla in appen på Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfoureight</string>
+    <string name="share_screenshot_message">Jag fick %1$d poäng efter en omgång %2$s när jag spelade #2048++!\n\nKolla in appen på Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfoureight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery">Skärmdumpen är sparad till galleriet</string>
+    <string name="screenshot_saved_to_gallery">Skärmdumpen har sparats i galleriet</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">Misslyckades med att ta en skärmdump</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Misslyckades med att avsluta köpet</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Inlogningen misslyckades. Kontrollera din internetanslutning och försök igen.</string>
+    <string name="unknown_error">Okänt fel</string>
+    <string name="unknown_error_please_try_again_later">Okänt fel. Försök igen senare.</string>
+    <string name="buy_all_games_purchase_description">Köp alla spel, även nya, som vi släpper i framtiden!</string>
 
 </resources>
