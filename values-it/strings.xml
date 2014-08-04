@@ -3,7 +3,7 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game">Nuovo partita</string>
+    <string name="new_game">Nuova partita</string>
     <string name="resume">Continua</string>
     <string name="free">Gratis</string>
     <string name="pro">Pro</string>
@@ -29,7 +29,7 @@
     <string name="game_over">Gioco terminato</string>
     <string name="moves">Mosse</string>
     <string name="time">Tempo</string>
-    <string name="sign_in_with_google_dialog_message">Effettua il login con Google per viualizzare le classifiche e sincronizzare i dati nel cloud.</string>
+    <string name="sign_in_with_google_dialog_message">Effettua l\'accesso con Google per visualizzare le classifiche e sincronizzare i dati nel cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Info</string>
@@ -38,15 +38,15 @@
     <string name="show_us_your_support">Aiutaci con la tua valutazione</string>
     <string name="share_with_your_friends">Condividi con i tuoi amici</string>
     <string name="google_play_games">Google Play Games</string>
-    <string name="sign_in">Login</string>
-    <string name="sign_out">Logout</string>
-    <string name="please_sign_in_again">Per favore effettua il login nuovamente</string>
-    <string name="sign_in_with_google_play_games">Effettua il login con il Google Play Games</string>
+    <string name="sign_in">Accedi</string>
+    <string name="sign_out">Disconnetti</string>
+    <string name="please_sign_in_again">Per favore accedi nuovamente</string>
+    <string name="sign_in_with_google_play_games">Accedi con il Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Gestisci le impostazioni del Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
     <string name="confirm_sign_out_message">Sei sicuro di volere effettuare il logout dall\'utente %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as">Sei loggato con l\'utente: %1$s</string>
+    <string name="currently_signed_in_as">Hai effettuato l\'accesso con l\'utente: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Contattaci</string>
@@ -92,8 +92,8 @@
     <string name="failed_to_complete_purchase">Errore durante l\'acquisto</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Errore durante l\'autenticazione. Per favore controlla la tua connessione e prova di nuovo.</string>
+    <string name="unknown_error">Errore sconosciuto</string>
+    <string name="buy_all_games_purchase_description">Acquista tutti i giochi, anche quelli che saranno rilasciati in futuro!</string>
 
 </resources>
