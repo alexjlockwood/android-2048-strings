@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- strings.xml (Hebrew translation) -->
 <resources>
 
@@ -94,6 +94,7 @@
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed"></string>
     <string name="unknown_error"></string>
+    <string name="unknown_error_please_try_again_later"></string>
     <string name="buy_all_games_purchase_description"></string>
 
 </resources>
