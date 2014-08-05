@@ -29,7 +29,7 @@
     <string name="game_over">Game Over</string>
     <string name="moves">Mutări</string>
     <string name="time">Timp</string>
-    <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga realizări și pentru a sincroniza scorurile în cloud.</string>
+    <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga trofee și pentru a sincroniza scorurile în cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Despre</string>
