@@ -19,7 +19,7 @@
     <!-- GAME ACTIVITY -->
     <string name="score">Placar</string>
     <string name="best">Melhor</string>
-    <string name="share_screenshot">Compartilhar Captura de Tela</string>
+    <string name="share_screenshot">Compartilhar Tela</string>
     <string name="show_time">Exibir Tempo</string>
 
     <!-- DIALOGS -->
