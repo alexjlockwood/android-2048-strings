@@ -93,7 +93,7 @@
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Logowanie nieudane. Sprawdź połączenie z siecią i spróbuj ponownie.</string>
     <string name="unknown_error">Nieznany błąd</string>
-    <string name="unknown_error_please_try_again_later"></string>
+    <string name="unknown_error_please_try_again_later">Nieznany błąd. Spróbuj później.</string>
     <string name="buy_all_games_purchase_description">Kup wszystkie gry, razem z tymi, które pojawią się w przyszłości!</string>
 
 </resources>
