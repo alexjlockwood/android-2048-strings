@@ -9,10 +9,10 @@
     <string name="pro">Pro</string>
     <string name="how_to_play">Como Jogar</string>
     <string name="buy_game">Comprar Jogo</string>
-    <string name="buy_all_games">Comprar Todos os Jogos</string>
+    <string name="buy_all_games">Comprar Todos</string>
     <string name="more_games_coming_soon">Mais jogos chegando em breve!</string>
     <string name="achievements">Conquistas</string>
-    <string name="leaderboards">Classificação</string>
+    <string name="leaderboards">Placares</string>
     <string name="settings">Configurações</string>
     <string name="send_feedback">Envie Feedback</string>
 
@@ -33,7 +33,7 @@
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Sobre</string>
-    <string name="rate">Avalie</string>
+    <string name="rate">Avaliar</string>
     <string name="share">Compartilhar</string>
     <string name="show_us_your_support">Mostre para nós o seu apoio!</string>
     <string name="share_with_your_friends">Compartilhe 2048++ com seus amigos!</string>
@@ -92,9 +92,9 @@
     <string name="failed_to_complete_purchase">Falha ao completar a compra</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Falha ao logar. Por favor verifique a sua conexão de rede e tente novamente.</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="unknown_error_please_try_again_later">Erro desconhecido. Por favor tente novamente mais tarde.</string>
+    <string name="buy_all_games_purchase_description">Compre todos os jogos, incluindo qualquer jogo novo que lançarmos no futuro!</string>
 
 </resources>
