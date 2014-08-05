@@ -7,7 +7,7 @@ Full description (4000 character limit)
 * Um design simples, com uma interface bem colorida e inspirada no Holo.
 * Animações incrivelmente suaves e realistas.
 * Sincronize seus melhores placares entre todos os seus dispositivos.
-* Faça login com o Google Play games para ter placares e conquistas.
+* Faça login com o Google Play Games para ter placares e conquistas.
 * 100% nativo e 100% Ad-Free.
 
 2048 é um clássico jogo de quebra cabeça que é muito fácil de entender e muito viciante. Deslize para esquerda, direita, cima ou baixo para mover os blocos pela grade. Quando dois blocos com o mesmo número se tocam, eles se juntam em um só. O jogo termina quando você não consegue mais fazer um movimento. Comece juntando os números e você não vai conseguir parar!
