@@ -6,7 +6,7 @@ Full description (4000 character limit)
 * Un design simplu cu o interfață colorată, inspirată din Holo.
 * Animații realiste, incredibil de fluide.
 * Sincronizează scorurile pe toate dispozitivele tale.
-* Log in cu Google Play Games pentru clasamente și achievements.
+* Conectare cu Google Play Games pentru clasamente și trofee.
 * 100% nativă și 100% fără reclame.
 
 2048 este un joc de puzzle clasic, ușor de înțeles și care creează dependență. Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când două pătrate cu același număr se ating, se combină într-unul singur. Jocul se termină când nu mai poți face nici o mutare. Începe să unești numerele și nu te vei mai putea opri!
