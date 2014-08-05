@@ -92,9 +92,9 @@
     <string name="failed_to_complete_purchase">Tranzacția nu a putut fi completată</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Conectare nereușită. Te rog verifică conexiunea la Internet și încearcă din nou.</string>
+    <string name="unknown_error">Eroare necunoscută</string>
+    <string name="unknown_error_please_try_again_later">Eroare necunoscută. Te rog încearcă din nou mai târziu.</string>
+    <string name="buy_all_games_purchase_description">Cumpără toate jocurile, inclusiv cele pe care le vom publica în viitor.</string>
 
 </resources>
