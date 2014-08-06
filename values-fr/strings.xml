@@ -92,9 +92,9 @@
     <string name="failed_to_complete_purchase">Impossible de finaliser l\'achat</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Echec lors de la connexion. Vérifie la connexion Intenet et essaie de nouveau.</string>
+    <string name="unknown_error">Erreur Inconnue</string>
+    <string name="unknown_error_please_try_again_later">Erreur Inconnue. Essaie de nouveau plus tard.</string>
+    <string name="buy_all_games_purchase_description">Achete tous nos jeux, y compris les nouveaux jeux que nous allons créer!</string>
 
 </resources>
