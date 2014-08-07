@@ -14,7 +14,7 @@
     <string name="achievements">Conquistas</string>
     <string name="leaderboards">Placares</string>
     <string name="settings">Configurações</string>
-    <string name="send_feedback">Envie Feedback</string>
+    <string name="send_feedback">Enviar Comentários</string>
 
     <!-- GAME ACTIVITY -->
     <string name="score">Placar</string>
