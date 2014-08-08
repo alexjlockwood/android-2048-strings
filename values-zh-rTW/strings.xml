@@ -91,4 +91,10 @@
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">購買失敗</string>
 
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">登入失敗。請確認網路連線後，再登入一次。</string>
+    <string name="unknown_error">未知的錯誤</string>
+    <string name="unknown_error_please_try_again_later">未知的錯誤。請稍後再試一次。</string>
+    <string name="buy_all_games_purchase_description">買所有的遊戲，包含我們未來推出的新遊戲！</string>
+
 </resources>
