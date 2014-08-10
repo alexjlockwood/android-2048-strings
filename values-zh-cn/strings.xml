@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="new_game">新游戏</string>
+    <string name="resume">回到游戏</string>
+    <string name="free">免费</string>
+    <string name="pro">付费</string>
+    <string name="how_to_play">怎么玩</string>
+    <string name="buy_game">购买游戏</string>
+    <string name="buy_all_games">购买全部游戏</string>
+    <string name="more_games_coming_soon">更多游戏即将推出!</string>
+    <string name="achievements">成就</string>
+    <string name="leaderboards">排行榜</string>
+    <string name="settings">设置</string>
+    <string name="send_feedback">反馈</string>
+
+    <!-- GAME ACTIVITY -->
+    <string name="score">分数</string>
+    <string name="best">最高分</string>
+    <string name="share_screenshot">分享截图</string>
+    <string name="show_time">显示时间</string>
+
+    <!-- DIALOGS -->
+    <string name="are_you_sure_warning">确定?</string>
+    <string name="start_new_game_warning">开始新游戏会清除之前的游戏进度</string>
+    <string name="start_new_game_warning_current">开始新游戏会清除当前的游戏进度</string>
+    <string name="game_over">游戏结束</string>
+    <string name="moves">移动</string>
+    <string name="time">游戏时间</string>
+    <string name="sign_in_with_google_dialog_message">登入Google 来获得成就和同步最高分数</string>
+
+    <!-- SETTINGS ACTIVITY -->
+    <string name="about">关于</string>
+    <string name="rate">评分</string>
+    <string name="share">分享</string>
+    <string name="show_us_your_support">给我们一点支持吧!</string>
+    <string name="share_with_your_friends">分享给好友们!</string>
+    <string name="google_play_games">Google Play 游戏</string>
+    <string name="sign_in">登录</string>
+    <string name="sign_out">退出登录</string>
+    <string name="please_sign_in_again">请重新登录</string>
+    <string name="sign_in_with_google_play_games">登录Google Play游戏</string>
+    <string name="manage_your_google_play_games_settings">管理Google Play游戏设定</string>
+    <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
+    <string name="confirm_sign_out_message">你将要从 %1$s 登出游戏</string>
+    <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
+    <string name="currently_signed_in_as">现在登录的账号是: %1$s</string>
+
+    <!-- ABOUT ACTIVITY -->
+    <string name="contact_us">联系我们</string>
+    <string name="developed_and_designed_by">开发者和设计者</string>
+    <string name="special_thanks_to">特别感谢</string>
+    <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
+         This string isn't used in the application yet... but it will be when the translations are released! -->
+    <string name="translations_by">译者</string>
+
+    <!-- HOW TO PLAY ACTIVITY -->
+    <string name="how_to_play_2048_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2 砖块</b> 相碰后, 他们会和成一个.</string>
+    <string name="how_to_play_2048_paragraph2">在每次移动结束后，<b>1个新的砖块</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出2048砖吗？</string>
+    <string name="how_to_play_243_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>3砖块</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_243_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。你能合成出243吗?</string>
+    <string name="how_to_play_16384_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块或4块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_16384_paragraph2">在每次移动结束后，<b>2块新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出16384砖吗？</string>
+    <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_blitz_paragraph2">新的砖会以固定的时间间隔产生，并且被随机放置在格子上，<b>不是</b>在每次移动后产生。当格子被填满并且没有更多的砖可以放置时，游戏则会结束。您有办法创建出2048砖吗？</string>
+    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑动格子内的砖。当<b>连续2个斐波纳契数字</b>碰撞后，它们会合并成一个，形成序列中的下一个斐波那契数字。</string>
+    <string name="how_to_play_fibonacci_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。</string>
+    <string name="how_to_play_fibonacci_hint"><b>提示:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>任意数量的砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_144_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出144砖吗？</string>
+    <string name="how_to_play_144_hint"><b>提示:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">点击格子来玩一个随机的移动！</string>
+
+    <!-- SHARING STRINGS -->
+    <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
+    <string name="share_with">分享到</string>
+    <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
+    <string name="share_app_message">快上Play Store下载#2048++ 吧!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
+         The first and second format string arguments are the game score and game name respectively
+         (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
+    <string name="share_screenshot_message">我在 #2048++ 的 %2$s 游戏中得到 %1$d 分!\n\n快上 Play Store 下载#2048++吧!\n\nCheck out the app on the Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+
+    <!-- TOAST STRINGS -->
+    <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
+    <string name="screenshot_saved_to_gallery">截图已经储存到相册中</string>
+    <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
+    <string name="failed_to_take_screenshot">截图失败</string>
+    <!-- Toast message that shows when there was a problem making an in-app purchase -->
+    <string name="failed_to_complete_purchase">购买失败</string>
+
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">登录失败请检测您的网络连接稍后重试</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="unknown_error_please_try_again_later">未知错误,请稍后再试</string>
+    <string name="buy_all_games_purchase_description">购买所有游戏, 包括我们即将退出的新游戏!</string>
+
+</resources>
