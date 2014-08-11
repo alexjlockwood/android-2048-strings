@@ -56,19 +56,19 @@
     <string name="translations_by">译者</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2 砖块</b> 相碰后, 他们会和成一个.</string>
+    <string name="how_to_play_2048_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2个砖块</b> 相碰后, 他们会和成一个.</string>
     <string name="how_to_play_2048_paragraph2">在每次移动结束后，<b>1个新的砖块</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出2048砖吗？</string>
-    <string name="how_to_play_243_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>3砖块</b>碰撞后，它们会合并成一个。</string>
-    <string name="how_to_play_243_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。你能合成出243吗?</string>
-    <string name="how_to_play_16384_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块或4块砖</b>碰撞后，它们会合并成一个。</string>
-    <string name="how_to_play_16384_paragraph2">在每次移动结束后，<b>2块新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出16384砖吗？</string>
-    <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块砖</b>碰撞后，它们会合并成一个。</string>
-    <string name="how_to_play_blitz_paragraph2">新的砖会以固定的时间间隔产生，并且被随机放置在格子上，<b>不是</b>在每次移动后产生。当格子被填满并且没有更多的砖可以放置时，游戏则会结束。您有办法创建出2048砖吗？</string>
-    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑动格子内的砖。当<b>连续2个斐波纳契数字</b>碰撞后，它们会合并成一个，形成序列中的下一个斐波那契数字。</string>
-    <string name="how_to_play_fibonacci_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。</string>
+    <string name="how_to_play_243_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>3砖块</b> 碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_243_paragraph2">在每次移动结束后，<b>1个新的砖</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。你能合成出243吗?</string>
+    <string name="how_to_play_16384_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块或4块砖</b> 碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_16384_paragraph2">在每次移动结束后，<b>2块新的砖</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出16384砖吗？</string>
+    <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块砖</b> 碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_blitz_paragraph2">新的砖会以固定的时间间隔产生，并且被随机放置在格子上，<b>不是</b> 在每次移动后产生。当格子被填满并且没有更多的砖可以放置时，游戏则会结束。您有办法创建出2048砖吗？</string>
+    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑动格子内的砖。当<b>连续2个斐波纳契数字</b> 碰撞后，它们会合并成一个，形成序列中的下一个斐波那契数字。</string>
+    <string name="how_to_play_fibonacci_paragraph2">在每次移动结束后，<b>1个新的砖</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。</string>
     <string name="how_to_play_fibonacci_hint"><b>提示:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
-    <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>任意数量的砖</b>碰撞后，它们会合并成一个。</string>
-    <string name="how_to_play_144_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出144砖吗？</string>
+    <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>任意数量的砖</b> 碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_144_paragraph2">在每次移动结束后，<b>1个新的砖</b> 会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出144砖吗？</string>
     <string name="how_to_play_144_hint"><b>提示:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">点击格子来玩一个随机的移动！</string>
 
