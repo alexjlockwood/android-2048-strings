@@ -65,7 +65,7 @@
     <string name="how_to_play_16384_paragraph2">在每次移動結束後，<b>2塊新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。您有辦法創建出16384磚嗎？</string>
     <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>2塊磚</b>碰撞後，它們會合併成一個。</string>
     <string name="how_to_play_blitz_paragraph2">新的磚會以固定的時間間隔產生，並且被隨機放置在格子上，<b>不是</b>在每次移動後產生。當格子被填滿並且沒有更多的磚可以放置時，遊戲則會結束。您有辦法創建出2048磚嗎？</string>
-    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑動格子內的磚。當<b>連續2個斐波納契數字</b>碰撞後，它們會合併成一個，形成序列中的下一個斐波那契數字。</string>
+    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑動格子內的磚。當<b>連續2個斐波那契數字</b>碰撞後，它們會合併成一個，形成序列中的下一個斐波那契數字。</string>
     <string name="how_to_play_fibonacci_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。</string>
     <string name="how_to_play_fibonacci_hint"><b>提示：</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>任意數量的磚</b>碰撞後，它們會合併成一個。</string>
