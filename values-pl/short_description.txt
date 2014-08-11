@@ -1,5 +1,5 @@
 Short description (80 character limit)
 ======================================
 
-Äntligen en vackert designad 2048-app som är 100% native och 100% reklamfri!
+Wreszcie wspaniale zaprojektowana, w 100% natywna aplikacja 2048, bez reklam!
 

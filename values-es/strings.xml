@@ -9,11 +9,11 @@
     <string name="pro">Pro</string>
     <string name="how_to_play">Como se juega</string>
     <string name="buy_game">Comprar juego</string>
-    <string name="buy_all_games">Comprar todos los juegos</string>
+    <string name="buy_all_games">Comprar todos</string>
     <string name="more_games_coming_soon">¡Más juegos en camino!</string>
     <string name="achievements">Logros</string>
     <string name="leaderboards">Clasificación</string>
-    <string name="settings">Ajustes</string>
+    <string name="settings">Configuración</string>
     <string name="send_feedback">Enviar comentarios</string>
 
     <!-- GAME ACTIVITY -->
@@ -90,5 +90,11 @@
     <string name="failed_to_take_screenshot">No se pudo capturar la pantalla</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">No se pudo completar la compra</string>
+
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">Fallo al iniciar sesión. Por favor comprueba tu conexión a Internet e inténtalo de nuevo.</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="unknown_error_please_try_again_later">Error desconocido. Por favor, inténtalo de nuevo más tarde.</string>
+    <string name="buy_all_games_purchase_description">Comprar todos los juegos. ¡Incluidos todos los futuros juegos que publiquemos en esta app!</string>﻿
 
 </resources>

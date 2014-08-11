@@ -90,25 +90,26 @@ UI-facing `string`s in the English (en) version of the application.
 Support for the following languages have been published to the Play Store:
 
  * English (en)
+ * French (fr)
+ * Spanish (es)
+ * Italian (it)
+ * Polish (pl)
+ * Portuguese (pt-rBR)
+ * Romainian (ro)
+ * Swedish (sv)
+ * Russian (ru)
 
 The following languages are in the process of being translated. Make sure we've been in contact
 before you begin translating the below languages!
 
- * French (fr)
  * German (de)
- * Spanish (es)
  * Hindi (hi)
- * Italian (it)
  * Hebrew (iw)
  * Punjabi (pa)
- * Polish (pl)
- * Portuguese (pt-rBR)
- * Romainian (ro)
- * Russian (ru)
- * Swedish (sv)
+ * Simplified Chinese (zh-rCN)
+ * Traditional Chinese (zh-rTW)
  * Turkish (tr)
  * Ukranian (uk)
- * Traditional Chinese (zh-rTW)
 
 ## Wanna help translate a new language?
 

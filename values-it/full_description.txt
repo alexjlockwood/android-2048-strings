@@ -7,7 +7,7 @@ Full description (4000 character limit)
 * Un design semplice pieno di colori, con una interfaccia utente Holo.
 * Animazioni fluide e realistiche.
 * Sincronizza i tuoi record fra tutti i tuoi device.
-* Effettua il login con il Google Play Games per visualizzare classifiche e obiettivi.
+* Effettua l'accesso con il Google Play Games per visualizzare classifiche e obiettivi.
 * 100% nativa e 100% senza pubblicità.
 
 2048 è un classico gioco facile da capire e molto coinvolgente. Scorri verso sinistra, destra, in alto e in basso per muovere le tessere nella griglia. Quando 2 tessere con lo stesso numero si toccano, vengono unite in un nuova tessera. Il gioco termina quando non è più possibile effettuare una mossa. Inizia unendo i numeri e non sarai più in grado di fermarti!

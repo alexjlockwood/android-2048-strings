@@ -3,92 +3,98 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">Joc Nou</string>
+    <string name="resume">Continuă</string>
+    <string name="free">Gratuit</string>
+    <string name="pro">Pro</string>
+    <string name="how_to_play">Cum se joacă</string>
+    <string name="buy_game">Cumpără Joc</string>
+    <string name="buy_all_games">Cumpără Toate Jocurile</string>
+    <string name="more_games_coming_soon">Mai multe jocuri în curând!</string>
+    <string name="achievements">Realizări</string>
+    <string name="leaderboards">Clasamente</string>
+    <string name="settings">Setări</string>
+    <string name="send_feedback">Trimite feedback</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">Scor</string>
+    <string name="best">Cel mai bun</string>
+    <string name="share_screenshot">Distribuie Screenshot</string>
+    <string name="show_time">Afișează Timp</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="start_new_game_warning_current"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">Ești sigur?</string>
+    <string name="start_new_game_warning">Începerea un joc nou va șterge jocul anterior.</string>
+    <string name="start_new_game_warning_current">Începerea un joc nou va șterge jocul curent.</string>
+    <string name="game_over">Game Over</string>
+    <string name="moves">Mutări</string>
+    <string name="time">Timp</string>
+    <string name="sign_in_with_google_dialog_message">Conectați-vă cu Google pentru a câștiga realizări și pentru a sincroniza scorurile în cloud.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">Despre</string>
+    <string name="rate">Evaluează</string>
+    <string name="share">Distribuie</string>
+    <string name="show_us_your_support">Arată-ne sprijinul tău!</string>
+    <string name="share_with_your_friends">Distribuie 2048++ prietenilor tăi!</string>
+    <string name="google_play_games">Google Play Games</string>
+    <string name="sign_in">Conectare</string>
+    <string name="sign_out">Deconectare</string>
+    <string name="please_sign_in_again">Conectează-te din nou</string>
+    <string name="sign_in_with_google_play_games">Conectează-te cu Google Play Games</string>
+    <string name="manage_your_google_play_games_settings">Gestionează setările Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">Ești pe cale să te deconectezi de la acest joc ca %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">Ești conectat ca: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">Contactează-ne</string>
+    <string name="developed_and_designed_by">Dezvoltat &amp; Proiectat de</string>
+    <string name="special_thanks_to">Mulțumiri Speciale</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">Traduceri Realizate De</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>2 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
+    <string name="how_to_play_2048_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 2048?</string>
+    <string name="how_to_play_243_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>3 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
+    <string name="how_to_play_243_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 243?</string>
+    <string name="how_to_play_16384_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când fie <b>2 sau 4 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
+    <string name="how_to_play_16384_paragraph2">La sfârșitul fiecărei mutare, <b>2 piese noi</b> sunt amplasate in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>2 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
+    <string name="how_to_play_blitz_paragraph2">Noi piese sunt plasate la întâmplare pe tablă la intervale fixe, <b>nu</b> după fiecare mutare. Jocul se termină când tabla se umple și nu mai pot fi plasate alte piese. Poți crea piesa de 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>2 numere Fibonacci consecutive</b> se ating, se combină într-unul singur pentru a forma următorul număr din seria Fibonacci.</string>
+    <string name="how_to_play_fibonacci_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Sugestie:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…</string>
+    <string name="how_to_play_144_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>oricâte piese</b> cu același număr se ating, se combină într-unul singur.</string>
+    <string name="how_to_play_144_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 144?</string>
+    <string name="how_to_play_144_hint"><b>Sugestie:</b> 2 × 2 × 2 × 2 × 3 × 3 = 144</string>
+    <string name="tap_to_play_random_move">Atinge tabla pentru a face o mutare aleatorie!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">Distribuie cu</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message">Descarcă #2048++ din Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">Am obținut un scor de %1$d într-un joc de %2$s jucând #2048++!\n\nDescarcă aplicația de pe Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">Screenshot salvat în galerie</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">Screenshot nereușit</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">Tranzacția nu a putut fi completată</string>
+
+    <!-- MISC STRINGS -->
+    <string name="play_games_sign_in_failed">Conectare nereușită. Te rog verifică conexiunea la Internet și încearcă din nou.</string>
+    <string name="unknown_error">Eroare necunoscută</string>
+    <string name="unknown_error_please_try_again_later">Eroare necunoscută. Te rog încearcă din nou mai târziu.</string>
+    <string name="buy_all_games_purchase_description">Cumpără toate jocurile, inclusiv cele pe care le vom publica în viitor.</string>
 
 </resources>
