@@ -1,7 +1,7 @@
 Full description (4000 character limit)
 ======================================
 
-2048++ ist zweifellos die aufgeräumteste, am besten reagierende 2048 App für Android.
+2048++ ist die mit Abstand am besten gestaltete, aufgeräumteste und reaktionsschnellste 2048 App für Android.
 
 * Sechs Spielmodi/-varitationen: 2048, 243, 16384, Fibonacci und 144. Mehr kommt bald!
 * Ein einfaches design mit einer farbenfrohen, Holo-inspiererten Nutzeroberfläche.
