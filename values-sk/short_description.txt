@@ -1,5 +1,5 @@
-Short description (80 character limit)
+Krátky popis (80 character limit)
 ======================================
 
-Finally a beautifully designed 2048 app that is 100% native and 100% ad-free!
+Konečne implementácia hry 2048 s nadherným dizajnom, ktorá je 100% natívna a 100% bez reklám!
 

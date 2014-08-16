@@ -10,15 +10,15 @@
     <string name="buy_game">Kúpiť hru</string>
     <string name="buy_all_games">Kúpiť všetky hry</string>
     <string name="more_games_coming_soon">Ďalšie hry čoskoro!</string>
-    <string name="achievements">Úspechy</string>
+    <string name="achievements">Bonusy</string>
     <string name="leaderboards">Najlepší</string>
     <string name="settings">Nastavenia</string>
-    <string name="send_feedback">Poslať odozvu</string>
+    <string name="send_feedback">Dajte nám vedieť</string>
 
     <!-- GAME ACTIVITY -->
     <string name="score">Stav</string>
     <string name="best">Najlepší</string>
-    <string name="share_screenshot">Zdieľať snímok obrazovky</string>
+    <string name="share_screenshot">Zdieľať snímku obrazovky</string>
     <string name="show_time">Štart</string>
 
     <!-- DIALOGS -->
@@ -34,35 +34,35 @@
     <string name="about">O hre</string>
     <string name="rate">Hodnotiť</string>
     <string name="share">Zdieľať</string>
-    <string name="show_us_your_support">Podporte nas!</string>
+    <string name="show_us_your_support">Podporte nás!</string>
     <string name="share_with_your_friends">Zdielať 2048++ s priateľmi!</string>
     <string name="google_play_games">Hry Google Play</string>
     <string name="sign_in">Prihlásiť sa</string>
     <string name="sign_out">Odhlásiť sa</string>
     <string name="please_sign_in_again">Prihláste sa prosím znova</string>
     <string name="sign_in_with_google_play_games">Prihlásenie cez Hry Google Play</string>
-    <string name="manage_your_google_play_games_settings">Nastavenia konta na Hrách Google Play</string>
+    <string name="manage_your_google_play_games_settings">Nastavenia konta  Hry Google Play</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Cyhstáte sa prihlásiť do hry ako  %1$s.</string>
+    <string name="confirm_sign_out_message">Chystáte sa prihlásiť do hry ako  %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Prihlásený ako: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
     <string name="contact_us">Kontakt</string>
     <string name="developed_and_designed_by">Vývoj &amp; návrh</string>
-    <string name="special_thanks_to">Špeciálna vďaka</string>
+    <string name="special_thanks_to">Špeciálna poďakovanie</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
     <string name="translations_by">Preklad</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
     <string name="how_to_play_2048_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa <b>dva štvorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného.</string>
-    <string name="how_to_play_2048_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 2048?</string>
+    <string name="how_to_play_2048_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď už nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 2048?</string>
     <string name="how_to_play_243_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa <b>tri štvorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného.</string>
-    <string name="how_to_play_243_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 243?</string>
+    <string name="how_to_play_243_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď už nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 243?</string>
     <string name="how_to_play_16384_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa <b>dva alebo štyri štvorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného.</string>
-    <string name="how_to_play_16384_paragraph2">Na konci každého ťahu, sa <b>2 nové štvorce</b> náhodne umiestnia na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 16384?</string>
-    <string name="how_to_play_blitz_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa práve <b>dva štcorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného.</string>
+    <string name="how_to_play_16384_paragraph2">Na konci každého ťahu, sa <b>2 nové štvorce</b> náhodne umiestnia na hraciu plochu. Hra sa končí, keď už nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa práve <b>dva štvorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného.</string>
     <string name="how_to_play_blitz_paragraph2">Nové štvorce sa na hraciu plochu umiestňujú nádodne v pevných časových intervaloch, <b>nie</b> po každom ťahu. Hra sa ukončí keď je hracia plocha zaplnená štvorcami. Dokážete vytvoriť štvorec 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa práve <b>dva štcorce</b> s rovnakým číslom dotknú, sčítajú sa do jedného. Ak sa spoja štvorce s <b>2 po sebe nasledujúcimi číslami Fibonacci radu</b>, sčítajú sa do nasledujúceho čísla v Fibonacciho rade.</string>
     <string name="how_to_play_fibonacci_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah.</string>
@@ -70,17 +70,17 @@
     <string name="how_to_play_144_paragraph1">Posun prstom doľava, do prava, hore, alebo dole presunie štvorec no danú plochu hracej plochy. Ak sa <b>ľubovoľný počet štcorcov</b> s rovnakým číslom dotkne, spoja sa do jedného.</string>
     <string name="how_to_play_144_paragraph2">Na konci každého ťahu, sa <b>1 nový štvorec</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah. Dokážete vytvoriť štvorec 144?</string>
     <string name="how_to_play_144_hint"><b>Nápoveda:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
-    <string name="tap_to_play_random_move">Ťuknutím na hraciu plochu sa vykoná náhodny ťah!</string>
+    <string name="tap_to_play_random_move">Ťuknutím na hraciu plochu sa vykoná náhodný ťah!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
     <string name="share_with">Zdielať</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message">Pozri si #2048++ v obchode Google Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_app_message">Pozrite si #2048++ v obchode Google Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">Získal som %1$d bodov v hra %2$s zatiaľ čo som hral #2048++!\n\nPozri si #2048++ v obchode Google Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">Získal som %1$d bodov v hra %2$s zatiaľ čo som hral #2048++!\n\nPozrite si #2048++ v obchode Google Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
@@ -88,10 +88,10 @@
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">Chyba pri získavaní snímky obrazovky.</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase">Chyba pri nákupe</string>
+    <string name="failed_to_complete_purchase">Chyba pri platbe</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed">Chyba pri prihlasovaní do účtu. Skonrolujte si Vaše pripojenie a skúste to znova.</string>
+    <string name="play_games_sign_in_failed">Chyba pri prihlasovaní do účtu. Skonrolujte si prosím Vaše pripojenie a skúste to znova.</string>
     <string name="unknown_error">Neznáma chyba.</string>
     <string name="unknown_error_please_try_again_later">Neznáma chyba. Skúste prosím neskôr.</string>
     <string name="buy_all_games_purchase_description">Kúpiť všetky hry, vrátanie hier, ktoré prídu v budúcnosti!</string>

@@ -1,15 +1,15 @@
-Full description (4000 character limit)
+Celkový popis (4000 character limit)
 ======================================
 
-2048++ is hands down the cleanest, most responsive 2048 app for Android.
+2048++ je jednoznačne najčistejšie prevedená a najviac responzívna implementácia hry 2048 pre Android.
 
-* Six game modes/variations: 2048, 243, 16384, Blitz, Fibonacci, and 144. More coming soon!
-* A simple design with a colorful, Holo-inspired user interface.
-* Insanely smooth and realistic animations.
-* Synchronize your high scores across all your devices.
-* Sign in with Google Play Games for leaderboards and achievements.
-* 100% native and 100% Ad-Free.
+* Šesť módov (variácií) hry: 2048, 243, 16384, Blitz, Fibonacci a 144. Ďalšie čoskoro!
+* Jednoduchý dizajn s pestrofarebným, témou Holo inšpirované užívateľské rozhranie.
+* Neuveriteľne plynulé a realistické animácie.
+* Synchronizácia Vášho najvyšieho bodového zisku na všetkých Vašich zariadeniach.
+* Podpora pre Hry Google Play pre bonusy a výsledkové tabuľky.
+* 100% natívna a 100% bez reklamy.
 
-2048 is a classic puzzle game that is easy to grasp and very addictive. Swipe left, right, up, or down to slide the tiles across the grid. When two tiles with the same number touch, they merge into one. The game ends when you can no longer make a move. Begin joining the numbers and you won’t be able to stop!
+2048 je klasická logická hra, ktorá sa ľahko pochytí a je veľmi návyková. Posunom vľavo, vpravo, hore alebo dole presuniete štvorce po hracej ploche. Keď sa dva štvorce s rovnakým počtom dotknú, spoja sa do jedného. Hra sa končí, keď sa už nemôže urobiť ťah. Začnite spojením čísel a nebudete môcť prestať!
 
 (c) 2014 Alex Lockwood & Shannon Lee
