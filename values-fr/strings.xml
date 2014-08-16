@@ -24,7 +24,7 @@
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">T\'es sûr?</string>
-    <string name="start_new_game_warning">Si tu démmares une nouvelle partie, tu effaces la précédente.</string>
+    <string name="start_new_game_warning">Si tu démarres une nouvelle partie, tu effaces la précédente.</string>
     <string name="start_new_game_warning_current">Démarrer une nouvelle partie effacera la partie en cours.</string>
     <string name="game_over">Fin de Partie</string>
     <string name="moves">Coups</string>
