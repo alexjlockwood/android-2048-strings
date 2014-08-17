@@ -1,0 +1,16 @@
+Celkový popis (4000 character limit)
+======================================
+
+2048++ je jednoznačne najčistejšie prevedená a najviac responzívna implementácia hry 2048 pre Android.
+
+* Šesť módov (variácií) hry: 2048, 243, 16384, Blitz, Fibonacci a 144. Ďalšie čoskoro!
+* Jednoduchý dizajn s pestrofarebným, témou Holo inšpirovaným užívateľským rozhraním.
+* Neuveriteľne plynulé a realistické animácie.
+* Synchronizácia Vášho najvyššieho bodového zisku na všetkých Vašich zariadeniach.
+* Podpora pre Hry Google Play pre bonusy a výsledkové tabuľky.
+* 100% natívna a 100% bez reklamy.
+
+2048 je klasická logická hra, ľahká na pochopenie a veľmi návyková. Posunom vľavo, vpravo, hore alebo dole presuniete štvorce po hracej ploche. Keď sa dva štvorce s rovnakým číslom dotknú, spoja sa do jedného. Hra sa končí, keď sa už nemôže urobiť ťah. Začnite so spájaním čísel a nebudete môcť prestať!
+
+(c) 2014 Alex Lockwood & Shannon Lee
+
