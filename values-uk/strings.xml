@@ -8,8 +8,8 @@
     <string name="free">Безкоштовно</string>
     <string name="pro">Про</string>
     <string name="how_to_play">Як грати</string>
-    <string name="buy_game">Купити гру</string>
-    <string name="buy_all_games">Купити усі ігри</string>
+    <string name="buy_game">Придбати гру</string>
+    <string name="buy_all_games">Прибдати усі ігри</string>
     <string name="more_games_coming_soon">Далі буде більше ігор!</string>
     <string name="achievements">Досягнення</string>
     <string name="leaderboards">Дошка пошани</string>
@@ -18,24 +18,24 @@
 
     <!-- GAME ACTIVITY -->
     <string name="score">Очки</string>
-    <string name="best">Найкраща</string>
-    <string name="share_screenshot">Поділитися знімком екрану</string>
-    <string name="show_time">Показати час</string>
+    <string name="best">Рекорд</string>
+    <string name="share_screenshot">Поділитися знімком</string>
+    <string name="show_time">Показувати час</string>
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Ви впевнені?</string>
     <string name="start_new_game_warning">Нова гра зітре вашу попередню гру.</string>
     <string name="start_new_game_warning_current">Нова гра зітре вашу поточну гру.</string>
     <string name="game_over">Гру закінчено</string>
-    <string name="moves">Рухів</string>
+    <string name="moves">Крокiв</string>
     <string name="time">Час</string>
     <string name="sign_in_with_google_dialog_message">Увійдіть за допомогою Google Play Games, щоб отримувати знаки досягнень та синхронізувати ваші успіхи з хмарою.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">Про додаток</string>
-    <string name="rate">Рівень</string>
+    <string name="rate">Поставити оцінку</string>
     <string name="share">Поділитися</string>
-    <string name="show_us_your_support">Покажіть свою підтримку!</string>
+    <string name="show_us_your_support">Підтримай!</string>
     <string name="share_with_your_friends">Поділитися 2048++ з друзями!</string>
     <string name="google_play_games">Google Play Games</string>
     <string name="sign_in">Увійти</string>
@@ -44,12 +44,12 @@
     <string name="sign_in_with_google_play_games">Увійти за допомогою Google Play Games</string>
     <string name="manage_your_google_play_games_settings">Керуйте вашими налаштуваннями Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">Ви зираєтеся вийти зі гри як: %1$s </string>
+    <string name="confirm_sign_out_message">Ви зираєтеся вийти зі гри як: %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
     <string name="currently_signed_in_as">Ви увійшли як: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us">Зв'язатися</string>
+    <string name="contact_us">Зв\'язатися</string>
     <string name="developed_and_designed_by">Розроблено та спроектовано</string>
     <string name="special_thanks_to">Окремя подяка</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
