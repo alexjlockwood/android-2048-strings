@@ -93,7 +93,7 @@
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Chyba pri prihlasovaní do účtu. Skonrolujte si prosím Vaše pripojenie a skúste to znova.</string>
     <string name="unknown_error">Neznáma chyba.</string>
-    <string name="unknown_error_please_try_again_later">Neznáma chyba. Skúste prosím neskôr.</string>
+    <string name="unknown_error_please_try_again_later">Neznáma chyba. Skúste prosím neskôr</string>
     <string name="buy_all_games_purchase_description">Kúpiť všetky hry, vrátanie hier, ktoré prídu v budúcnosti!</string>
 
 </resources>
