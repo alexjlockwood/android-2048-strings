@@ -1,4 +1,15 @@
 Full description (4000 character limit)
 ======================================
 
+2048++ ist die mit Abstand am besten gestaltete, aufgeräumteste und reaktionsschnellste 2048 App für Android.
 
+* Sechs Spielmodi / Variationen: 2048, 243, 16384, Fibonacci und 144. Mehr kommt bald!
+* Ein einfaches design mit einer farbenfrohen, Holo-inspirierten Nutzeroberfläche
+* Unglaublich flüssige und realistische Animationen
+* Synchronisiere deine Höchstpunktzahlen zwischen all deinen Geräten
+* Melde dich mit Google Play Games an um Bestenlisten und Erfolge zu sehen
+* 100% nativ und 100% werbefrei
+
+2048 ist ein klassisches Puzzlespiel, das einfach zu verstehen ist und süchtig macht. Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich 2 Kacheln mit der gleichen Nummer berühren, verschmelzen sie zu einer. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst. Fang an Nummern zu verschmelzen und du wirst nicht in der Lage sein aufzuhören!
+
+(c) 2014 Alex Lockwood & Shannon Lee
