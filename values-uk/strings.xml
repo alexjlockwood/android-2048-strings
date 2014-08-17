@@ -3,93 +3,99 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">Нова гра</string>
+    <string name="resume">Продовжити</string>
+    <string name="free">Безкоштовно</string>
+    <string name="pro">Про</string>
+    <string name="how_to_play">Як грати</string>
+    <string name="buy_game">Придбати гру</string>
+    <string name="buy_all_games">Прибдати усі ігри</string>
+    <string name="more_games_coming_soon">Далі буде більше ігор!</string>
+    <string name="achievements">Досягнення</string>
+    <string name="leaderboards">Дошка пошани</string>
+    <string name="settings">Налаштування</string>
+    <string name="send_feedback">Зворотній зв\'язок</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">Очки</string>
+    <string name="best">Рекорд</string>
+    <string name="share_screenshot">Поділитися знімком</string>
+    <string name="show_time">Показувати час</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="start_new_game_warning_current"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">Ви впевнені?</string>
+    <string name="start_new_game_warning">Нова гра зітре вашу попередню гру.</string>
+    <string name="start_new_game_warning_current">Нова гра зітре вашу поточну гру.</string>
+    <string name="game_over">Гру закінчено</string>
+    <string name="moves">Крокiв</string>
+    <string name="time">Час</string>
+    <string name="sign_in_with_google_dialog_message">Увійдіть за допомогою Google Play Games, щоб отримувати знаки досягнень та синхронізувати ваші успіхи з хмарою.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">Про додаток</string>
+    <string name="rate">Поставити оцінку</string>
+    <string name="share">Поділитися</string>
+    <string name="show_us_your_support">Підтримай!</string>
+    <string name="share_with_your_friends">Поділитися 2048++ з друзями!</string>
+    <string name="google_play_games">Google Play Games</string>
+    <string name="sign_in">Увійти</string>
+    <string name="sign_out">Вийти</string>
+    <string name="please_sign_in_again">Будь ласка, увійдіть знову</string>
+    <string name="sign_in_with_google_play_games">Увійти за допомогою Google Play Games</string>
+    <string name="manage_your_google_play_games_settings">Керуйте вашими налаштуваннями Google Play Games</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">Ви зираєтеся вийти зі гри як: %1$s</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">Ви увійшли як: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">Зв\'язатися</string>
+    <string name="developed_and_designed_by">Розроблено та спроектовано</string>
+    <string name="special_thanks_to">Окремя подяка</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">Переклад виконано</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли саме <b>2 плитки</b> з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_2048_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на полі у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок. Чи зможете ви отримати плитку 2048?</string>
+    <string name="how_to_play_243_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли саме <b>3 плитки</b> з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_243_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на полі у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок. Чи зможете ви отримати плитку 243?</string>
+    <string name="how_to_play_16384_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли <b>2 або 4 плитки</b> з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_16384_paragraph2">Наприкінці кожного кроку <b>2 нові плитки</b> з\'являються на полі у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок. Чи зможете ви отримати плитку 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли саме <b>2 плитки</b> з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_blitz_paragraph2">Через фіксовані проміжки часу нові плитки з\'являються на полі у випадковому місці, <b>не</b> після кожного кроку. Гра закінчується коли на полі не залишається місця для нових плиток. Чи зможете ви отримати плитку 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли <b>2 послідовні числа Фібоначчі</b> зіштовхнуться, вони поєднаються в одну плитку с наступним і послідовності числом Фібоначчі</string>
+    <string name="how_to_play_fibonacci_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на полі у випадковому місці. Гра закінчується коли на полі не залишається місця для нових плиток.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Підказка:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Проведіть пальцем ліворуч, праворуч, вниз чи вгору, щоб рухати плитки. Коли <b>будь-яка кількість плиток</b> з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_144_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на полі у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок. Чи зможете ви отримати плитку 2048?</string>
+    <string name="how_to_play_144_hint"><b>Підказка:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Доторкніться до поля щоб зробити випадковий рух!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">Поділитися з</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message">Зацінуй #2048++ у Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">Я набрав %1$d в %2$s коли грав #2048++!\n\nЗацінуй цей дотаток у Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">Знімок екрану збережено до галереї</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">Не вдалося зробити знімок екрану</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">Не вдалося закінчити покупку</string>
+    
+    <!-- ADDITIONAL STRINGS -->
+    <string name="play_games_sign_in_failed">Не вдалося увійти. Будь ласка, перевірте з\'єднання з інтернетом та спробуйте знов.</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="unknown_error_please_try_again_later">Невідома помилка. Будь ласка, спробуйте знов пізніше.</string>
+    <string name="buy_all_games_purchase_description">Придбайте усі игри включно з новими іграми, що ми розробимо у майбутньому!</string>
 
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed"></string>
