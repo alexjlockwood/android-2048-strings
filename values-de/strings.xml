@@ -11,21 +11,21 @@
     <string name="buy_game">Spiel kaufen</string>
     <string name="buy_all_games">Alle Spiele kaufen</string>
     <string name="more_games_coming_soon">Weitere Spiele erscheinen bald!</string>
-    <string name="achievements">Meine Erfolge</string>
+    <string name="achievements">Erfolge</string>
     <string name="leaderboards">Bestenlisten</string>
     <string name="settings">Einstellungen</string>
     <string name="send_feedback">Feedback geben</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score">Ergebnis</string>
-    <string name="best">Bestes</string>
+    <string name="score">Punktzahl</string>
+    <string name="best">Beste</string>
     <string name="share_screenshot">Screenshot teilen</string>
     <string name="show_time">Zeit anzeigen</string>
 
     <!-- DIALOGS -->
     <string name="are_you_sure_warning">Wirklich?</string>
     <string name="start_new_game_warning">Wenn du ein neues Spiel startest, wird das vorherige gelöscht.</string>
-    <string name="start_new_game_warning_current">Wenn du ein neues Spiel startest, wird das vorherige gelöscht.</string>
+    <string name="start_new_game_warning_current">Wenn du ein neues Spiel startest, wird das jetzige gelöscht.</string>
     <string name="game_over">Spielende</string>
     <string name="moves">Züge</string>
     <string name="time">Zeit</string>
@@ -62,32 +62,32 @@
     <string name="how_to_play_243_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich genau <b>3 Kacheln</b> mit der gleichen Nummer berühren, verschmelzen sie zu einer.</string>
     <string name="how_to_play_243_paragraph2">Am Ende jedes Zugs, wird  <b>1 neue Kachel</b> zufällig auf dem Spielfeld platziert. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst. Schaffst du es eine 243 Kachel zu erzeugen?</string>
     <string name="how_to_play_16384_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich entweder <b>2 oder 4 Kacheln</b> mit der gleichen Nummer berühren, verschmelzen sie zu einer.</string>
-    <string name="how_to_play_16384_paragraph2">Am Ende jedes Zugs, wird <b>2 neue Kachel</b> zufällig auf dem Spielfeld platziert. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst. Schaffst du es eine 16384 Kachel zu erzeugen?</string>
+    <string name="how_to_play_16384_paragraph2">Am Ende jedes Zugs, werden <b>2 neue Kachel</b> zufällig auf dem Spielfeld platziert. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst. Schaffst du es eine 16384 Kachel zu erzeugen?</string>
     <string name="how_to_play_blitz_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich genau <b>2 Kacheln</b> mit der gleichen Nummer berühren, verschmelzen sie zu einer.</string>
-    <string name="how_to_play_blitz_paragraph2">Neue Kacheln werden zufällig in festen Intervallen platziert, <b>not</b> nach jedem Zug. Das Spiel ist zu Ende wenn das Feld voll ist und keine weiteren Kacheln platziert werden können. Schaffst du es eine 2048 Kachel zu erzeugen?</string>
+    <string name="how_to_play_blitz_paragraph2">Neue Kacheln werden zufällig in festen Intervallen platziert, <b>nicht</b> nach jedem Zug. Das Spiel ist zu Ende wenn das Feld voll ist und keine weiteren Kacheln platziert werden können. Schaffst du es eine 2048 Kachel zu erzeugen?</string>
     <string name="how_to_play_fibonacci_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich <b>2 aufeinander folgende Fibonacci Zahlen</b> berühren, verschmelzen sie zu einer mit der nächsten Fibonacci Zahl in der Reihe.</string>
     <string name="how_to_play_fibonacci_paragraph2">Am Ende jedes Zugs, wird <b>1 neue Kachel</b> zufällig auf dem Spielfeld platziert. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst.</string>
     <string name="how_to_play_fibonacci_hint"><b>Hinweis:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
-    <string name="how_to_play_144_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich <b>eine beliebige Zahl von Kacheln</b> mit der gleichen Nummer berühren, verschmelzen sie zu einer.</string>
+    <string name="how_to_play_144_paragraph1">Wische nach links, rechts oben oder unten um die Kacheln über das Spielfeld zu bewegen. Wenn sich <b>eine beliebige Zahl von Kacheln</b> mit der gleichen Nummer berührt, verschmelzen sie zu einer.</string>
     <string name="how_to_play_144_paragraph2">Am Ende jedes Zugs, wird <b>1 neue Kachel</b> zufällig auf dem Spielfeld platziert. Das Spiel ist zu Ende wenn du keinen weiteren Zug machen kannst. Schaffst du es eine 144 Kachel zu erzeugen?</string>
     <string name="how_to_play_144_hint"><b>Hinweis:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">Tippe das Spielfeld an um einen zufälligen Zug zu machen.</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with">Teile mit</string>
+    <string name="share_with">Teile über</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
     <string name="share_app_message">Schau dir mal #2048++ im Play Store an!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">Ich habe %1$d in einem Spiel %2$s erreicht, als ich #2048++ gespielt habe!\n\nSchau dir die App im Play Store an! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">Ich habe %1$d Punkte in einem Spiel %2$s erreicht, als ich #2048++ gespielt habe!\n\nSchau dir die App im Play Store an! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
     <string name="screenshot_saved_to_gallery">Screenshot in der Galerie gespeichert</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot">Screenshot Erstellung fehlgeschlagen</string>
+    <string name="failed_to_take_screenshot">Screenshot-Erstellung fehlgeschlagen</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Der Kauf ist fehlgeschlagen</string>
 
