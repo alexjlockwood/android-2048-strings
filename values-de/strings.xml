@@ -18,7 +18,7 @@
 
     <!-- GAME ACTIVITY -->
     <string name="score">Punktzahl</string>
-    <string name="best">Beste</string>
+    <string name="best">Höchste</string>
     <string name="share_screenshot">Screenshot teilen</string>
     <string name="show_time">Zeit anzeigen</string>
 
