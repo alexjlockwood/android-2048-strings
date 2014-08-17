@@ -1,5 +1,4 @@
 Krátky popis (80 character limit)
 ======================================
 
-Konečne nadherná verzia hry 2048, ktorá je 100% natívna a bez reklám!
-
+Konečne nádherná verzia hry 2048, ktorá je 100% natívna a bez reklám!
