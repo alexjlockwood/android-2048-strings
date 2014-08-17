@@ -91,16 +91,10 @@
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Не вдалося закінчити покупку</string>
     
-    <!-- ADDITIONAL STRINGS -->
+    <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Не вдалося увійти. Будь ласка, перевірте з\'єднання з інтернетом та спробуйте знов.</string>
     <string name="unknown_error">Невідома помилка</string>
     <string name="unknown_error_please_try_again_later">Невідома помилка. Будь ласка, спробуйте знов пізніше.</string>
     <string name="buy_all_games_purchase_description">Придбайте усі игри включно з новими іграми, що ми розробимо у майбутньому!</string>
-
-    <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
 
 </resources>
