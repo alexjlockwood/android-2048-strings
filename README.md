@@ -91,6 +91,7 @@ Support for the following languages have been published to the Play Store:
 
  * English (en)
  * French (fr)
+ * German (de)
  * Spanish (es)
  * Italian (it)
  * Polish (pl)
@@ -98,18 +99,17 @@ Support for the following languages have been published to the Play Store:
  * Romainian (ro)
  * Swedish (sv)
  * Russian (ru)
+ * Traditional Chinese (zh-rTW)
+ * Ukrainian (uk)
+ * Slovak (sk)
 
 The following languages are in the process of being translated. Make sure we've been in contact
 before you begin translating the below languages!
 
- * German (de)
  * Hindi (hi)
  * Hebrew (iw)
  * Punjabi (pa)
- * Simplified Chinese (zh-rCN)
- * Traditional Chinese (zh-rTW)
  * Turkish (tr)
- * Ukranian (uk)
 
 ## Wanna help translate a new language?
 
