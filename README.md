@@ -106,10 +106,7 @@ Support for the following languages have been published to the Play Store:
 The following languages are in the process of being translated. Make sure we've been in contact
 before you begin translating the below languages!
 
- * Hindi (hi)
  * Hebrew (iw)
- * Punjabi (pa)
- * Turkish (tr)
 
 ## Wanna help translate a new language?
 
