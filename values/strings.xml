@@ -96,4 +96,22 @@
     <string name="unknown_error_please_try_again_later">Unknown error. Please try again later.</string>
     <string name="buy_all_games_purchase_description">Buy all games, including any new games we release in the future!</string>
 
+    <!-- WHAT'S NEW DIALOG STRINGS -->
+    <string name="rate_app">Rate app</string>
+    <string name="whats_new">What\'s new</string>
+    <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
+    <string name="version_number_format">Version %1$s</string>
+    <string-array name="whats_new_features">
+        <item>New game: Hex!</item>
+        <item>16384 is now free!</item>
+        <item>Smoother, slicker animations</item>
+        <item>Bug fixes &amp; enhancements</item>
+    </string-array>
+    <string name="enjoy">Enjoy!</string>
+
+    <!-- HOW TO PLAY HEX STRINGS -->
+    <string name="how_to_play_hex_paragraph1">Swipe left, right, or diagonally to slide the tiles across the grid. When <b>three 1-tiles</b> or any other <b>two tiles</b> with same number touch, they merge into one.</string>
+    <string name="how_to_play_hex_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
+
+
 </resources>
