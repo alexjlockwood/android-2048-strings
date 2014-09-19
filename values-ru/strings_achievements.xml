@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 
+	 Generic description string for a generic 'Create a tile' achievement.
+
+	 '%1$d' will be replaced with the tile number.
+	 '%2$s' will be replaced with the game's name.
+	 
+	 Example: 'Create a 4096 tile in a game of 2048'
+    -->
+    <string name="create_tile_description"></string>
+  
+    <!-- Promoter -->
+    <string name="promoter_title"></string>
+    <string name="promoter_description"></string>
+
+    <!-- Learning the Hard Way -->
+    <string name="learning_the_hard_way_title"></string>
+    <string name="learning_the_hard_way_description"></string>
+
+    <!-- Underachiever -->
+    <string name="underachiever_title"></string>
+    <string name="underachiever_description"></string>
+
+    <!-- Blitz! -->
+    <string name="blitz_title"></string>
+    <string name="blitz_description"></string>
+
+    <!-- Oops! -->
+    <string name="oops_title"></string>
+    <string name="oops_description"></string>
+
+    <!-- Indivisible -->
+    <string name="indivisible_title"></string>
+    <string name="indivisible_description"></string>
+
+    <!-- Marathon I/II/III-->
+    <string name="marathon1_title"></string>
+    <string name="marathon2_title"></string>
+    <string name="marathon3_title"></string>
+    <string name="marathon1_description"></string>
+    <string name="marathon2_description"></string>
+    <string name="marathon3_description"></string>
+
+    <!-- 4x2/4x16/4x64/ -->
+    <string name="four_times_two_description"></string>
+    <string name="four_times_sixteen_description"></string>
+    <string name="four_times_sixtyfour_description"></string>
+
+</resources>
