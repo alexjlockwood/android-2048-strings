@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">Acquista tutti i giochi, anche quelli che saranno rilasciati in futuro!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Valuta l\'app</string>
+    <string name="whats_new">Novità</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Versione %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Un nuovo gioco: Hex!</item>
+        <item>16384 è ora gratuito!</item>
+        <item>Animazioni più fluide</item>
+        <item>Correzioni e miglioramenti</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Divertiti!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Scorri verso sinistra, destra o in diagonale per muovere le tessere nella griglia. Quando <b>3 tessere da 1</b> o almeno <b>2 tessere</b>con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
+    <string name="how_to_play_hex_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse.</string>
 
 </resources>
