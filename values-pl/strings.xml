@@ -68,7 +68,7 @@
     <string name="how_to_play_fibonacci_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu.</string>
     <string name="how_to_play_fibonacci_hint"><b>Podpowiedź:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Przesuń w lewo, prawo, w górę lub w dół, aby poruszać kafelkami po planszy. Kiedy <b>kafelka z jakąkolwiek liczbą</b> dotknie się z inną, posiadającą taką samą liczbę, zostają scalone w jedną.</string>
-    <string name="how_to_play_144_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> jest rozmieszczana losowo na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 144?</string>
+    <string name="how_to_play_144_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu. Potrafisz stworzyć kafelkę 144?</string>
     <string name="how_to_play_144_hint"><b>Podpowiedź:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">Dotknij planszę, aby wykonać losowy ruch!</string>
 
@@ -97,20 +97,20 @@
     <string name="buy_all_games_purchase_description">Kup wszystkie gry, razem z tymi, które pojawią się w przyszłości!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Oceń aplikację</string>
+    <string name="whats_new">Co nowego</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Wersja %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Nowa gra: Hex!</item>
+        <item>Gra 16384 jest od teraz za darmo!</item>
+        <item>Płynniejsze, lepsze animacje</item>
+        <item>Poprawa błędów &amp; ulepszenia</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Miłej zabawy!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Przesuń w lewo, prawo lub po przekątnej, aby poruszać kafelkami po planszy. Gdy <b>trzy kafelki z cyfrą 1</b> lub jakiekolwiek inne <b>dwie kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
+    <string name="how_to_play_hex_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu.</string>
 
 </resources>
