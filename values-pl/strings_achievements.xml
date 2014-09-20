@@ -9,43 +9,43 @@
 	 
 	 Example: 'Create a 4096 tile in a game of 2048'
     -->
-    <string name="create_tile_description"></string>
+    <string name="create_tile_description">Stwórz kafelkę %1$d w grze %2$s</string>
   
     <!-- Promoter -->
-    <string name="promoter_title"></string>
-    <string name="promoter_description"></string>
+    <string name="promoter_title">Promotor</string>
+    <string name="promoter_description">Oceń i udostępnij tę aplikację z ekranu ustawień</string>
 
     <!-- Learning the Hard Way -->
-    <string name="learning_the_hard_way_title"></string>
-    <string name="learning_the_hard_way_description"></string>
+    <string name="learning_the_hard_way_title">Nauka w trudny sposób</string>
+    <string name="learning_the_hard_way_description">Przegraj grę na ekranie Jak grać</string>
 
     <!-- Underachiever -->
-    <string name="underachiever_title"></string>
-    <string name="underachiever_description"></string>
+    <string name="underachiever_title">Poniżej możliwości</string>
+    <string name="underachiever_description">Przegraj grę 2048 z wynikiem równym lub poniżej 100.</string>
 
     <!-- Blitz! -->
-    <string name="blitz_title"></string>
-    <string name="blitz_description"></string>
+    <string name="blitz_title">Błyskawica!</string>
+    <string name="blitz_description">Stwórz kafelkę 2048 w mniej niż 15 minut w grze Blitz</string>
 
     <!-- Oops! -->
-    <string name="oops_title"></string>
-    <string name="oops_description"></string>
+    <string name="oops_title">Oops!</string>
+    <string name="oops_description">Przegraj grę Blitz w 1 ruchu</string>
 
     <!-- Indivisible -->
-    <string name="indivisible_title"></string>
-    <string name="indivisible_description"></string>
+    <string name="indivisible_title">Niepodzielny</string>
+    <string name="indivisible_description">Stwórz kafelkę, której liczba nie jest dzielnikiem 144 w grze 144</string>
 
     <!-- Marathon I/II/III-->
-    <string name="marathon1_title"></string>
-    <string name="marathon2_title"></string>
-    <string name="marathon3_title"></string>
-    <string name="marathon1_description"></string>
-    <string name="marathon2_description"></string>
-    <string name="marathon3_description"></string>
+    <string name="marathon1_title">Maraton I</string>
+    <string name="marathon2_title">Maraton II</string>
+    <string name="marathon3_title">Maraton III</string>
+    <string name="marathon1_description">Wykonaj przynajmniej 1000 ruchów w jednej grze</string>
+    <string name="marathon2_description">Wykonaj przynajmniej 5000 ruchów w jednej grze</string>
+    <string name="marathon3_description">Wykonaj przynajmniej 10000 ruchów w jednej grze</string>
 
     <!-- 4x2/4x16/4x64/ -->
-    <string name="four_times_two_description"></string>
-    <string name="four_times_sixteen_description"></string>
-    <string name="four_times_sixtyfour_description"></string>
+    <string name="four_times_two_description">Scal 4 dwójki w grze 16384</string>
+    <string name="four_times_sixteen_description">Scal 4 szesnastki w grze 16384</string>
+    <string name="four_times_sixtyfour_description">Scal 4 sześćdziesiątkiczwórki w grze 16384</string>
 
 </resources>
