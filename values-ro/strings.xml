@@ -58,20 +58,20 @@
 
     <!-- HOW TO PLAY ACTIVITY -->
     <string name="how_to_play_2048_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>2 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
-    <string name="how_to_play_2048_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 2048?</string>
+    <string name="how_to_play_2048_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată la întâmplare pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 2048?</string>
     <string name="how_to_play_243_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>3 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
-    <string name="how_to_play_243_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 243?</string>
+    <string name="how_to_play_243_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată la întâmplare pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 243?</string>
     <string name="how_to_play_16384_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când fie <b>2 sau 4 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
-    <string name="how_to_play_16384_paragraph2">La sfârșitul fiecărei mutare, <b>2 piese noi</b> sunt amplasate in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 16384?</string>
+    <string name="how_to_play_16384_paragraph2">La sfârșitul fiecărei mutare, <b>2 piese noi</b> sunt amplasate la întâmplare pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 16384?</string>
     <string name="how_to_play_blitz_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când exact <b>2 pătrate</b> cu același număr se ating, se combină într-unul singur.</string>
     <string name="how_to_play_blitz_paragraph2">Noi piese sunt plasate la întâmplare pe tablă la intervale fixe, <b>nu</b> după fiecare mutare. Jocul se termină când tabla se umple și nu mai pot fi plasate alte piese. Poți crea piesa de 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>2 numere Fibonacci consecutive</b> se ating, se combină într-unul singur pentru a forma următorul număr din seria Fibonacci.</string>
-    <string name="how_to_play_fibonacci_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare.</string>
+    <string name="how_to_play_fibonacci_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată la întâmplare pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare.</string>
     <string name="how_to_play_fibonacci_hint"><b>Sugestie:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…</string>
     <string name="how_to_play_144_paragraph1">Swipe stânga, dreapta, sus, sau jos pentru a muta pătratele dintr-o parte a tablei. Când <b>oricâte piese</b> cu același număr se ating, se combină într-unul singur.</string>
-    <string name="how_to_play_144_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată in mod aleatoriu pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 144?</string>
+    <string name="how_to_play_144_paragraph2">La sfârșitul fiecărei mutare, <b>1 piesă nouă</b> este amplasată la întâmplare pe tablă. Jocul se termină atunci când nu se mai poate face nici o mutare. Poți crea o piesă de 144?</string>
     <string name="how_to_play_144_hint"><b>Sugestie:</b> 2 × 2 × 2 × 2 × 3 × 3 = 144</string>
-    <string name="tap_to_play_random_move">Atinge tabla pentru a face o mutare aleatorie!</string>
+    <string name="tap_to_play_random_move">Atinge tabla pentru a face o mutare la întâmplare!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
@@ -95,23 +95,23 @@
     <string name="play_games_sign_in_failed">Conectare nereușită. Te rog verifică conexiunea la Internet și încearcă din nou.</string>
     <string name="unknown_error">Eroare necunoscută</string>
     <string name="unknown_error_please_try_again_later">Eroare necunoscută. Te rog încearcă din nou mai târziu.</string>
-    <string name="buy_all_games_purchase_description">Cumpără toate jocurile, inclusiv cele pe care le vom publica în viitor.</string>
+    <string name="buy_all_games_purchase_description">Cumpără toate jocurile, inclusiv pe cele pe care le vom publica în viitor.</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Evaluează aplicația</string>
+    <string name="whats_new">Ce este nou</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Versiunea %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Joc nou: Hex!</item>
+        <item>16384 este gratuit acum!</item>
+        <item>Animații mai fluide</item>
+        <item>Probleme rezolvate &amp; îmbunătățiri</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Distracție plăcută!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Swipe stânga, dreapta, sau diagonal pentru a muta piesele pe tablă. Cănd <b>trei piese de 1</b> sau oricare alte <b>două piese</b> cu același număr se ating, se combină într-una singură.</string>
+    <string name="how_to_play_hex_paragraph2">După fiecare mutare, <b>o nouă piesă</b> este plasată la întămplare pe tablă. Jocul se termină când nu se mai poate face nici o mutare.</string>
 
 </resources>
