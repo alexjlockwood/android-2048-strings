@@ -97,20 +97,20 @@
     <string name="buy_all_games_purchase_description">Kúpiť všetky hry, vrátanie hier, ktoré prídu v budúcnosti!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Hodnotiť</string>
+    <string name="whats_new">Novinky</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Verzia %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Nová hra</item>
+        <item>Hra 16384 je teraz zadarmo!</item>
+        <item>Plynulejšie, krajšie animácie</item>
+        <item>Vylepšenia a opravené chyby</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Veľa zábavy!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Posun prstom doľava, doprava alebo priečne presunie šesťuholník po hracej ploche. Ak sa <b>tri šesťuholníky s hodnotou 1</b> alebo iné <b>dva šesťuholníky</b> s rovnakou hodnotou dotknú, sčítajú sa do jedného.</string>
+    <string name="how_to_play_hex_paragraph2">Na konci každého ťahu sa <b>1 nový šesťuholník</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah.</string>
 
 </resources>
