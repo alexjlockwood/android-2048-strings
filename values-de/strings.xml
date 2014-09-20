@@ -97,21 +97,21 @@
     <string name="unknown_error_please_try_again_later">Unbekannter Fehler. Versuche es bitte später erneut.</string>
     <string name="buy_all_games_purchase_description">Kaufe alle Spiele, inklusiver aller die wir in der Zukunft veröffentlichen!</string>
 
-    <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
-    <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
-    <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string name="enjoy"></string>
+	<!-- WHAT'S NEW DIALOG STRINGS -->
+	<string name="rate_app">Bewerte App</string>
+	<string name="whats_new">Neuerungen</string>
+	<!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
+	<string name="version_number_format">Version %1$s</string>
+	<string-array name="whats_new_features">
+		<item>Neues Spiel: Hex!</item>
+		<item>16384 ist nun kostenlos!</item>
+		<item>Glatte, zügige Animationen</item>
+		<item>Fehlerbehebungen &amp; Erweiterungen</item>
+	</string-array>
+	<string name="enjoy">Viel Spa&szlig;!</string>
 
-    <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+	<!-- HOW TO PLAY HEX STRINGS -->
+	<string name="how_to_play_hex_paragraph1">Wische nach links, rechts oder diagonal, um die Kacheln über das Spielfeld zu bewegen. Wenn <b>drei Einserkacheln</b> oder <b>zwei Kacheln</b> beliebiger anderer Gr&ouml;&szlig;e mit der gleichen Nummer sich ber&uuml;hren, verschmelzen sie zu einer Kachel.</string>
+	<string name="how_to_play_hex_paragraph2">Am Ende eines jeden Spielzugs, wird <b>eine neue Kachel</b> zuf&auml;llig auf das Spielfeld platziert. Das Spiel endet, wenn Du keinen Zug mehr machen kannst.</string>
 
 </resources>
