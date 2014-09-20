@@ -97,4 +97,21 @@
     <string name="unknown_error_please_try_again_later"></string>
     <string name="buy_all_games_purchase_description"></string>
 
+    <!-- WHAT'S NEW DIALOG STRINGS -->
+    <string name="rate_app"></string>
+    <string name="whats_new"></string>
+    <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
+    <string name="version_number_format"></string>
+    <string-array name="whats_new_features">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="enjoy"></string>
+
+    <!-- HOW TO PLAY HEX STRINGS -->
+    <string name="how_to_play_hex_paragraph1"></string>
+    <string name="how_to_play_hex_paragraph2"></string>
+
 </resources>

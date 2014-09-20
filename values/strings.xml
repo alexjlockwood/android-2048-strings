@@ -113,5 +113,4 @@
     <string name="how_to_play_hex_paragraph1">Swipe left, right, or diagonally to slide the tiles across the grid. When <b>three 1-tiles</b> or any other <b>two tiles</b> with same number touch, they merge into one.</string>
     <string name="how_to_play_hex_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
 
-
 </resources>
