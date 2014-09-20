@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">Comprar todos los juegos. ¡Incluidos todos los futuros juegos que publiquemos en esta app!</string>﻿
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Evalua la app</string>
+    <string name="whats_new">Novedades</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Versión %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>¡Nuevo juego: Hex!</item>
+        <item>¡16384 ahora es gratis!</item>
+        <item>Animaciones más rápidas y suaves</item>
+        <item>Incluidas mejoras y correcciones</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">¡Disfruta!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Desliza a izquierda, derecha o en diagonal para mover los bloques por la cuadrícula. Cuando <b>tres bloques de 1</b> o cualquier otros <b>dos bloques</b> con el mismo número se tocan, se fusionan en uno.</string>
+    <string name="how_to_play_hex_paragraph2">Al final de cada movimiento, <b>1 nuevo bloque</b> se coloca aleatoriamente en la cuadrícula. La partida acaba cuando no puedes realizar más movimientos.</string>
 
 </resources>
