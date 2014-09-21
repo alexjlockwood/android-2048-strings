@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">買所有的遊戲，包含我們未來推出的新遊戲！</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">評價 app</string>
+    <string name="whats_new">新的發佈</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">版本 %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>新遊戲：Hex！</item>
+        <item>16384 現在免費！</item>
+        <item>更順暢，靈活的動畫</item>
+        <item>錯誤修正 &amp; 提升效能</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Enjoy!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">向左，向右或對角的滑動格子內的磚。當<b>當3個 1 磚</b>或任何相同數目的<b>2個磚</b>碰觸後，它們會合併成一個。</string>
+    <string name="how_to_play_hex_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。</string>
 
 </resources>
