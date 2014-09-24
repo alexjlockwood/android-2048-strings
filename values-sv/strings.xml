@@ -103,15 +103,15 @@
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format"></string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Nytt spel: Hex!</item>
+        <item>16384 är nu gratis!</item>
+        <item>Smidigare, elegantare animationer</item>
+        <item>Buggfixar &amp; förbättringar</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Ha skoj!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Svep vänster, höger, eller diagonalt för att flytta brickorna över spelplanen. När <b>tre 1-brickor</b> eller <b>två andra brickor</b> med samma siffra berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_hex_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag.</string>
 
 </resources>
