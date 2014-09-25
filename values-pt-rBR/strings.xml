@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">Compre todos os jogos, incluindo qualquer jogo novo que lançarmos no futuro!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Avalie o app</string>
+    <string name="whats_new">Novidades</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Versão %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Novo jogo: Hex!</item>
+        <item>16384 agora é gratuito!</item>
+        <item>Animações mais ágeis e suaves</item>
+        <item>Correções de bugs &amp; melhorias</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Aproveite!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Deslize para esquerda, direita ou diagonalmente para mover os blocos pela grade. Quando <b>três blocos de 1</b> ou quaisquer outros <b>dois blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
+    <string name="how_to_play_hex_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento.</string>
 
 </resources>
