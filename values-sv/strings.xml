@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">Köp alla spel, även nya, som vi släpper i framtiden!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Betygsätt appen</string>
+    <string name="whats_new">Nyheter</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Version %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Nytt spel: Hex!</item>
+        <item>16384 är nu gratis!</item>
+        <item>Mjukare, smidigare animationer</item>
+        <item>Buggfixar &amp; förbättringar</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Håll till godo!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Svep till vänster, höger, eller diagonalt för att flytta brickorna över spelplanen. När <b>tre 1-brickor</b> eller <b>två brickor</b> med samma nummer berör varandra, slås de samman till en.</string>
+    <string name="how_to_play_hex_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag.</string>
 
 </resources>
