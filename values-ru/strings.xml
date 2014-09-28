@@ -92,26 +92,26 @@
     <string name="failed_to_complete_purchase">Не удалось завершить покупку</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">Не удалось войти. Пожалуйста, проверьте подключение к сети и повторите попытку.</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="unknown_error_please_try_again_later">Неизвестная ошибка. Пожалуйста, повторите попытку позже.</string>
+    <string name="buy_all_games_purchase_description">Купить все игры, включая новые игры, которые мы выпустим в будущем!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="whats_new">Обновления</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Версия %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Новая игра: Hex!</item>
+        <item>16384 теперь бесплатно!</item>
+        <item>Более плавные анимации</item>
+        <item>Исправлены ошибки &amp; различные улучшения</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Наслаждайтесь!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Проводите пальцем влево, вправо, или по диагонали чтоб передвигать кубики по сетке. Когда <b>три 1-кубика</b> или любые другие <b>2 кубика</b> с одинаковыми номерами сталкиваются, они объединяются в один.</string>
+    <string name="how_to_play_hex_paragraph2">В конце каждого хода, <b>1 новый кубик</b> появляется в случайной ячейке. Игра заканчивается, когда не остается возможных ходов.</string>
 
 </resources>
