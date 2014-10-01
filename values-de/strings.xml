@@ -108,10 +108,10 @@
         <item>Glatte, zügige Animationen</item>
         <item>Fehlerbehebungen &amp; Erweiterungen</item>
     </string-array>
-    <string name="enjoy">Viel Spa&szlig;!</string>
+    <string name="enjoy">Viel Spa&amp;szlig;!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1">Wische nach links, rechts oder diagonal, um die Kacheln über das Gitter zu bewegen. Wenn <b>drei Einserkacheln</b> oder <b>zwei Kacheln</b> beliebiger anderer Gr&ouml;&szlig;e mit der gleichen Nummer sich ber&uuml;hren, verschmelzen sie zu einer Kachel.</string>
-    <string name="how_to_play_hex_paragraph2">Am Ende eines jeden Spielzugs, wird <b>eine neue Kachel</b> zuf&auml;llig auf das Gitter platziert. Das Spiel endet, wenn Du keinen Zug mehr machen kannst.</string>
+    <string name="how_to_play_hex_paragraph1">Wische nach links, rechts oder diagonal, um die Kacheln über das Gitter zu bewegen. Wenn <b>drei Einserkacheln</b> oder <b>zwei Kacheln</b> beliebiger anderer Gr&amp;ouml;&amp;szlig;e mit der gleichen Nummer sich ber&amp;uuml;hren, verschmelzen sie zu einer Kachel.</string>
+    <string name="how_to_play_hex_paragraph2">Am Ende eines jeden Spielzugs, wird <b>eine neue Kachel</b> zuf&amp;auml;llig auf das Gitter platziert. Das Spiel endet, wenn Du keinen Zug mehr machen kannst.</string>
 
 </resources>
