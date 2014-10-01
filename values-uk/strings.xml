@@ -98,20 +98,20 @@
     <string name="buy_all_games_purchase_description">Придбайте усі игри включно з новими іграми, що ми розробимо у майбутньому!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">Поставити оцінку</string>
+    <string name="whats_new">Що нового</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">Версія %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>Нова гра: Hex!</item>
+        <item>Відтепер 16384 безкоштовна!</item>
+        <item>Більш гладка анімація</item>
+        <item>Виправлено помилки &amp; деякі покращення </item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">Насолоджуйся!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">Проведіть пальцем ліворуч, праворуч, чи по діагоналі, щоб рухати плитки по сітці. Коли саме <b>3 1-плитки</b> чи будь-які інші <b>2 плитки</b>з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
+    <string name="how_to_play_hex_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на сітці у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок.</string>
 
 </resources>
