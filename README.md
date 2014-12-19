@@ -85,6 +85,10 @@ UI-facing `string`s in the English (en) version of the application.
 <a href="http://i.imgur.com/pS9JQTA.png"><img src="http://i.imgur.com/pS9JQTA.png" width="200px"/></a>
 <a href="http://i.imgur.com/H8Fuy3t.png"><img src="http://i.imgur.com/H8Fuy3t.png" width="200px"/></a>
 
+### Other
+
+<a href="http://i.imgur.com/SgmQ8hz.png"><img src="http://i.imgur.com/SgmQ8hz.png" width="200px"/></a>
+
 ## Current Progress
 
 Support for the following languages have been published to the Play Store:
