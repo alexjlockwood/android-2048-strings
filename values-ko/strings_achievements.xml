@@ -43,9 +43,10 @@
     <string name="marathon2_description"></string>
     <string name="marathon3_description"></string>
 
-    <!-- 4x2/4x16/4x64 -->
+    <!-- 4x2/4x16/4x64/3x9 -->
     <string name="four_times_two_description"></string>
     <string name="four_times_sixteen_description"></string>
     <string name="four_times_sixtyfour_description"></string>
+    <string name="three_times_nine_description"></string>
 
 </resources>

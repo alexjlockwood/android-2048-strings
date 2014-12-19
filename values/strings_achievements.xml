@@ -43,9 +43,10 @@
     <string name="marathon2_description">Play at least 5000 moves in a single game</string>
     <string name="marathon3_description">Play at least 10000 moves in a single game</string>
 
-    <!-- 4x2/4x16/4x64/ -->
+    <!-- 4x2/4x16/4x64/3x9 -->
     <string name="four_times_two_description">Merge 4 2s in a game of 16384</string>
     <string name="four_times_sixteen_description">Merge 4 16s in a game of 16384</string>
     <string name="four_times_sixtyfour_description">Merge 4 64s in a game of 16384</string>
+    <string name="three_times_nine_description">Merge 3 9s in a game of 144.</string>
 
 </resources>
