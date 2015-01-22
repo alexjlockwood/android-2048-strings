@@ -2,115 +2,115 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game"></string>
-    <string name="resume"></string>
-    <string name="free"></string>
-    <string name="pro"></string>
-    <string name="how_to_play"></string>
-    <string name="buy_game"></string>
-    <string name="buy_all_games"></string>
-    <string name="more_games_coming_soon"></string>
-    <string name="achievements"></string>
-    <string name="leaderboards"></string>
-    <string name="settings"></string>
-    <string name="send_feedback"></string>
+    <string name="new_game">새 게임</string>
+    <string name="resume">일시정지</string>
+    <string name="free">무료</string>
+    <string name="pro">프로</string>
+    <string name="how_to_play">플레이하는 법</string>
+    <string name="buy_game">게임 구매하기</string>
+    <string name="buy_all_games">전체 게임 구매</string>
+    <string name="more_games_coming_soon">더 많은 게임이 곧 출시됩니다!</string>
+    <string name="achievements">업적</string>
+    <string name="leaderboards">리더보드</string>
+    <string name="settings">설정</string>
+    <string name="send_feedback">피드백 보내기</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score"></string>
-    <string name="best"></string>
-    <string name="share_screenshot"></string>
-    <string name="show_time"></string>
+    <string name="score">점수</string>
+    <string name="best">최고 점수</string>
+    <string name="share_screenshot">스크린 샷 공유하기</string>
+    <string name="show_time">시간 보이기</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning"></string>
-    <string name="start_new_game_warning"></string>
-    <string name="start_new_game_warning_current"></string>
-    <string name="game_over"></string>
-    <string name="moves"></string>
-    <string name="time"></string>
-    <string name="sign_in_with_google_dialog_message"></string>
+    <string name="are_you_sure_warning">확실합니까?</string>
+    <string name="start_new_game_warning">새 게임을 시작하면 이전 게임이 지워집니다.</string>
+    <string name="start_new_game_warning_current">새 게임을 시작하면 현재 게임이 지워집니다.</string>
+    <string name="game_over">게임 오버</string>
+    <string name="moves">이동</string>
+    <string name="time">시간</string>
+    <string name="sign_in_with_google_dialog_message">업적을 달성하고 최고 점수를 클라우드에 동기화 하러 로그인 하기.</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about"></string>
-    <string name="rate"></string>
-    <string name="share"></string>
-    <string name="show_us_your_support"></string>
-    <string name="share_with_your_friends"></string>
-    <string name="google_play_games"></string>
-    <string name="sign_in"></string>
-    <string name="sign_out"></string>
-    <string name="please_sign_in_again"></string>
-    <string name="sign_in_with_google_play_games"></string>
-    <string name="manage_your_google_play_games_settings"></string>
+    <string name="about">이 앱에 대해서</string>
+    <string name="rate">평가하기</string>
+    <string name="share">공유하기</string>
+    <string name="show_us_your_support">우리를 지원해주세요!</string>
+    <string name="share_with_your_friends">2048++을 친구들에게 공유하기!</string>
+    <string name="google_play_games">구글 플레이 게임</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_out">로그아웃</string>
+    <string name="please_sign_in_again">다시 로그인 해주세요</string>
+    <string name="sign_in_with_google_play_games">구글 플레이 게임 로그인하기</string>
+    <string name="manage_your_google_play_games_settings">구글 플레이 게임 설정 관리하기</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message"></string>
+    <string name="confirm_sign_out_message">%1$s의 게임을 로그아웃합니다.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as"></string>
+    <string name="currently_signed_in_as">현재 %1$s로 로그인되어 있습니다.</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us"></string>
-    <string name="developed_and_designed_by"></string>
-    <string name="special_thanks_to"></string>
+    <string name="contact_us">개발자에게 연락하기</string>
+    <string name="developed_and_designed_by">개발자와 디자이너</string>
+    <string name="special_thanks_to">특별히 감사드립니다</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by"></string>
+    <string name="translations_by">번역자</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1"></string>
-    <string name="how_to_play_2048_paragraph2"></string>
-    <string name="how_to_play_243_paragraph1"></string>
-    <string name="how_to_play_243_paragraph2"></string>
-    <string name="how_to_play_16384_paragraph1"></string>
-    <string name="how_to_play_16384_paragraph2"></string>
-    <string name="how_to_play_blitz_paragraph1"></string>
-    <string name="how_to_play_blitz_paragraph2"></string>
-    <string name="how_to_play_fibonacci_paragraph1"></string>
-    <string name="how_to_play_fibonacci_paragraph2"></string>
-    <string name="how_to_play_fibonacci_hint"></string>
-    <string name="how_to_play_144_paragraph1"></string>
-    <string name="how_to_play_144_paragraph2"></string>
-    <string name="how_to_play_144_hint"></string>
-    <string name="tap_to_play_random_move"></string>
+    <string name="how_to_play_2048_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_2048_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 2048 타일을 만들 수 있을까요?</string>
+    <string name="how_to_play_243_paragraph1">S타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>3개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_243_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 243 타일을 만들 수 있을까요?</string>
+    <string name="how_to_play_16384_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개 혹은 4개 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_16384_paragraph2">각 움직임이 끝나면 <b>두개의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 16384 타일을 만들 수 있을까요?/string>
+    <string name="how_to_play_blitz_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_blitz_paragraph2">새로운 타일이 <b>매 움직임 후가 아닌</b> 일정 주기마다 랜덤하게 배치됩니다. 격자가 꽉차서 더 이상 움직일 타일이 없으면 게임이 끝납니다. 2048 타일을 만들 수 있을까요?</string>
+    <string name="how_to_play_fibonacci_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 연속된 피보나치 수</b>가 만나면 다음 피보나치 수로 합쳐집니다.</string>
+    <string name="how_to_play_fibonacci_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다.</string>
+    <string name="how_to_play_fibonacci_hint"><b>힌트:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>몇개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_144_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 144 타일을 만들 수 있을까요?</string>
+    <string name="how_to_play_144_hint"><b>힌트:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">무작위 움직임을 플레이하기 위해 격자를 누르세요!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with"></string>
+    <string name="share_with">공유하기</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"></string>
+    <string name="share_app_message"플레이 스토어에서 #2048++ 앱을 확인하세요!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message"></string>
+    <string name="share_screenshot_message">#2048++을 플레이하며 %2$s 게임에서 %1$d 점을 달성하였습니다!\n\n플레이 스토어에서 앱을 확인하세! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery"></string>
+    <string name="screenshot_saved_to_gallery">사진첩에 스크린샷을 저장하기</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot"></string>
+    <string name="failed_to_take_screenshot">스크린샷 찍는 것을 실패하였습니다</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase"></string>
+    <string name="failed_to_complete_purchase">결제 완료를 실패하였습니</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed"></string>
-    <string name="unknown_error"></string>
-    <string name="unknown_error_please_try_again_later"></string>
-    <string name="buy_all_games_purchase_description"></string>
+    <string name="play_games_sign_in_failed">로그인에 실패하였습니다. 네트워크 연결을 확인하고 다시 시도하세요.</string>
+    <string name="unknown_error">알 수 없는 에러</string>
+    <string name="unknown_error_please_try_again_later">알 수 없는 에러입니다. 나중에 다시 시도하세요.</string>
+    <string name="buy_all_games_purchase_description">미래에 출시할 새 게임을 포함한 전체 게임 구매</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app"></string>
-    <string name="whats_new"></string>
+    <string name="rate_app">앱 평가하기</string>
+    <string name="whats_new">새 소식</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format"></string>
+    <string name="version_number_format">버전 %1$s</string>
     <string-array name="whats_new_features">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>새 게임: 헥스!</item>
+        <item>16384는 이제 무료입니다!</item>
+        <item>부드럽고 매끈한 에니메이</item>
+        <item>버그 수정과 향상</item>
     </string-array>
-    <string name="enjoy"></string>
+    <string name="enjoy">즐기세요!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1"></string>
-    <string name="how_to_play_hex_paragraph2"></string>
+    <string name="how_to_play_hex_paragraph1">좌우나 대각선으로 밀어 격자에서 이동하세요. <b>세개의 1 타일</b>이나 같은 숫자인 <b>두개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_hex_paragraph2">매 움직임의 끝에 <b>하나의 새 타일</b>이 무작위로 격자에 배치됩니다. 더 이상 움직일 수 없으면 게임이 끝납니다.</string>
 
 </resources>

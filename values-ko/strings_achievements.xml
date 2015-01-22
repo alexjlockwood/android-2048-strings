@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- 
+    <!--
 	 Generic description string for a generic 'Create a tile' achievement.
 
 	 '%1$d' will be replaced with the tile number.
 	 '%2$s' will be replaced with the game's name.
-	 
+
 	 Example: 'Create a 4096 tile in a game of 2048'
     -->
-    <string name="create_tile_description"></string>
-  
+    <string name="create_tile_description">%2$s 게임으로 %1$d 타일 달성</string>
+
     <!-- Promoter -->
-    <string name="promoter_title"></string>
-    <string name="promoter_description"></string>
+    <string name="promoter_title">판촉</string>
+    <string name="promoter_description">설정 화면에서 앱을 평가하고 공유하세요</string>
 
     <!-- Learning the Hard Way -->
-    <string name="learning_the_hard_way_title"></string>
-    <string name="learning_the_hard_way_description"></string>
+    <string name="learning_the_hard_way_title">어려운 방법 배우기</string>
+    <string name="learning_the_hard_way_description">플레이 하는 법 화면에서 게임에 패배하기</string>
 
     <!-- Underachiever -->
-    <string name="underachiever_title"></string>
-    <string name="underachiever_description"></string>
+    <string name="underachiever_title">부진</string>
+    <string name="underachiever_description">2048 게임에서 100점 이하 달성</string>
 
     <!-- Blitz! -->
-    <string name="blitz_title">Blitz!</string>
-    <string name="blitz_description"></string>
+    <string name="blitz_title">블리츠!</string>
+    <string name="blitz_description">블리츠 게임에서 15분 내에 2048 달성</string>
 
     <!-- Oops! -->
-    <string name="oops_title">Oops!</string>
-    <string name="oops_description"></string>
+    <string name="oops_title">어머나!</string>
+    <string name="oops_description">블리츠 게임에서 한번 움직임에 지기</string>
 
     <!-- Indivisible -->
-    <string name="indivisible_title"></string>
-    <string name="indivisible_description"></string>
+    <string name="indivisible_title">불가분</string>
+    <string name="indivisible_description">144 게임에서 144를 나눌 수 없는 타일을 만들기</string>
 
-    <!-- Marathon I/II/III -->
-    <string name="marathon1_title">Marathon I</string>
-    <string name="marathon2_title">Marathon II</string>
-    <string name="marathon3_title">Marathon III</string>
-    <string name="marathon1_description"></string>
-    <string name="marathon2_description"></string>
-    <string name="marathon3_description"></string>
+    <!-- Marathon I/II/III-->
+    <string name="marathon1_title">마라톤 I</string>
+    <string name="marathon2_title">마라톤 II</string>
+    <string name="marathon3_title">마라톤 III</string>
+    <string name="marathon1_description">한 게임에서 최소 1000번 움직임</string>
+    <string name="marathon2_description">한 게임에서 최소 5000번 움직임</string>
+    <string name="marathon3_description">한 게임에서 최소 10000번 움직임</string>
 
     <!-- 4x2/4x16/4x64/3x9 -->
-    <string name="four_times_two_description"></string>
-    <string name="four_times_sixteen_description"></string>
-    <string name="four_times_sixtyfour_description"></string>
-    <string name="three_times_nine_description"></string>
+    <string name="four_times_two_description">16384 게임에서 4 2단 합치기</string>
+    <string name="four_times_sixteen_description">16384 게임에서 4 16단 합치기</string>
+    <string name="four_times_sixtyfour_description">16384 게임에서 4 64단 합치기</string>
+    <string name="three_times_nine_description">144 게임에서 3 9단 합치기</string>
 
 </resources>
