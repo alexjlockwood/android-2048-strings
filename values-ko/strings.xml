@@ -28,7 +28,7 @@
     <string name="game_over">게임 오버</string>
     <string name="moves">이동</string>
     <string name="time">시간</string>
-    <string name="sign_in_with_google_dialog_message">업적을 달성하고 최고 점수를 클라우드에 동기화 하러 로그인 하기.</string>
+    <string name="sign_in_with_google_dialog_message">업적 달성과 최고 점수를 클라우드에 연동하러 로그인 하기.</string>
 
     <!-- SETTINGS ACTIVITY -->
     <string name="about">이 앱에 대해서</string>
@@ -58,10 +58,10 @@
     <!-- HOW TO PLAY ACTIVITY -->
     <string name="how_to_play_2048_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
     <string name="how_to_play_2048_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 2048 타일을 만들 수 있을까요?</string>
-    <string name="how_to_play_243_paragraph1">S타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>3개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
+    <string name="how_to_play_243_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>3개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
     <string name="how_to_play_243_paragraph2">각 움직임이 끝나면 <b>하나의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 243 타일을 만들 수 있을까요?</string>
     <string name="how_to_play_16384_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개 혹은 4개 타일</b>이 만나면 하나로 합쳐집니다.</string>
-    <string name="how_to_play_16384_paragraph2">각 움직임이 끝나면 <b>두개의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 16384 타일을 만들 수 있을까요?/string>
+    <string name="how_to_play_16384_paragraph2">각 움직임이 끝나면 <b>두개의 새로운 타일</b>이 무작위로 격자에 배치됩니다. 게임은 더 이상 타일을 옮길 수 없을 때 끝납니다. 16384 타일을 만들 수 있을까요?</string>
     <string name="how_to_play_blitz_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
     <string name="how_to_play_blitz_paragraph2">새로운 타일이 <b>매 움직임 후가 아닌</b> 일정 주기마다 랜덤하게 배치됩니다. 격자가 꽉차서 더 이상 움직일 타일이 없으면 게임이 끝납니다. 2048 타일을 만들 수 있을까요?</string>
     <string name="how_to_play_fibonacci_paragraph1">타일을 격자에 옮기기 위해 상하좌우로 미세요. 정확히 같은 숫자를 가진 <b>2개의 연속된 피보나치 수</b>가 만나면 다음 피보나치 수로 합쳐집니다.</string>
@@ -76,11 +76,11 @@
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
     <string name="share_with">공유하기</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message"플레이 스토어에서 #2048++ 앱을 확인하세요!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_app_message">플레이 스토어에서 #2048++ 앱을 확인하세요!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">#2048++을 플레이하며 %2$s 게임에서 %1$d 점을 달성하였습니다!\n\n플레이 스토어에서 앱을 확인하세! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">#2048++을 플레이하며 %2$s 게임에서 %1$d 점을 달성하였습니다!\n\n플레이 스토어에서 앱을 확인하세요! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
@@ -88,13 +88,13 @@
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">스크린샷 찍는 것을 실패하였습니다</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase">결제 완료를 실패하였습니</string>
+    <string name="failed_to_complete_purchase">결제 완료를 실패하였습니다</string>
 
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">로그인에 실패하였습니다. 네트워크 연결을 확인하고 다시 시도하세요.</string>
     <string name="unknown_error">알 수 없는 에러</string>
     <string name="unknown_error_please_try_again_later">알 수 없는 에러입니다. 나중에 다시 시도하세요.</string>
-    <string name="buy_all_games_purchase_description">미래에 출시할 새 게임을 포함한 전체 게임 구매</string>
+    <string name="buy_all_games_purchase_description">앞으로 출시할 새로운 게임을 포함 전체 게임 구매</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
     <string name="rate_app">앱 평가하기</string>
