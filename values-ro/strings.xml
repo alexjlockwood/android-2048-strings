@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Swipe stânga, dreapta, sau diagonal pentru a muta piesele pe tablă. Cănd <b>trei piese de 1</b> sau oricare alte <b>două piese</b> cu același număr se ating, se combină într-una singură.</string>
     <string name="how_to_play_hex_paragraph2">După fiecare mutare, <b>o nouă piesă</b> este plasată la întămplare pe tablă. Jocul se termină când nu se mai poate face nici o mutare.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Probleme rezolvate &amp; îmbunătățiri</item>
+    </string-array>
+
 </resources>

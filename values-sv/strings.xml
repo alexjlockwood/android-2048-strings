@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Svep till vänster, höger, eller diagonalt för att flytta brickorna över spelplanen. När <b>tre 1-brickor</b> eller <b>två brickor</b> med samma nummer berör varandra, slås de samman till en.</string>
     <string name="how_to_play_hex_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Buggfixar &amp; förbättringar</item>
+    </string-array>
+
 </resources>

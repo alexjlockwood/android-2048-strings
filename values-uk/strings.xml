@@ -106,12 +106,21 @@
         <item>Нова гра: Hex!</item>
         <item>Відтепер 16384 безкоштовна!</item>
         <item>Більш гладка анімація</item>
-        <item>Виправлено помилки &amp; деякі покращення </item>
+        <item>Виправлено помилки &amp; деякі покращення</item>
     </string-array>
     <string name="enjoy">Насолоджуйся!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
     <string name="how_to_play_hex_paragraph1">Проведіть пальцем ліворуч, праворуч, чи по діагоналі, щоб рухати плитки по сітці. Коли саме <b>3 1-плитки</b> чи будь-які інші <b>2 плитки</b>з однаковими числами зіштовхнуться, вони поєднаються в одну</string>
     <string name="how_to_play_hex_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на сітці у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок.</string>
+
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Виправлено помилки &amp; деякі покращення</item>
+    </string-array>
 
 </resources>

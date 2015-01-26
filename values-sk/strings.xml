@@ -113,4 +113,13 @@
     <string name="how_to_play_hex_paragraph1">Posun prstom doľava, doprava alebo priečne presunie šesťuholník po hracej ploche. Ak sa <b>tri šesťuholníky s hodnotou 1</b> alebo iné <b>dva šesťuholníky</b> s rovnakou hodnotou dotknú, sčítajú sa do jedného.</string>
     <string name="how_to_play_hex_paragraph2">Na konci každého ťahu sa <b>1 nový šesťuholník</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Vylepšenia a opravené chyby</item>
+    </string-array>
+
 </resources>

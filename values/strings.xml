@@ -113,4 +113,13 @@
     <string name="how_to_play_hex_paragraph1">Swipe left, right, or diagonally to slide the tiles across the grid. When <b>three 1-tiles</b> or any other <b>two tiles</b> with same number touch, they merge into one.</string>
     <string name="how_to_play_hex_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string-array name="whats_new_features_v22">
+        <item>New dark theme available in the settings!</item>
+        <item>Bug fixes &amp; enhancements</item>
+    </string-array>
+
 </resources>

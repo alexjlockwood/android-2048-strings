@@ -113,4 +113,13 @@
     <string name="how_to_play_hex_paragraph1">Przesuń w lewo, prawo lub po przekątnej, aby poruszać kafelkami po planszy. Gdy <b>trzy kafelki z cyfrą 1</b> lub jakiekolwiek inne <b>dwie kafelki</b> z tą samą liczbą dotkną się, zostają scalone w jedną.</string>
     <string name="how_to_play_hex_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Poprawa błędów &amp; ulepszenia</item>
+    </string-array>
+
 </resources>

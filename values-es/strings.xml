@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Desliza a izquierda, derecha o en diagonal para mover los bloques por la cuadrícula. Cuando <b>tres bloques de 1</b> o cualquier otros <b>dos bloques</b> con el mismo número se tocan, se fusionan en uno.</string>
     <string name="how_to_play_hex_paragraph2">Al final de cada movimiento, <b>1 nuevo bloque</b> se coloca aleatoriamente en la cuadrícula. La partida acaba cuando no puedes realizar más movimientos.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Incluidas mejoras y correcciones</item>
+    </string-array>
+
 </resources>

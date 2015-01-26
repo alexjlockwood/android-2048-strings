@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Проводите пальцем влево, вправо, или по диагонали чтоб передвигать кубики по сетке. Когда <b>три 1-кубика</b> или любые другие <b>2 кубика</b> с одинаковыми номерами сталкиваются, они объединяются в один.</string>
     <string name="how_to_play_hex_paragraph2">В конце каждого хода, <b>1 новый кубик</b> появляется в случайной ячейке. Игра заканчивается, когда не остается возможных ходов.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Исправлены ошибки &amp; различные улучшения</item>
+    </string-array>
+
 </resources>

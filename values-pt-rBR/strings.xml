@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Deslize para esquerda, direita ou diagonalmente para mover os blocos pela grade. Quando <b>três blocos de 1</b> ou quaisquer outros <b>dois blocos</b> com o mesmo número se tocam, eles se juntam em um só.</string>
     <string name="how_to_play_hex_paragraph2">No fim de cada movimento, <b>1 novo bloco</b> é colocado aleatoriamente na grade. O jogo termina quando você não consegue mais fazer um movimento.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Correções de bugs &amp; melhorias</item>
+    </string-array>
+
 </resources>

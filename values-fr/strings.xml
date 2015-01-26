@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Swipe gauche, droit, ou en diagonal pour faire glisser les carrés sur la grille. Quand <b>trois carrés-1</b> ou n'importe quels autre <b>paire de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_hex_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Corrections de bugs &amp; améliorations</item>
+    </string-array>
+
 </resources>

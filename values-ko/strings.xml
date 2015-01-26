@@ -113,4 +113,13 @@
     <string name="how_to_play_hex_paragraph1">좌우나 대각선으로 밀어 격자에서 이동하세요. <b>세개의 1 타일</b>이나 같은 숫자인 <b>두개의 타일</b>이 만나면 하나로 합쳐집니다.</string>
     <string name="how_to_play_hex_paragraph2">매 움직임의 끝에 <b>하나의 새 타일</b>이 무작위로 격자에 배치됩니다. 더 이상 움직일 수 없으면 게임이 끝납니다.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>버그 수정과 향상</item>
+    </string-array>
+
 </resources>

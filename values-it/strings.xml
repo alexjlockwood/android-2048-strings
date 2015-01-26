@@ -114,4 +114,13 @@
     <string name="how_to_play_hex_paragraph1">Scorri verso sinistra, destra o in diagonale per muovere le tessere nella griglia. Quando <b>3 tessere da 1</b> o almeno <b>2 tessere</b>con lo stesso numero si toccano, vengono unite in una nuova tessera.</string>
     <string name="how_to_play_hex_paragraph2">Alla fine di ogni mossa, <b>1 nuova tessera</b> viene posizionata in modo casuale nella griglia. Il gioco termina quando non puoi effettuare altre mosse.</string>
 
+    <!-- LIGHT/DARK THEME STRINGS -->
+    <string name="theme"></string>
+    <string name="theme_light"></string>
+    <string name="theme_dark"></string>
+    <string-array name="whats_new_features_v22">
+        <item></item>
+        <item>Correzioni e miglioramenti</item>
+    </string-array>
+
 </resources>
