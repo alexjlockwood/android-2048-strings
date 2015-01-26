@@ -102,7 +102,7 @@
     <string name="whats_new">Nyheter</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Version %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Nytt spel: Hex!</item>
         <item>16384 är nu gratis!</item>
         <item>Mjukare, smidigare animationer</item>
@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">Efter varje drag, kommer <b>1 ny bricka</b> att slumpmässigt placeras ut på spelplanen. Spelet är slut när du inte kan utföra fler drag.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Tema</string>
+    <string-array name="preference_theme_entries">
+        <item>Ljust</item>
+        <item>Mörkt</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Ett nytt mörkt tema finns nu tillgängligt i inställningarna!</item>
         <item>Buggfixar &amp; förbättringar</item>
     </string-array>
 

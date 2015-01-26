@@ -102,7 +102,7 @@
     <string name="whats_new">Novedades</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Versión %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>¡Nuevo juego: Hex!</item>
         <item>¡16384 ahora es gratis!</item>
         <item>Animaciones más rápidas y suaves</item>
@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">Al final de cada movimiento, <b>1 nuevo bloque</b> se coloca aleatoriamente en la cuadrícula. La partida acaba cuando no puedes realizar más movimientos.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Tema</string>
+    <string-array name="preference_theme_entries">
+        <item>Claro</item>
+        <item>Oscuro</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>¡Nuevo tema oscuro disponible en Ajustes!﻿</item>
         <item>Incluidas mejoras y correcciones</item>
     </string-array>
 

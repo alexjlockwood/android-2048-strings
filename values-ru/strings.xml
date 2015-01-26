@@ -102,7 +102,7 @@
     <string name="whats_new">Обновления</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Версия %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Новая игра: Hex!</item>
         <item>16384 теперь бесплатно!</item>
         <item>Более плавные анимации</item>
@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">В конце каждого хода, <b>1 новый кубик</b> появляется в случайной ячейке. Игра заканчивается, когда не остается возможных ходов.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Тема</string>
+    <string-array name="preference_theme_entries">
+        <item>Светлая</item>
+        <item>Тёмная</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Новая тёмная тема доступна в настройках!</item>
         <item>Исправлены ошибки &amp; различные улучшения</item>
     </string-array>
 

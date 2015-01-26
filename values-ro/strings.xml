@@ -102,7 +102,7 @@
     <string name="whats_new">Ce este nou</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Versiunea %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Joc nou: Hex!</item>
         <item>16384 este gratuit acum!</item>
         <item>Animații mai fluide</item>
@@ -115,12 +115,13 @@
     <string name="how_to_play_hex_paragraph2">După fiecare mutare, <b>o nouă piesă</b> este plasată la întămplare pe tablă. Jocul se termină când nu se mai poate face nici o mutare.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Temă</string>
+    <string-array name="preference_theme_entries">
+        <item>Deschisă</item>
+        <item>Închisă</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>O nouă temă închisă este disponibilă în setări.</item>
         <item>Probleme rezolvate &amp; îmbunătățiri</item>
     </string-array>
-
 </resources>

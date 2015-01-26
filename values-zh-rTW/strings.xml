@@ -102,7 +102,7 @@
     <string name="whats_new">新的發佈</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">版本 %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>新遊戲：Hex！</item>
         <item>16384 現在免費！</item>
         <item>更順暢，靈活的動畫</item>
@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">主題</string>
+    <string-array name="preference_theme_entries">
+        <item>淺色系</item>
+        <item>深色系</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>新的深色主題可於設定中取得！</item>
         <item>錯誤修正 &amp; 提升效能</item>
     </string-array>
 

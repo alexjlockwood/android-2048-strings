@@ -101,7 +101,7 @@
     <string name="whats_new">Novinky</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Verzia %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Nová hra</item>
         <item>Hra 16384 je teraz zadarmo!</item>
         <item>Plynulejšie, krajšie animácie</item>
@@ -115,8 +115,10 @@
 
     <!-- LIGHT/DARK THEME STRINGS -->
     <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string-array name="preference_theme_entries">
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="whats_new_features_v22">
         <item></item>
         <item>Vylepšenia a opravené chyby</item>

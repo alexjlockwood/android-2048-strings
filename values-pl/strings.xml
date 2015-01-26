@@ -101,7 +101,7 @@
     <string name="whats_new">Co nowego</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Wersja %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Nowa gra: Hex!</item>
         <item>Gra 16384 jest od teraz za darmo!</item>
         <item>Płynniejsze, lepsze animacje</item>
@@ -114,11 +114,13 @@
     <string name="how_to_play_hex_paragraph2">Po każdym ruchu, <b>1 nowa kafelka</b> zostaje losowo rozmieszczona na planszy. Gra kończy się, gdy nie możesz wykonać żadnego ruchu.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Motyw</string>
+    <string-array name="preference_theme_entries">
+        <item>Jasny</item>
+        <item>Ciemny</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Nowy ciemny motyw dostępny w ustawieniach aplikacji!﻿</item>
         <item>Poprawa błędów &amp; ulepszenia</item>
     </string-array>
 

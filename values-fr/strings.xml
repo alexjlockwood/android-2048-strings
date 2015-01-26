@@ -102,7 +102,7 @@
     <string name="whats_new">Nouveautés</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Version %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>New game: Hex!</item>
         <item>16384 est maintenant gratuit!</item>
         <item>Animations plus belles et fluides</item>
@@ -116,8 +116,10 @@
 
     <!-- LIGHT/DARK THEME STRINGS -->
     <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string-array name="preference_theme_entries">
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="whats_new_features_v22">
         <item></item>
         <item>Corrections de bugs &amp; améliorations</item>

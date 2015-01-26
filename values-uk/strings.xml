@@ -102,7 +102,7 @@
     <string name="whats_new">Що нового</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Версія %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Нова гра: Hex!</item>
         <item>Відтепер 16384 безкоштовна!</item>
         <item>Більш гладка анімація</item>
@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">Наприкінці кожного кроку <b>1 нова плитка</b> з\'являється на сітці у випадковому місці. Гра закінчиться коли ви більш не зможете зробити крок.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Тема</string>
+    <string-array name="preference_theme_entries">
+        <item>Світла</item>
+        <item>Темна</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Нова темна тема доступна в налаштуваннях!</item>
         <item>Виправлено помилки &amp; деякі покращення</item>
     </string-array>
 

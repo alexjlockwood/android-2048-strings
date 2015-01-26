@@ -115,11 +115,13 @@
     <string name="how_to_play_hex_paragraph2">Am Ende eines jeden Spielzugs, wird <b>eine neue Kachel</b> zufällig auf das Gitter platziert. Das Spiel endet, wenn Du keinen Zug mehr machen kannst.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">Theme</string>
+    <string-array name="preference_theme_entries">
+        <item>Hell</item>
+        <item>Dunkel</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Ein neues dunkles Theme ist in den Einstellungen verfügbar!</item>
         <item>Fehlerbehebungen &amp; Erweiterungen</item>
     </string-array>
 

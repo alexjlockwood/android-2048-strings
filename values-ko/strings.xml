@@ -101,7 +101,7 @@
     <string name="whats_new">새 소식</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">버전 %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>새 게임: 헥스!</item>
         <item>16384는 이제 무료입니다!</item>
         <item>부드럽고 매끈한 에니메이</item>
@@ -114,11 +114,13 @@
     <string name="how_to_play_hex_paragraph2">매 움직임의 끝에 <b>하나의 새 타일</b>이 무작위로 격자에 배치됩니다. 더 이상 움직일 수 없으면 게임이 끝납니다.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
-    <string name="theme_light"></string>
-    <string name="theme_dark"></string>
+    <string name="theme">테마</string>
+    <string-array name="preference_theme_entries">
+        <item>라이트</item>
+        <item>다크</item>
+    </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>설정에서 새로 추가된 다크 테마를 사용할 수 있습니다!</item>
         <item>버그 수정과 향상</item>
     </string-array>
 
