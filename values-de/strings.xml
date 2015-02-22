@@ -102,7 +102,7 @@
     <string name="whats_new">Neuerungen</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Version %1$s</string>
-    <string-array name="whats_new_features">
+    <string-array name="whats_new_features_v12">
         <item>Neues Spiel: Hex!</item>
         <item>16384 ist nun kostenlos!</item>
         <item>Glatte, zügige Animationen</item>

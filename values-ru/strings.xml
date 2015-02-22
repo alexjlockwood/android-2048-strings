@@ -19,7 +19,7 @@
     <!-- GAME ACTIVITY -->
     <string name="score">Счёт</string>
     <string name="best">Рекорд</string>
-    <string name="share_screenshot">Поделиться Скриншотом</string>
+    <string name="share_screenshot">Скриншот</string>
     <string name="show_time">Показывать Время</string>
 
     <!-- DIALOGS -->
@@ -92,9 +92,9 @@
     <string name="failed_to_complete_purchase">Не удалось завершить покупку</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed">Не удалось войти. Пожалуйста, проверьте подключение к сети и повторите попытку.</string>
+    <string name="play_games_sign_in_failed">Не удалось войти. Проверьте соединение с Интернетом и попробуйте еще раз.</string>
     <string name="unknown_error">Неизвестная ошибка</string>
-    <string name="unknown_error_please_try_again_later">Неизвестная ошибка. Пожалуйста, повторите попытку позже.</string>
+    <string name="unknown_error_please_try_again_later">Неизвестная ошибка. Пожалуйста, попробуйте позже.</string>
     <string name="buy_all_games_purchase_description">Купить все игры, включая новые игры, которые мы выпустим в будущем!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->

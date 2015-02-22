@@ -86,14 +86,14 @@
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
     <string name="screenshot_saved_to_gallery">Snímka obrazovky bola umiestnená do galérie</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot">Chyba pri získavaní snímky obrazovky.</string>
+    <string name="failed_to_take_screenshot">Chyba pri získavaní snímky obrazovky</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Chyba pri platbe</string>
 
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Chyba pri prihlasovaní do účtu. Skonrolujte si prosím Vaše pripojenie a skúste to znova.</string>
     <string name="unknown_error">Neznáma chyba.</string>
-    <string name="unknown_error_please_try_again_later">Neznáma chyba. Skúste prosím neskôr</string>
+    <string name="unknown_error_please_try_again_later">Neznáma chyba. Skúste prosím neskôr.</string>
     <string name="buy_all_games_purchase_description">Kúpiť všetky hry, vrátanie hier, ktoré prídu v budúcnosti!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
@@ -114,13 +114,13 @@
     <string name="how_to_play_hex_paragraph2">Na konci každého ťahu sa <b>1 nový šesťuholník</b> náhodne umiestni na hraciu plochu. Hra sa končí, keď nie je možné vykonať ďalší ťah.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
+    <string name="theme">Farebný motív</string>
     <string-array name="preference_theme_entries">
-        <item></item>
-        <item></item>
+        <item>Svetlý</item>
+        <item>Tmavý</item>
     </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Nový tmavý farebný motív sa nachádza v nastaveniach</item>
         <item>Vylepšenia a opravené chyby</item>
     </string-array>
 

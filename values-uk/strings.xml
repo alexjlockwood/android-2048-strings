@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- strings.xml (Ukranian translation) -->
+<!-- strings.xml (Ukrainian translation) -->
 <resources>
 
     <!-- MAIN ACTIVITY -->
@@ -90,7 +90,7 @@
     <string name="failed_to_take_screenshot">Не вдалося зробити знімок екрану</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Не вдалося закінчити покупку</string>
-    
+
     <!-- MISC STRINGS -->
     <string name="play_games_sign_in_failed">Не вдалося увійти. Будь ласка, перевірте з\'єднання з інтернетом та спробуйте знов.</string>
     <string name="unknown_error">Невідома помилка</string>

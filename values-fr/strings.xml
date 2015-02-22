@@ -98,7 +98,7 @@
     <string name="buy_all_games_purchase_description">Achete tous nos jeux, y compris les nouveaux jeux que nous allons créer!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app">Notez l'appli</string>
+    <string name="rate_app">Notez l\'appli</string>
     <string name="whats_new">Nouveautés</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">Version %1$s</string>
@@ -111,17 +111,17 @@
     <string name="enjoy">Amusez-vous bien!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1">Swipe gauche, droit, ou en diagonal pour faire glisser les carrés sur la grille. Quand <b>trois carrés-1</b> ou n'importe quels autre <b>paire de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
+    <string name="how_to_play_hex_paragraph1">Swipe gauche, droit, ou en diagonal pour faire glisser les carrés sur la grille. Quand <b>trois carrés-1</b> ou n\'importe quels autre <b>paire de carrés</b> ayant le même nombre se touchent, ils fusionnent en un seul.</string>
     <string name="how_to_play_hex_paragraph2">Après chaque coup, <b>1 nouveau carré</b> est ajouté au hasard sur la grille. Le jeu se termine quand on ne peut plus bouger.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme"></string>
+    <string name="theme">Thème</string>
     <string-array name="preference_theme_entries">
-        <item></item>
-        <item></item>
+        <item>Clair</item>
+        <item>Foncé</item>
     </string-array>
     <string-array name="whats_new_features_v22">
-        <item></item>
+        <item>Nouveau thème foncé disponible dans les paramètres</item>
         <item>Corrections de bugs &amp; améliorations</item>
     </string-array>
 
