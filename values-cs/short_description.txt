@@ -1,4 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-Konečně krásná 2048 aplikace která je na 100% přirozená a na 100% zdarma!
+Konečně krásná 2048 aplikace která je na 100% přirozená a na 100% bez reklam!
