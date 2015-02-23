@@ -4,7 +4,7 @@ Full description (4000 character limit)
 2048++ je nečistší a nejlepší 2048 aplikace pro android. 
 
 * 3 herní režimy zdarma: 2048, 243 a 16384.
-* 4 další herní režimy dostupné za in-app nákupy: hex, blitz, fibonacci a 144.
+* 4 další herní režimy dostupné za in-app nákupy:Hex,Blitz,Fibonacci a 144.
 * Jednoduchý barevný design, inspirováno material designem.
 * Šíleně krásné a realistické animace.
 * Synchronizuje vaše nejlepší skóre ve všech vašich zařízeních.
