@@ -2,126 +2,126 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game">New Game</string>
-    <string name="resume">Resume</string>
-    <string name="free">Free</string>
+    <string name="new_game">Nová hra</string>
+    <string name="resume">Obnovit</string>
+    <string name="free">Zdarma</string>
     <string name="pro">Pro</string>
-    <string name="how_to_play">How to Play</string>
-    <string name="buy_game">Buy Game</string>
-    <string name="buy_all_games">Buy All Games</string>
-    <string name="more_games_coming_soon">More games coming soon!</string>
-    <string name="achievements">Achievements</string>
-    <string name="leaderboards">Leaderboards</string>
-    <string name="settings">Settings</string>
-    <string name="send_feedback">Send Feedback</string>
+    <string name="how_to_play">Jak hrát</string>
+    <string name="buy_game">Koupit hru</string>
+    <string name="buy_all_games">Koupit všechny hry</string>
+    <string name="more_games_coming_soon">Další hry již brzy!</string>
+    <string name="achievements">Úspěchy</string>
+    <string name="leaderboards">Žebříčky</string>
+    <string name="settings">Nastavení</string>
+    <string name="send_feedback">Odeslat zpětnou vazbu</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score">Score</string>
-    <string name="best">Best</string>
-    <string name="share_screenshot">Share Screenshot</string>
-    <string name="show_time">Show Time</string>
+    <string name="score">Skóre</string>
+    <string name="best">Nejvyšší skóre</string>
+    <string name="share_screenshot">Sdílet Screenshot</string>
+    <string name="show_time">Zobrazit čas</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning">Are you sure?</string>
-    <string name="start_new_game_warning">Starting a new game will erase your previous game.</string>
-    <string name="start_new_game_warning_current">Starting a new game will erase your current game.</string>
-    <string name="game_over">Game Over</string>
-    <string name="moves">Moves</string>
-    <string name="time">Time</string>
-    <string name="sign_in_with_google_dialog_message">Sign in with Google to earn achievements and sync your high scores with the cloud.</string>
-
+    <string name="are_you_sure_warning">Opravdu?</string>
+    <string name="start_new_game_warning">Spuštění nové hry smaže vaší předchozí hru.</string>
+    <string name="start_new_game_warning_current">Spuštění nové hry smaže vaší aktuální hru.</string>
+    <string name="game_over">Konec hry</string>
+    <string name="moves">Pohybů</string>
+    <string name="time">Čas</string>
+    <string name="sign_in_with_google_dialog_message">Přihlaš se přes google k udělování úspěchů a synchronizací vašeho nejvyššího skóre do cloudu.</string>
+    
     <!-- SETTINGS ACTIVITY -->
-    <string name="about">About</string>
-    <string name="rate">Rate</string>
-    <string name="share">Share</string>
-    <string name="show_us_your_support">Show us your support!</string>
-    <string name="share_with_your_friends">Share 2048++ with your friends!</string>
-    <string name="google_play_games">Google Play Games</string>
-    <string name="sign_in">Sign in</string>
-    <string name="sign_out">Sign out</string>
-    <string name="please_sign_in_again">Please sign in again</string>
-    <string name="sign_in_with_google_play_games">Sign in with Google Play Games</string>
-    <string name="manage_your_google_play_games_settings">Manage your Google Play Games settings</string>
+    <string name="about">O nás</string>
+    <string name="rate">Ohodnotit</string>
+    <string name="share">Sdílet</string>
+    <string name="show_us_your_support">Ukaž nám svou podporu!</string>
+    <string name="share_with_your_friends">Sdílej 2048++ s přáteli!</string>
+    <string name="google_play_games">Google Play Hry</string>
+    <string name="sign_in">Přihlásit se</string>
+    <string name="sign_out">Odhlásit se</string>
+    <string name="please_sign_in_again">Prosím přihlaš se znovu</string>
+    <string name="sign_in_with_google_play_games">Přihlaš se přes Google Play hry</string>
+    <string name="manage_your_google_play_games_settings">Spravuj nastavení google play her</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">You are about to sign out of this game as %1$s.</string>
+    <string name="confirm_sign_out_message">Opravdu se chceš odhlásit ze hry jako %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as">Currently signed in as: %1$s</string>
+    <string name="currently_signed_in_as">Právě přihlášen jako: %1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us">Contact Us</string>
+    <string name="contact_us">Kontaktuj nás</string>
     <string name="developed_and_designed_by">Developed &amp; Designed By</string>
-    <string name="special_thanks_to">Special Thanks To</string>
+    <string name="special_thanks_to">Speciální poděkování</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by">Translations By</string>
+    <string name="translations_by">Překlad:</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>2 tiles</b> with the same number touch, they merge into one.</string>
-    <string name="how_to_play_2048_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 2048 tile?</string>
-    <string name="how_to_play_243_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>3 tiles</b> with the same number touch, they merge into one.</string>
-    <string name="how_to_play_243_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 243 tile?</string>
-    <string name="how_to_play_16384_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When either <b>2 or 4 tiles</b> with the same number touch, they merge into one.</string>
-    <string name="how_to_play_16384_paragraph2">At the end of each move, <b>2 new tiles</b> are placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 16384 tile?</string>
-    <string name="how_to_play_blitz_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When exactly <b>2 tiles</b> with the same number touch, they merge into one.</string>
-    <string name="how_to_play_blitz_paragraph2">New tiles are placed randomly on the grid at fixed intervals, <b>not</b> after each move. The game ends when the grid becomes full and no more tiles can be placed. Can you create the 2048 tile?</string>
-    <string name="how_to_play_fibonacci_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When <b>2 consecutive Fibonacci numbers</b> touch, they merge into one to form the next Fibonacci number in the sequence.</string>
-    <string name="how_to_play_fibonacci_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
-    <string name="how_to_play_fibonacci_hint"><b>Hint:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
-    <string name="how_to_play_144_paragraph1">Swipe left, right, up, or down to slide the tiles across the grid. When <b>any number of tiles</b> with same number touch, they merge into one.</string>
-    <string name="how_to_play_144_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move. Can you create the 144 tile?</string>
-    <string name="how_to_play_144_hint"><b>Hint:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
-    <string name="tap_to_play_random_move">Tap the grid to play a random move!</string>
+    <string name="how_to_play_2048_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_2048_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
+    <string name="how_to_play_243_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 3 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_243_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 243?</string>
+    <string name="how_to_play_16384_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 nebo 4 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_16384_paragraph2">Po každém pohybu se přídají 2 nové dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.>/string>
+    <string name="how_to_play_blitz_paragraph2">Nové dlaždice se přidají po určitém intervalu, nikoliv po pohybu. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se slučí do jedné, pokuď odpovídají pořadí.</string>
+    <string name="how_to_play_fibonacci_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
+    <string name="how_to_play_fibonacci_hint">Nápověda: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. Jakýkoliv počet dlaždic se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_144_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelye provést tah. Dokážeš udělat dlaždici s číslem 144?</string>
+    <string name="how_to_play_144_hint">Nápověda: 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="tap_to_play_random_move">Kliknutím zahraješ náhodný tah!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with">Share with</string>
+    <string name="share_with">sdílet</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message">Check out #2048++ on the Play Store!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_app_message">Vyzkoušej aplikaci #2048++ v obchodě google play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">I scored %1$d in a game of %2$s while playing #2048++!\n\nCheck out the app on the Play Store! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">Skóroval jsem %1$d v herním módu %2$s ve hře #2048++!\n\nZkus tuto hru také v obchodě google play! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery">Screenshot saved to gallery</string>
+    <string name="screenshot_saved_to_gallery">Screenshot uložen do galérie</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot">Failed to take screenshot</string>
+    <string name="failed_to_take_screenshot">Pří ukládání došlo k chybě</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
-    <string name="failed_to_complete_purchase">Failed to complete purchase</string>
+    <string name="failed_to_complete_purchase">Při nákupu došlo k chybě</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
-    <string name="unknown_error">Unknown error</string>
-    <string name="unknown_error_please_try_again_later">Unknown error. Please try again later.</string>
-    <string name="buy_all_games_purchase_description">Buy all games, including any new games we release in the future!</string>
+    <string name="play_games_sign_in_failed">Při přihlašování došlo k chybě. Zkontrolujte internetové připojení a zkuste to znovu.</string>
+    <string name="unknown_error">Neznámá chyba</string>
+    <string name="unknown_error_please_try_again_later">Neznámá chyba. Prosím zkuste to znovu později.</string>
+    <string name="buy_all_games_purchase_description">Koupě všech her zahrnuje i hry přidané v budoucnosti!</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app">Rate app</string>
-    <string name="whats_new">What\'s new</string>
+    <string name="rate_app">Ohodnoť aplikaci</string>
+    <string name="whats_new">Co je nového?</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
-    <string name="version_number_format">Version %1$s</string>
+    <string name="version_number_format">Verze %1$s</string>
     <string-array name="whats_new_features_v12">
-        <item>New game: Hex!</item>
-        <item>16384 is now free!</item>
-        <item>Smoother, slicker animations</item>
-        <item>Bug fixes &amp; enhancements</item>
+        <item>Nová hra: Hex!</item>
+        <item>16384 je nyní zdarma!</item>
+        <item>Nové animace</item>
+        <item>Opraveny chyby &amp; vylepšení</item>
     </string-array>
-    <string name="enjoy">Enjoy!</string>
+    <string name="enjoy">Užijte si to!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1">Swipe left, right, or diagonally to slide the tiles across the grid. When <b>three 1-tiles</b> or any other <b>two tiles</b> with same number touch, they merge into one.</string>
-    <string name="how_to_play_hex_paragraph2">At the end of each move, <b>1 new tile</b> is placed randomly on the grid. The game ends when you can no longer make a move.</string>
+    <string name="how_to_play_hex_paragraph1">Přejeď doleva, doprava nebo diagonálně k posunutí dlaždice po ploše.3 dlaždice s číslem 1 nebo jakékoliv 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_hex_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. </string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme">Theme</string>
+    <string name="theme">Motiv</string>
     <string-array name="preference_theme_entries">
-        <item>Light</item>
-        <item>Dark</item>
+        <item>Světlý</item>
+        <item>Tmavý</item>
     </string-array>
     <string-array name="whats_new_features_v22">
-        <item>New dark theme available in the settings!</item>
-        <item>Bug fixes &amp; enhancements</item>
+        <item>Nový tmavý motiv dostupný v nastavení!</item>
+        <item>Opraveny chyby &amp; vylepšení</item>
     </string-array>
 
 </resources>
