@@ -98,6 +98,7 @@ Support for the following languages have been published to the Play Store:
  * German (de)
  * Spanish (es)
  * Italian (it)
+ * Korean (ko)
  * Polish (pl)
  * Portuguese (pt-rBR)
  * Romainian (ro)
