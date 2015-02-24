@@ -1,17 +1,17 @@
 Full description (4000 character limit)
 ======================================
 
-<b>2048++</b> is hands down the cleanest, most responsive 2048 app for Android.
+<b>2048++</b> je nejčistší a nejlepší 2048 aplikace pro android. 
 
-* 3 free game modes/variants: <b>2048, 243, and 16384.</b>
-* 4 additional game modes/variants available as in-app purchases: <b>Hex, Blitz, Fibonacci, and 144.</b>
-* A simple design with a colorful, Material Design inspired user interface.
-* Insanely smooth and realistic animations.
-* Synchronize your high scores across all your devices.
-* Sign in with Google Play Games for leaderboards and achievements.
-* 100% native and 100% Ad-Free.
+* 3 herní režimy zdarma: <b>2048, 243 a 16384.</b>
+* 4 další herní režimy dostupné za in-app nákupy: <b>Hex, Blitz, Fibonacci a 144.</b>
+* Jednoduchý barevný design, inspirováno material designem.
+* Šíleně krásné a realistické animace.
+* Synchronizuje vaše nejlepší skóre ve všech vašich zařízeních.
+* Přihlašte se přes Google Play hry pro žebříčky a úspěchy.
+* 100% přirozená a 100% bez reklam.
 
-<b>2048 is a classic puzzle game that is easy to grasp and very addictive.</b> Swipe left, right, up, or down to slide the tiles across the grid. When two tiles with the same number touch, they merge into one. The game ends when you can no longer make a move. Begin joining the numbers and you won’t be able to stop!
+<b>2048 je klasická logická hra, lehká na pochopení a velmi návyková.</b> Přejeďte doleva, doprava, nahoru nebo dolů a posunete dlaždici po ploše. Když mají dvě dlaždice stejné číslo sloučí se do jedné. Hra končí pokuď již nelze provést tah. Začněte spojovat čísla a již nebudete moci přestat!
 
 <b>Developed & Designed by:</b>
 Alex Lockwood & Shannon Lee
