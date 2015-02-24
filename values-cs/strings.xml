@@ -2,13 +2,13 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game">Nová hra</string>
+    <string name="new_game">Nová Hra</string>
     <string name="resume">Obnovit</string>
     <string name="free">Zdarma</string>
     <string name="pro">Pro</string>
-    <string name="how_to_play">Jak hrát</string>
-    <string name="buy_game">Koupit hru</string>
-    <string name="buy_all_games">Koupit všechny hry</string>
+    <string name="how_to_play">Jak Hrát</string>
+    <string name="buy_game">Koupit Hru</string>
+    <string name="buy_all_games">Koupit Všechny Hry</string>
     <string name="more_games_coming_soon">Další hry již brzy!</string>
     <string name="achievements">Úspěchy</string>
     <string name="leaderboards">Žebříčky</string>
@@ -25,10 +25,10 @@
     <string name="are_you_sure_warning">Opravdu?</string>
     <string name="start_new_game_warning">Spuštění nové hry smaže vaší předchozí hru.</string>
     <string name="start_new_game_warning_current">Spuštění nové hry smaže vaší aktuální hru.</string>
-    <string name="game_over">Konec hry</string>
+    <string name="game_over">Konec Hry</string>
     <string name="moves">Pohybů</string>
     <string name="time">Čas</string>
-    <string name="sign_in_with_google_dialog_message">Přihlaš se přes google k udělování úspěchů a synchronizací vašeho nejvyššího skóre do cloudu.</string>
+    <string name="sign_in_with_google_dialog_message">Přihlaš se přes Google k udělování úspěchů a synchronizací vašeho nejvyššího skóre do cloudu.</string>
     
     <!-- SETTINGS ACTIVITY -->
     <string name="about">O nás</string>
@@ -36,12 +36,12 @@
     <string name="share">Sdílet</string>
     <string name="show_us_your_support">Ukaž nám svou podporu!</string>
     <string name="share_with_your_friends">Sdílej 2048++ s přáteli!</string>
-    <string name="google_play_games">Google Play Hry</string>
+    <string name="google_play_games">Google Play hry</string>
     <string name="sign_in">Přihlásit se</string>
     <string name="sign_out">Odhlásit se</string>
     <string name="please_sign_in_again">Prosím přihlaš se znovu</string>
     <string name="sign_in_with_google_play_games">Přihlaš se přes Google Play hry</string>
-    <string name="manage_your_google_play_games_settings">Spravuj nastavení google play her</string>
+    <string name="manage_your_google_play_games_settings">Spravuj nastavení Google Play her</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
     <string name="confirm_sign_out_message">Opravdu se chceš odhlásit ze hry jako %1$s.</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
@@ -56,37 +56,37 @@
     <string name="translations_by">Překlad:</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_2048_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
-    <string name="how_to_play_243_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 3 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_243_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 243?</string>
-    <string name="how_to_play_16384_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 nebo 4 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_16384_paragraph2">Po každém pohybu se přídají 2 nové dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 16384?</string>
-    <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.>/string>
-    <string name="how_to_play_blitz_paragraph2">Nové dlaždice se přidají po určitém intervalu, nikoliv po pohybu. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
-    <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. 2 dlaždice se slučí do jedné, pokuď odpovídají pořadí.</string>
-    <string name="how_to_play_fibonacci_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
-    <string name="how_to_play_fibonacci_hint">Nápověda: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
-    <string name="how_to_play_144_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. Jakýkoliv počet dlaždic se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_144_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelye provést tah. Dokážeš udělat dlaždici s číslem 144?</string>
-    <string name="how_to_play_144_hint">Nápověda: 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
+    <string name="how_to_play_2048_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_2048_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
+    <string name="how_to_play_243_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>3 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_243_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 243?</string>
+    <string name="how_to_play_16384_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 nebo 4 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_16384_paragraph2">Po každém pohybu se přídají <b>2 nové dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 16384?</string>
+    <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.>/string>
+    <string name="how_to_play_blitz_paragraph2">Nové dlaždice se přidají po určitém intervalu, <b>nikoliv</b> po pohybu. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
+    <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se slučí do jedné, <b>pokuď odpovídají pořadí.</b></string>
+    <string name="how_to_play_fibonacci_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
+    <string name="how_to_play_fibonacci_hint"><b>Nápověda:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
+    <string name="how_to_play_144_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>Jakýkoliv počet dlaždic</b> se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_144_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 144?</string>
+    <string name="how_to_play_144_hint"><b>Nápověda:</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
     <string name="tap_to_play_random_move">Kliknutím zahraješ náhodný tah!</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
     <string name="share_with">sdílet</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message">Vyzkoušej aplikaci #2048++ v obchodě google play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_app_message">Vyzkoušej aplikaci #2048++ v obchodě Google Play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">Skóroval jsem %1$d v herním módu %2$s ve hře #2048++!\n\nZkus tuto hru také v obchodě google play! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">Skóroval jsem %1$d v herním módu %2$s ve hře #2048++!\n\nZkus tuto hru také v obchodě Google Play! https://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
     <string name="screenshot_saved_to_gallery">Screenshot uložen do galérie</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot">Pří ukládání došlo k chybě</string>
+    <string name="failed_to_take_screenshot">Při ukládání došlo k chybě</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">Při nákupu došlo k chybě</string>
 
@@ -110,8 +110,8 @@
     <string name="enjoy">Užijte si to!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1">Přejeď doleva, doprava nebo diagonálně k posunutí dlaždice po ploše.3 dlaždice s číslem 1 nebo jakékoliv 2 dlaždice se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_hex_paragraph2">Po každém pohybu se přidá nová dlaždice kdekoliv na ploše. Hra končí pokuď již nelze provést tah. </string>
+    <string name="how_to_play_hex_paragraph1">Přejeď doleva, doprava nebo diagonálně k posunutí dlaždice po ploše. <b>3 dlaždice s číslem 1</b> nebo jakékoliv <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
+    <string name="how_to_play_hex_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. </string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
     <string name="theme">Motiv</string>
