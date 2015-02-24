@@ -1,17 +1,17 @@
 Full description (4000 character limit)
 ======================================
 
-2048++ je nečistší a nejlepší 2048 aplikace pro android. 
+<b>2048++</b> je nejčistší a nejlepší 2048 aplikace pro android. 
 
-* 3 herní režimy zdarma: 2048, 243 a 16384.
-* 4 další herní režimy dostupné za in-app nákupy:Hex,Blitz,Fibonacci a 144.
+* 3 herní režimy zdarma: <b>2048, 243 a 16384.</b>
+* 4 další herní režimy dostupné za in-app nákupy: <b>Hex,Blitz,Fibonacci a 144.</b>
 * Jednoduchý barevný design, inspirováno material designem.
 * Šíleně krásné a realistické animace.
 * Synchronizuje vaše nejlepší skóre ve všech vašich zařízeních.
-* Přihlašte se přes google play hry pro žebříčky a ůspěchy.
+* Přihlašte se přes Google Play hry pro žebříčky a úspěchy.
 * 100% přirozená a 100% bez reklam.
 
-2048 je klasická logická hra, lehká na pochopení a velmi návyková. Přejeďte doleva, doprava, nahoru nebo dolů a posunete dlaždici po ploše. Když mají dvě dlaždice stejné číslo sloučí se do jedné. Hra končí pokuď již nelze provést tah. Začněte spojovat čísla a již nebudete moci přestat!
+<b>2048 je klasická logická hra, lehká na pochopení a velmi návyková.</b> Přejeďte doleva, doprava, nahoru nebo dolů a posunete dlaždici po ploše. Když mají dvě dlaždice stejné číslo sloučí se do jedné. Hra končí pokuď již nelze provést tah. Začněte spojovat čísla a již nebudete moci přestat!
 
-Developed & Designed by:
+<b>Developed & Designed by:</b>
 Alex Lockwood & Shannon Lee
