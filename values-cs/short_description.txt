@@ -1,5 +1,4 @@
 Short description (80 character limit)
 ======================================
 
-Finally a beautifully designed 2048 app that is 100% native and 100% ad-free!
-
+Konečně krásná 2048 aplikace která je na 100% přirozená a na 100% bez reklam!
