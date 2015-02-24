@@ -74,7 +74,7 @@
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with">sdílet</string>
+    <string name="share_with">Sdílet</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
     <string name="share_app_message">Vyzkoušej aplikaci #2048++ v obchodě Google Play!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
@@ -111,7 +111,7 @@
 
     <!-- HOW TO PLAY HEX STRINGS -->
     <string name="how_to_play_hex_paragraph1">Přejeď doleva, doprava nebo diagonálně k posunutí dlaždice po ploše. <b>3 dlaždice s číslem 1</b> nebo jakékoliv <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
-    <string name="how_to_play_hex_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. </string>
+    <string name="how_to_play_hex_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
     <string name="theme">Motiv</string>
