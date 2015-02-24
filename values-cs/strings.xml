@@ -62,7 +62,7 @@
     <string name="how_to_play_243_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 243?</string>
     <string name="how_to_play_16384_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 nebo 4 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
     <string name="how_to_play_16384_paragraph2">Po každém pohybu se přídají <b>2 nové dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 16384?</string>
-    <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.>/string>
+    <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
     <string name="how_to_play_blitz_paragraph2">Nové dlaždice se přidají po určitém intervalu, <b>nikoliv</b> po pohybu. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
     <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se slučí do jedné, <b>pokuď odpovídají pořadí.</b></string>
     <string name="how_to_play_fibonacci_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
