@@ -64,7 +64,7 @@
     <string name="how_to_play_16384_paragraph2">Po každém pohybu se přídají <b>2 nové dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 16384?</string>
     <string name="how_to_play_blitz_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné pokuď mají stejné čísla.</string>
     <string name="how_to_play_blitz_paragraph2">Nové dlaždice se přidají po určitém intervalu, <b>nikoliv</b> po pohybu. Hra končí pokuď již nelze provést tah. Dokážeš udělat dlaždici s číslem 2048?</string>
-    <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se slučí do jedné, <b>pokuď odpovídají pořadí.</b></string>
+    <string name="how_to_play_fibonacci_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>2 dlaždice</b> se sloučí do jedné, <b>pokuď odpovídají pořadí.</b></string>
     <string name="how_to_play_fibonacci_paragraph2">Po každém pohybu se přidá <b>1 nová dlaždice</b> kdekoliv na ploše. Hra končí pokuď již nelze provést tah.</string>
     <string name="how_to_play_fibonacci_hint"><b>Nápověda:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
     <string name="how_to_play_144_paragraph1">Přejeď doleva, doprava, nahoru nebo dolů k posunutí dlaždice po ploše. <b>Jakýkoliv počet dlaždic</b> se sloučí do jedné pokuď mají stejné čísla.</string>
@@ -84,7 +84,7 @@
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery">Screenshot uložen do galérie</string>
+    <string name="screenshot_saved_to_gallery">Screenshot uložen do galerie</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
     <string name="failed_to_take_screenshot">Při ukládání došlo k chybě</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
