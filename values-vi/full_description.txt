@@ -1,0 +1,17 @@
+Full description (4000 character limit)
+======================================
+
+<b>2048++</b> is hands down the cleanest, most responsive 2048 app for Android.
+
+* 3 free game modes/variants: <b>2048, 243, and 16384.</b>
+* 4 additional game modes/variants available as in-app purchases: <b>Hex, Blitz, Fibonacci, and 144.</b>
+* A simple design with a colorful, Material Design inspired user interface.
+* Insanely smooth and realistic animations.
+* Synchronize your high scores across all your devices.
+* Sign in with Google Play Games for leaderboards and achievements.
+* 100% native and 100% Ad-Free.
+
+<b>2048 is a classic puzzle game that is easy to grasp and very addictive.</b> Swipe left, right, up, or down to slide the tiles across the grid. When two tiles with the same number touch, they merge into one. The game ends when you can no longer make a move. Begin joining the numbers and you won’t be able to stop!
+
+<b>Developed & Designed by:</b>
+Alex Lockwood & Shannon Lee
