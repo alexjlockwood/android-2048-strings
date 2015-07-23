@@ -3,126 +3,126 @@
 <resources>
 
     <!-- MAIN ACTIVITY -->
-    <string name="new_game">新遊戲</string>
-    <string name="resume">回到遊戲</string>
-    <string name="free">免費</string>
-    <string name="pro">付費</string>
-    <string name="how_to_play">遊戲教學</string>
-    <string name="buy_game">購買遊戲</string>
-    <string name="buy_all_games">購買全部遊戲</string>
-    <string name="more_games_coming_soon">更多遊戲即將推出</string>
+    <string name="new_game">新游戏</string>
+    <string name="resume">回到游戏</string>
+    <string name="free">免费</string>
+    <string name="pro">付费</string>
+    <string name="how_to_play">游戏教学</string>
+    <string name="buy_game">购买游戏</string>
+    <string name="buy_all_games">购买全部游戏</string>
+    <string name="more_games_coming_soon">更多游戏即将推出</string>
     <string name="achievements">成就</string>
     <string name="leaderboards">排行榜</string>
-    <string name="settings">設定</string>
-    <string name="send_feedback">意見回饋</string>
+    <string name="settings">设定</string>
+    <string name="send_feedback">意见回馈</string>
 
     <!-- GAME ACTIVITY -->
-    <string name="score">分數</string>
+    <string name="score">分数</string>
     <string name="best">最高分</string>
-    <string name="share_screenshot">分享螢幕截圖</string>
-    <string name="show_time">顯示時間</string>
+    <string name="share_screenshot">分享萤幕截图</string>
+    <string name="show_time">显示时间</string>
 
     <!-- DIALOGS -->
-    <string name="are_you_sure_warning">確定？</string>
-    <string name="start_new_game_warning">開始新遊戲將會清除之前的遊戲進度</string>
-    <string name="start_new_game_warning_current">開始新遊戲將會清除現在的遊戲進度</string>
-    <string name="game_over">遊戲結束</string>
-    <string name="moves">移動次數</string>
+    <string name="are_you_sure_warning">确定？</string>
+    <string name="start_new_game_warning">开始新游戏将会清除之前的游戏进度</string>
+    <string name="start_new_game_warning_current">开始新游戏将会清除现在的游戏进度</string>
+    <string name="game_over">游戏结束</string>
+    <string name="moves">移动次数</string>
     <string name="time">遊戲時間</string>
-    <string name="sign_in_with_google_dialog_message">登入 Google 來獲得成就和同步最高分數</string>
+    <string name="sign_in_with_google_dialog_message">登入 Google 来获得成就和同步最高分数</string>
 
     <!-- SETTINGS ACTIVITY -->
-    <string name="about">關於</string>
-    <string name="rate">評分</string>
+    <string name="about">关于</string>
+    <string name="rate">评分</string>
     <string name="share">分享</string>
-    <string name="show_us_your_support">給我們一點支持吧！</string>
-    <string name="share_with_your_friends">分享給好友們！</string>
-    <string name="google_play_games">Google Play 遊戲</string>
+    <string name="show_us_your_support">给我们一点支持吧！</string>
+    <string name="share_with_your_friends">分享给好友们！</string>
+    <string name="google_play_games">Google Play 游戏</string>
     <string name="sign_in">登入</string>
     <string name="sign_out">登出</string>
-    <string name="please_sign_in_again">請再登入一次</string>
-    <string name="sign_in_with_google_play_games">登入 Google Play 遊戲</string>
-    <string name="manage_your_google_play_games_settings">管理 Google Play 遊戲設定</string>
+    <string name="please_sign_in_again">请再登入一次</string>
+    <string name="sign_in_with_google_play_games">登入 Google Play 游戏</string>
+    <string name="manage_your_google_play_games_settings">管理 Google Play 游戏设定</string>
     <!-- The format string argument is an email address (i.e. "You are about to sign out of this game as alexjlockwood@gmail.com.") -->
-    <string name="confirm_sign_out_message">您將要從 %1$s 登出遊戲</string>
+    <string name="confirm_sign_out_message">您将要从 %1$s 登出游戏</string>
     <!-- The format string argument is an email address (i.e. "Currently signed in as: alexjlockwood@gmail.com") -->
-    <string name="currently_signed_in_as">現在登入的帳號是：%1$s</string>
+    <string name="currently_signed_in_as">现在登入的帐号是：%1$s</string>
 
     <!-- ABOUT ACTIVITY -->
-    <string name="contact_us">聯絡我們</string>
-    <string name="developed_and_designed_by">開發者和設計者</string>
-    <string name="special_thanks_to">特別感謝</string>
+    <string name="contact_us">联络我们</string>
+    <string name="developed_and_designed_by">开发者和设计者</string>
+    <string name="special_thanks_to">特别感谢</string>
     <!-- This is where I will give you credit in the About activity for helping me translate the app. :)
          This string isn't used in the application yet... but it will be when the translations are released! -->
-    <string name="translations_by">譯者</string>
+    <string name="translations_by">译者</string>
 
     <!-- HOW TO PLAY ACTIVITY -->
-    <string name="how_to_play_2048_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>2塊磚</b>碰撞後，它們會合併成一個。</string>
-    <string name="how_to_play_2048_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。您有辦法創建出2048磚嗎？</string>
-    <string name="how_to_play_243_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>3塊磚</b>碰撞後，它們會合併成一個。</string>
-    <string name="how_to_play_243_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。您有辦法創建出243磚嗎？</string>
-    <string name="how_to_play_16384_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>2塊或4塊磚</b>碰撞後，它們會合併成一個。</string>
-    <string name="how_to_play_16384_paragraph2">在每次移動結束後，<b>2塊新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。您有辦法創建出16384磚嗎？</string>
-    <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>2塊磚</b>碰撞後，它們會合併成一個。</string>
-    <string name="how_to_play_blitz_paragraph2">新的磚會以固定的時間間隔產生，並且被隨機放置在格子上，<b>不是</b>在每次移動後產生。當格子被填滿並且沒有更多的磚可以放置時，遊戲則會結束。您有辦法創建出2048磚嗎？</string>
-    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑動格子內的磚。當<b>連續2個斐波那契數字</b>碰撞後，它們會合併成一個，形成序列中的下一個斐波那契數字。</string>
-    <string name="how_to_play_fibonacci_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。</string>
+    <string name="how_to_play_2048_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_2048_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出2048砖吗？</string>
+    <string name="how_to_play_243_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>3块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_243_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出243砖吗？</string>
+    <string name="how_to_play_16384_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块或4块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_16384_paragraph2">在每次移动结束后，<b>2块新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出16384砖吗？</string>
+    <string name="how_to_play_blitz_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>2块砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_blitz_paragraph2">新的砖会以固定的时间间隔产生，并且被随机放置在格子上，<b>不是</b>在每次移动后产生。当格子被填满并且没有更多的砖可以放置时，游戏则会结束。您有办法创建出2048砖吗？</string>
+    <string name="how_to_play_fibonacci_paragraph1">向左，向右，向上或向下滑动格子内的砖。当<b>连续2个斐波那契数字</b>碰撞后，它们会合并成一个，形成序列中的下一个斐波那契数字。</string>
+    <string name="how_to_play_fibonacci_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。</string>
     <string name="how_to_play_fibonacci_hint"><b>提示：</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144&#8230;</string>
-    <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑動格子內的磚。當相同數字的<b>任意數量的磚</b>碰撞後，它們會合併成一個。</string>
-    <string name="how_to_play_144_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。您有辦法創建出144磚嗎？</string>
+    <string name="how_to_play_144_paragraph1">向左，向右，向上或向下滑动格子内的砖。当相同数字的<b>任意数量的砖</b>碰撞后，它们会合并成一个。</string>
+    <string name="how_to_play_144_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。您有办法创建出144砖吗？</string>
     <string name="how_to_play_144_hint"><b>提示：</b> 2 &#215; 2 &#215; 2 &#215; 2 &#215; 3 &#215; 3 = 144</string>
-    <string name="tap_to_play_random_move">點擊格子來玩一個隨機的移動！</string>
+    <string name="tap_to_play_random_move">点击格子来玩一个随机的移动！</string>
 
     <!-- SHARING STRINGS -->
     <!-- The title of the activity chooser when you click the "Share" preference in the Settings -->
-    <string name="share_with">分享透過</string>
+    <string name="share_with">分享透过</string>
     <!-- The default share message that is used when you click "Share" in the Settings and share with Google+, Facebook, etc. -->
-    <string name="share_app_message">快上 Play Store 下載 #2048++ 吧!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_app_message">快上 Play Store 下载 #2048++ 吧!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
     <!-- The default share message that is used when you click "Share Screenshot" and share with Google+, Facebook, etc.
          The first and second format string arguments are the game score and game name respectively
          (i.e. "I scored 20188 in a game of Blitz while playing #2048++!)" -->
-    <string name="share_screenshot_message">我在 #2048++ 的 %2$s 遊戲中得到 %1$d 分!\n\n快上 Play Store 下載 #2048++ 吧!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
+    <string name="share_screenshot_message">我在 #2048++ 的 %2$s 游戏中得到 %1$d 分!\n\n快上 Play Store 下载 #2048++ 吧!\n\nhttps://play.google.com/store/apps/details?id=com.alexjlockwood.twentyfortyeight</string>
 
     <!-- TOAST STRINGS -->
     <!-- Toast message that shows after a screenshot is taken and the picture is saved to the Gallery application -->
-    <string name="screenshot_saved_to_gallery">截圖已經儲存到相簿中</string>
+    <string name="screenshot_saved_to_gallery">截图已经储存到相簿中</string>
     <!-- Toast message that shows when there was a problem taking/saving a screenshot to the device -->
-    <string name="failed_to_take_screenshot">截圖失敗</string>
+    <string name="failed_to_take_screenshot">截图失败</string>
     <!-- Toast message that shows when there was a problem making an in-app purchase -->
     <string name="failed_to_complete_purchase">購買失敗</string>
 
     <!-- MISC STRINGS -->
-    <string name="play_games_sign_in_failed">登入失敗。請確認網路連線後，再登入一次。</string>
-    <string name="unknown_error">未知的錯誤</string>
-    <string name="unknown_error_please_try_again_later">未知的錯誤。請稍後再試一次。</string>
-    <string name="buy_all_games_purchase_description">買所有的遊戲，包含我們未來推出的新遊戲！</string>
+    <string name="play_games_sign_in_failed">登入失败。请确认网路连线后，再登入一次。</string>
+    <string name="unknown_error">未知的错误</string>
+    <string name="unknown_error_please_try_again_later">未知的错误。请稍后再试一次。</string>
+    <string name="buy_all_games_purchase_description">买所有的游戏，包含我们未来推出的新游戏！</string>
 
     <!-- WHAT'S NEW DIALOG STRINGS -->
-    <string name="rate_app">評價 app</string>
-    <string name="whats_new">新的發佈</string>
+    <string name="rate_app">评价 app</string>
+    <string name="whats_new">新的发布</string>
     <!-- '%1$s' will be replaced with the version number (e.g. '1.15') -->
     <string name="version_number_format">版本 %1$s</string>
     <string-array name="whats_new_features_v12">
-        <item>新遊戲：Hex！</item>
-        <item>16384 現在免費！</item>
-        <item>更順暢，靈活的動畫</item>
-        <item>錯誤修正 &amp; 提升效能</item>
+        <item>新游戏：Hex！</item>
+        <item>16384 现在免费！</item>
+        <item>更顺畅，灵活的动画</item>
+        <item>错误修正 &amp; 提升效能</item>
     </string-array>
     <string name="enjoy">Enjoy!</string>
 
     <!-- HOW TO PLAY HEX STRINGS -->
-    <string name="how_to_play_hex_paragraph1">向左，向右或對角的滑動格子內的磚。當<b>當3個 1 磚</b>或任何相同數目的<b>2個磚</b>碰觸後，它們會合併成一個。</string>
-    <string name="how_to_play_hex_paragraph2">在每次移動結束後，<b>1個新的磚</b>會被隨機放置在格子上。當無法再做移動時，遊戲則會結束。</string>
+    <string name="how_to_play_hex_paragraph1">向左，向右或对角的滑动格子内的砖。当<b>当3个1 砖</b>或任何相同数目的<b>2个砖</b>碰触后，它们会合并成一个。</string>
+    <string name="how_to_play_hex_paragraph2">在每次移动结束后，<b>1个新的砖</b>会被随机放置在格子上。当无法再做移动时，游戏则会结束。</string>
 
     <!-- LIGHT/DARK THEME STRINGS -->
-    <string name="theme">主題</string>
+    <string name="theme">主题</string>
     <string-array name="preference_theme_entries">
-        <item>淺色系</item>
+        <item>浅色系</item>
         <item>深色系</item>
     </string-array>
     <string-array name="whats_new_features_v22">
-        <item>新的深色主題可於設定中取得！</item>
-        <item>錯誤修正 &amp; 提升效能</item>
+        <item>新的深色主题可于设定中取得！</item>
+        <item>错误修正 &amp; 提升效能</item>
     </string-array>
 
 </resources>
